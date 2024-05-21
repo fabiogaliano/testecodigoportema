@@ -6,6 +6,7 @@
           <div class="flex items-center">
             <div class="flex-shrink-0">
               <svg
+                @click="menuStore.setSelectedCategory()"
                 class="h-8 w-8 text-indigo-300"
                 version="1.1"
                 xmlns="http://www.w3.org/2000/svg"

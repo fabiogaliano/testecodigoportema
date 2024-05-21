@@ -7,7 +7,6 @@
         @select="handleSelect"
         v-show="!menuStore.selectedCategory"
       />
-      <!-- <Scoreboard v-if="menuStore.selectedCategory" /> -->
       <Quizz
         v-if="menuStore.selectedCategory"
         :category="menuStore.selectedCategory"

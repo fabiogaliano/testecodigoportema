@@ -6,7 +6,9 @@
       class="w-full h-auto mt-8 mb-4"
     />
     <p class="text-lg font-semibold mb-4">
-      {{ currentQuestion.text }}
+      <a target="_blank" :href="currentQuestion.href">{{
+        currentQuestion.text
+      }}</a>
     </p>
     <div class="flex flex-col space-y-2 mb-8">
       <QuizzButton
@@ -19,11 +21,13 @@
         >{{ i + 1 }}.</QuizzButton
       >
     </div>
+    <br />
   </div>
 </template>
 
 <script setup>
   import { defineProps, defineEmits } from 'vue';
+
   import QuizzButton from './QuizzButton.vue';
 
   const props = defineProps({

@@ -2,8 +2,17 @@
   <div class="text-center">
     <div class="space-y-4">
       <div class="text-lg font-semibold space-y-2">
-
+<span class="has-tooltip flex justify-end">
+      <span class="tooltip p-1 rounded bg-blue-100 text-sm"
+        >Clicar na questão abre-a no bomcondutor </span
+      >
+      <QuestionMarkCircleIcon
+        class="block h-6 w-6 text-blue-700"
+        aria-hidden="true"
+      />
+    </span>
         <p>
+          
           Total: <span class="text-blue-400">{{ score.answered }}</span>/<span class="text-blue-600">{{ score.total
             }}</span>
         <div class="w-full bg-gray-200 rounded-full h-4 dark:bg-gray-700 shadow">
@@ -26,21 +35,10 @@
         </p>
       </div>
     </div>
-
-    <!-- <p class="text-xl font-semibold">
-      Right: {{ score.right }} | Wrong: {{ score.wrong }} - Total:
-      {{ score.answered }}/{{ score.total }}
-    </p> -->
-    <!-- <button
-      @click="restartQuiz"
-      class="mt-4 bg-blue-500 text-white px-4 py-2 rounded shadow"
-    >
-      Restart Quiz
-    </button> -->
   </div>
 </template>
 <script setup>
-import { useAppStore } from '@/stores/app';
+import { QuestionMarkCircleIcon } from '@heroicons/vue/24/outline';
 import { defineProps, computed } from 'vue';
 
 const props = defineProps({
@@ -68,3 +66,12 @@ const correctPercentage = computed(() => {
     : (props.score.correct.value / props.score.answered) * 100;
 });
 </script>
+<style>
+  .tooltip {
+    @apply invisible absolute;
+  }
+
+  .has-tooltip:hover .tooltip {
+    @apply visible z-50;
+  }
+</style>

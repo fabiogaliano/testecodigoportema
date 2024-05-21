@@ -27,3 +27,8 @@ bun dev
 ```sh
 bun build
 ```
+
+### Todo
+
+[] botão para voltar atrás
+[] quizz só de perguntas erradas

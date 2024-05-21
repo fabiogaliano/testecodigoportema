@@ -109,7 +109,10 @@
         allQuestions = jsonData.default;
       } else {
         const basePath = import.meta.env.BASE_URL;
-        const jsonPath = `${basePath}${props.category.jsonPath}`;
+        const jsonPath = `${basePath}${props.category.jsonPath.replace(
+          /^(\.\/|\.\.\/)+/,
+          ''
+        )}`;
         const response = await fetch(jsonPath);
         if (!response.ok) {
           throw new Error('Network response was not ok');

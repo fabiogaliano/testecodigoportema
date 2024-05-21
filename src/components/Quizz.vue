@@ -78,7 +78,6 @@
       } else {
         // logQuestion();
       }
-      // saveState();
       selectedAnswer.value = null;
     }, 750);
   };
@@ -102,12 +101,25 @@
 
   async function loadQuestions() {
     try {
-      const jsonData = await import(/* @vite-ignore */ props.category.jsonPath);
-      const allQuestions = jsonData.default;
+      let allQuestions;
+      if (import.meta.env.MODE === 'development') {
+        const jsonData = await import(
+          /* @vite-ignore */ props.category.jsonPath
+        );
+        allQuestions = jsonData.default;
+      } else {
+        const response = await fetch(props.category.jsonPath);
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        allQuestions = await response.json();
+      }
+
       appStore.setTotal({
         total: allQuestions.length,
         categoryId: props.category.id,
       });
+
       const answeredQuestions = appStore.getQuestionsAnswered(
         props.category.id
       );
@@ -115,7 +127,7 @@
         allQuestions.filter((q) => !answeredQuestions.includes(q.id))
       );
     } catch (error) {
-      console.error('Error loading questions!');
+      console.error('Error loading questions!', error);
     }
   }
 

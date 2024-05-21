@@ -1,0 +1,5999 @@
+[
+  {
+    "id": "1438",
+    "text": "A partir deste sinal de perigo é proibido inverter o sentido de marcha.",
+    "href": "https://www.bomcondutor.pt/questao/1438",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1438.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1439",
+    "text": "A que distância vou encontrar o perigo indicado pelo sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1439",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1439.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Entre 150m a 300m do sinal."
+      },
+      {
+        "option": "B",
+        "text": "Entre 25m a 50m do sinal."
+      },
+      {
+        "option": "C",
+        "text": "Entre 50m a 100m do sinal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1440",
+    "text": "A sinalização indica que irei encontrar um local sobrevoado a baixa altitude:",
+    "href": "https://www.bomcondutor.pt/questao/1440",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1440.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A 2 km."
+      },
+      {
+        "option": "B",
+        "text": "A uma distância de 200 metros."
+      },
+      {
+        "option": "C",
+        "text": "Durante 200 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1441",
+    "text": "A sinalização temporária indica o perigo de:",
+    "href": "https://www.bomcondutor.pt/questao/1441",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1441.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Projecção de gravilha."
+      },
+      {
+        "option": "B",
+        "text": "Queda de pedras."
+      },
+      {
+        "option": "C",
+        "text": "Trabalhos na via."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1442",
+    "text": "A sinalização vertical, indica-me que vou encontrar uma curva perigosa à direita a 80 metros.",
+    "href": "https://www.bomcondutor.pt/questao/1442",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1442.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1443",
+    "text": "Ao avistar o sinal de perigo sei que me aproximo de:",
+    "href": "https://www.bomcondutor.pt/questao/1443",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1443.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um local de visibilidade reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Um túnel."
+      },
+      {
+        "option": "C",
+        "text": "Uma passagem estreita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1444",
+    "text": "Ao avistar o sinal vertical devo moderar a velocidade porque:",
+    "href": "https://www.bomcondutor.pt/questao/1444",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1444.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A velocidade é controlada pelo sistema de radar."
+      },
+      {
+        "option": "B",
+        "text": "Aproximo-me de um local onde o trânsito é regulado por sinalização luminosa."
+      },
+      {
+        "option": "C",
+        "text": "Aproximo-me de uma curva perigosa."
+      },
+      {
+        "option": "D",
+        "text": "Estou a entrar numa localidade em que o limite de velocidade é 50 km/h."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1445",
+    "text": "Ao circular neste local devo moderar a velocidade?",
+    "href": "https://www.bomcondutor.pt/questao/1445",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1445.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, apenas estou obrigado a moderar a velocidade na curva."
+      },
+      {
+        "option": "B",
+        "text": "Não, o sinal informa a proximidade de uma curva a mais de 350 metros."
+      },
+      {
+        "option": "C",
+        "text": "Sim, o sinal indica-me a proximidade de uma curva perigosa à direita."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1446",
+    "text": "Ao encontrar este sinal, fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1446",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1446.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A faixa de rodagem tem um estreitamento apenas do lado direito."
+      },
+      {
+        "option": "B",
+        "text": "A via de trânsito em que circulo vai deixar de existir."
+      },
+      {
+        "option": "C",
+        "text": "Existe um estreitamento da via."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1447",
+    "text": "Após a sinalização devo moderar a velocidade, porque:",
+    "href": "https://www.bomcondutor.pt/questao/1447",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1447.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O limite de velocidade é de 40 km/h."
+      },
+      {
+        "option": "B",
+        "text": "Transito num local frequentado por idosos onde o limite mínimo de velocidade é de 50 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Transito num local frequentado por idosos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1448",
+    "text": "As 'bandas sonoras' servem apenas para assinalar a presença de uma escola ou local frequentado por crianças.",
+    "href": "https://www.bomcondutor.pt/questao/1448",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1448.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1449",
+    "text": "Como devo comportar-me perante este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1449",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1449.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular a velocidade especialmente moderada e estar atento ao posicionamento da cancela."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade e acender as luzes de cruzamento se a cancela estiver fechada."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e acender as luzes de presença se a cancela estiver fechada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1450",
+    "text": "Como devo proceder face à informação que me é dada pelo sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1450",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1450.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Engrenar a primeira velocidade na depressão."
+      },
+      {
+        "option": "B",
+        "text": "Manter a velocidade e parar antes das lombas."
+      },
+      {
+        "option": "C",
+        "text": "Moderar especialmente a velocidade."
+      },
+      {
+        "option": "D",
+        "text": "Parar antes de cada lomba."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1451",
+    "text": "Como devo proceder na presença deste sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1451",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1451.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade e a distância de segurança."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade e a distância de segurança."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e aumentar a distância de segurança."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1452",
+    "text": "Como devo proceder na presença deste sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1452",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1452.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade por forma a evitar o perigo."
+      },
+      {
+        "option": "B",
+        "text": "Moderar especialmente a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Parar até que o perigo passe."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1453",
+    "text": "Como devo proceder na presença deste sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1453",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1453.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Assinalar a presença do meu veículo."
+      },
+      {
+        "option": "B",
+        "text": "Circular junto do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Estar atento e moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1454",
+    "text": "Como devo proceder na presença deste sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1454",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1454.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Buzinar para assinalar a minha presença."
+      },
+      {
+        "option": "B",
+        "text": "Circular à velocidade que me é permitida naquela via, mas assinalar a presença do meu veículo."
+      },
+      {
+        "option": "C",
+        "text": "Circular com especial cuidado e prudência."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1455",
+    "text": "Como devo proceder na presença deste sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1455",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1455.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular com velocidade moderada."
+      },
+      {
+        "option": "B",
+        "text": "Circular junto ao eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Fazer uso das luzes de perigo."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1456",
+    "text": "Como devo proceder na presença deste sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1456",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1456.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer uso dos sinais sonoros para alertar o condutor dos animais da minha presença."
+      },
+      {
+        "option": "B",
+        "text": "Prestar atenção e moderar especialmente a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Virar na próxima intersecção para evitar a proximidade com os animais."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1457",
+    "text": "Como devo proceder na presença deste sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1457",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1457.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade para não embaraçar o trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Circular a velocidade especialmente moderada."
+      },
+      {
+        "option": "C",
+        "text": "Passar a circular do lado direito da guia."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1458",
+    "text": "Como devo proceder perante este sinal que me indica o perigo de ocorrência de queda de pedras?",
+    "href": "https://www.bomcondutor.pt/questao/1458",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1458.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular a velocidade especialmente moderada."
+      },
+      {
+        "option": "B",
+        "text": "Circular na via de trânsito da esquerda a velocidade reduzida."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros para alertar os outros condutores."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1459",
+    "text": "Como devo proceder perante este sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1459",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1459.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Conduzir com especial precaução, face à possibilidade de ventos fortes."
+      },
+      {
+        "option": "B",
+        "text": "Conduzir com especial precaução, por estar próxima uma curva perigosa para a direita."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade, por estar perante uma descida de inclinação acentuada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1460",
+    "text": "Como devo proceder perante este sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1460",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1460.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar especialmente a velocidade devido à proximidade de um troço de via com elevada intensidade de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade e parar devido à proximidade de um troço de via onde a circulação está obstruída por veículos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1461",
+    "text": "Como devo proceder perante este sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1461",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1461.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular com precaução porque a circulação passa a ser feita nos dois sentidos."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade perante a indicação de outros perigos."
+      },
+      {
+        "option": "C",
+        "text": "Passar para a via mais à direita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1462",
+    "text": "Como devo proceder perante o sinal de perigo colocado nesta via?",
+    "href": "https://www.bomcondutor.pt/questao/1462",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1462.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade devido à aproximação de uma passagem para peões."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade devido à proximidade de bandas cromáticas."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade devido ao perigo de encontrar peões a atravessar a via."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1463",
+    "text": "Como devo proceder perante o sinal de perigo que se encontra na via?",
+    "href": "https://www.bomcondutor.pt/questao/1463",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1463.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade devido à proximidade de uma curva à direita e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Não circular a velocidade inferior à que consta no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade devido à proximidade de um troço de via com pavimento escorregadio."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1464",
+    "text": "Como devo proceder perante o sinal vertical à minha direita?",
+    "href": "https://www.bomcondutor.pt/questao/1464",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1464.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar especialmente a velocidade. O pavimento pode tornar-se escorregadio."
+      },
+      {
+        "option": "B",
+        "text": "Não aumentar a velocidade. Aproxima-se uma curva perigosa à direita."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e parar. A via vai terminar num cais ou precipício."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1465",
+    "text": "De acordo com a sinalização vertical existente neste local, sou aconselhado a circular à velocidade máxima de 40 km/h, porque me aproximo de:",
+    "href": "https://www.bomcondutor.pt/questao/1465",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1465.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma passagem estreita."
+      },
+      {
+        "option": "B",
+        "text": "Uma via com dois sentidos de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Uma via com prioridade."
+      },
+      {
+        "option": "D",
+        "text": "Uma via de trânsito sem saída."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1466",
+    "text": "Encontro este sinal, porque me aproximo de um local:",
+    "href": "https://www.bomcondutor.pt/questao/1466",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1466.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Com elevado volume de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Em obras."
+      },
+      {
+        "option": "C",
+        "text": "Onde posso encontrar vários perigos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1467",
+    "text": "Este sinal adverte-me de:",
+    "href": "https://www.bomcondutor.pt/questao/1467",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1467.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Descida de acentuada inclinação."
+      },
+      {
+        "option": "B",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Subida de acentuada inclinação."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1468",
+    "text": "Este sinal adverte-me para o perigo de:",
+    "href": "https://www.bomcondutor.pt/questao/1468",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1468.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma lomba."
+      },
+      {
+        "option": "B",
+        "text": "Depressão."
+      },
+      {
+        "option": "C",
+        "text": "Trabalhos na estrada."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1469",
+    "text": "Este sinal adverte-me para o perigo de:",
+    "href": "https://www.bomcondutor.pt/questao/1469",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1469.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "B",
+        "text": "Projecção de gravilha."
+      },
+      {
+        "option": "C",
+        "text": "Queda de pedras."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1470",
+    "text": "Este sinal adverte-me para o perigo de:",
+    "href": "https://www.bomcondutor.pt/questao/1470",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1470.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Descida perigosa."
+      },
+      {
+        "option": "B",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Pavimento irregular."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1471",
+    "text": "Este sinal de perigo deve estar colocado no local exacto do troço de via em que é frequente a acção do vento lateral.",
+    "href": "https://www.bomcondutor.pt/questao/1471",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1471.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1472",
+    "text": "Este sinal de perigo deverá estar colocado:",
+    "href": "https://www.bomcondutor.pt/questao/1472",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1472.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Na aproximação da passagem de nível sem guarda."
+      },
+      {
+        "option": "B",
+        "text": "No local exacto da passagem de nível com guarda."
+      },
+      {
+        "option": "C",
+        "text": "No local exacto da passagem de nível sem guarda."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1473",
+    "text": "Este sinal de perigo indica-me o local exacto onde se encontra uma passagem de nível sem guarda.",
+    "href": "https://www.bomcondutor.pt/questao/1473",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1473.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1474",
+    "text": "Este sinal é colocado:",
+    "href": "https://www.bomcondutor.pt/questao/1474",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1474.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Entre 150m e 300m antes do ponto da via a que se refere."
+      },
+      {
+        "option": "B",
+        "text": "No ponto da via a que se refere."
+      },
+      {
+        "option": "C",
+        "text": "Pelo menos a 500m do ponto da via a que se refere."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1475",
+    "text": "Este sinal é de carácter temporário.",
+    "href": "https://www.bomcondutor.pt/questao/1475",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1475.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1476",
+    "text": "Este sinal é de:",
+    "href": "https://www.bomcondutor.pt/questao/1476",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1476.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Informação."
+      },
+      {
+        "option": "B",
+        "text": "Proibição."
+      },
+      {
+        "option": "C",
+        "text": "Sinalização temporária."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1477",
+    "text": "Este sinal é de:",
+    "href": "https://www.bomcondutor.pt/questao/1477",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1477.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Informação."
+      },
+      {
+        "option": "B",
+        "text": "Sinalização temporária."
+      },
+      {
+        "option": "C",
+        "text": "Trabalhos na estrada."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1478",
+    "text": "Este sinal está colocado:",
+    "href": "https://www.bomcondutor.pt/questao/1478",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1478.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Na aproximação de um desvio da minha via de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Na aproximação de uma passagem estreita."
+      },
+      {
+        "option": "C",
+        "text": "No local exacto de um desvio da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1479",
+    "text": "Este sinal indica a aproximação:",
+    "href": "https://www.bomcondutor.pt/questao/1479",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1479.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De um troço de via em que é frequente a acção de vento lateral."
+      },
+      {
+        "option": "B",
+        "text": "De um troço de via em que há sempre vento lateral."
+      },
+      {
+        "option": "C",
+        "text": "De uma via em que é necessário utilizar as luzes de cruzamento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1480",
+    "text": "Este sinal indica aos condutores:",
+    "href": "https://www.bomcondutor.pt/questao/1480",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1480.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pista obrigatória para cavaleiros."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de um centro de hipismo."
+      },
+      {
+        "option": "C",
+        "text": "Proximidade de um local frequentado por cavaleiros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1481",
+    "text": "Este sinal indica o perigo de:",
+    "href": "https://www.bomcondutor.pt/questao/1481",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1481.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Projecção de gravilha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1482",
+    "text": "Este sinal indica perigo temporário de projecção de gravilha devido a obras na via pública.",
+    "href": "https://www.bomcondutor.pt/questao/1482",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1482.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1483",
+    "text": "Este sinal indica que a via pode ser atravessada por:",
+    "href": "https://www.bomcondutor.pt/questao/1483",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1483.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais domésticos."
+      },
+      {
+        "option": "B",
+        "text": "Animais em rebanho."
+      },
+      {
+        "option": "C",
+        "text": "Animais selvagens."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1484",
+    "text": "Este sinal indica que existe o risco de:",
+    "href": "https://www.bomcondutor.pt/questao/1484",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1484.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Caírem pedras do precipício."
+      },
+      {
+        "option": "B",
+        "text": "Encontrar irregularidades no pavimento."
+      },
+      {
+        "option": "C",
+        "text": "Projecção de gravilha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1485",
+    "text": "Este sinal indica, que esta passagem de nível:",
+    "href": "https://www.bomcondutor.pt/questao/1485",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1485.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É pouco iluminada."
+      },
+      {
+        "option": "B",
+        "text": "Não tem guarda."
+      },
+      {
+        "option": "C",
+        "text": "Tem guarda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1486",
+    "text": "Este sinal indica-me a aproximação de:",
+    "href": "https://www.bomcondutor.pt/questao/1486",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1486.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma curva."
+      },
+      {
+        "option": "B",
+        "text": "Uma descida."
+      },
+      {
+        "option": "C",
+        "text": "Uma lomba."
+      },
+      {
+        "option": "D",
+        "text": "Uma subida."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1487",
+    "text": "Este sinal indica-me a proximidade de uma:",
+    "href": "https://www.bomcondutor.pt/questao/1487",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1487.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à direita e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Curva perigosa à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Sucessão de curvas perigosas, sendo a primeira à direita."
+      },
+      {
+        "option": "D",
+        "text": "Sucessão de curvas perigosas, sendo a primeira à esquerda."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1488",
+    "text": "Este sinal indica-me que vou encontrar:",
+    "href": "https://www.bomcondutor.pt/questao/1488",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1488.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma passagem de nível com guarda a 300 metros."
+      },
+      {
+        "option": "B",
+        "text": "Uma passagem de nível com três vias."
+      },
+      {
+        "option": "C",
+        "text": "Uma passagem de nível sem guarda a 150 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1489",
+    "text": "Este sinal indica-me que:",
+    "href": "https://www.bomcondutor.pt/questao/1489",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1489.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A via pode ser atravessada por animais selvagens."
+      },
+      {
+        "option": "B",
+        "text": "Estou próximo de um jardim zoológico."
+      },
+      {
+        "option": "C",
+        "text": "O lugar é reservado à caça de animais selvagens."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1490",
+    "text": "Este sinal indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1490",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1490.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estreitamento de via."
+      },
+      {
+        "option": "B",
+        "text": "Supressão de berma."
+      },
+      {
+        "option": "C",
+        "text": "Supressão de via de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1491",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1491",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1491.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais sem condutor."
+      },
+      {
+        "option": "B",
+        "text": "Circulação proibida a animais."
+      },
+      {
+        "option": "C",
+        "text": "Zona de caça."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1492",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1492",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1492.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais sem condutor."
+      },
+      {
+        "option": "B",
+        "text": "Pista obrigatória para animais."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a animais."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1493",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1493",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1493.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de passagem de nível com guarda."
+      },
+      {
+        "option": "B",
+        "text": "Aproximação de passagem de nível sem guarda."
+      },
+      {
+        "option": "C",
+        "text": "Local exacto de passagem de nível com guarda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1494",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1494",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1494.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Passagem de nível com guarda a 300 metros."
+      },
+      {
+        "option": "B",
+        "text": "Passagem de nível de três vias férreas."
+      },
+      {
+        "option": "C",
+        "text": "Passagem de nível sem guarda a 300 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1495",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1495",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1495.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à direita e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Curva à esquerda e contracurva."
+      },
+      {
+        "option": "C",
+        "text": "Pavimento escorregadio."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1496",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1496",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1496.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à direita e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Subida de acentuada inclinação."
+      },
+      {
+        "option": "C",
+        "text": "Subida íngreme com curvas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1497",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1497",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1497.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de passagem de nível com guarda."
+      },
+      {
+        "option": "B",
+        "text": "Aproximação de passagem de nível sem guarda."
+      },
+      {
+        "option": "C",
+        "text": "Local exacto de passagem de nível sem guarda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1498",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1498",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1498.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Local de passagem de nível com duas ou mais vias."
+      },
+      {
+        "option": "B",
+        "text": "Local de passagem de nível com guarda."
+      },
+      {
+        "option": "C",
+        "text": "Local de passagem de nível sem guarda."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1499",
+    "text": "Este sinal significa:",
+    "href": "https://www.bomcondutor.pt/questao/1499",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1499.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais selvagens."
+      },
+      {
+        "option": "B",
+        "text": "Animais."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a animais sem condutor."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1500",
+    "text": "Este sinal significa:",
+    "href": "https://www.bomcondutor.pt/questao/1500",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1500.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cedência de passagem nos estreitamentos da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Passagem estreita."
+      },
+      {
+        "option": "C",
+        "text": "Trabalhos na via."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1501",
+    "text": "Este sinal significa:",
+    "href": "https://www.bomcondutor.pt/questao/1501",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1501.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma passagem de nível com guarda."
+      },
+      {
+        "option": "B",
+        "text": "Aproximação de uma passagem de peões."
+      },
+      {
+        "option": "C",
+        "text": "Local exacto de uma passagem de nível sem guarda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1502",
+    "text": "Este sinal significa:",
+    "href": "https://www.bomcondutor.pt/questao/1502",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1502.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de passagem de nível com guarda."
+      },
+      {
+        "option": "B",
+        "text": "Aproximação de passagem de nível sem guarda."
+      },
+      {
+        "option": "C",
+        "text": "Aproximação de uma passagem de peões."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1503",
+    "text": "Este sinal temporário indica:",
+    "href": "https://www.bomcondutor.pt/questao/1503",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1503.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Trânsito condicionado devido a obras no pavimento."
+      },
+      {
+        "option": "B",
+        "text": "Troço de via onde vou encontrar trabalhos na faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Troço de via temporariamente obstruído por veículos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1504",
+    "text": "Este sinal vertical dá indicação aos condutores de:",
+    "href": "https://www.bomcondutor.pt/questao/1504",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1504.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proximidade de pista obrigatória para gado em manada."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a veículos de tracção animal."
+      },
+      {
+        "option": "C",
+        "text": "Troço de via em que podem ser encontrados animais sem condutor."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1505",
+    "text": "Este sinal vertical dá indicação aos condutores de:",
+    "href": "https://www.bomcondutor.pt/questao/1505",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1505.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à esquerda e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Passagem estreita."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito nos dois sentidos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1506",
+    "text": "Este sinal vertical indica o local exacto em que se encontram os sinais luminosos.",
+    "href": "https://www.bomcondutor.pt/questao/1506",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1506.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1507",
+    "text": "Este sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1507",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1507.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma via em que devo ceder a passagem."
+      },
+      {
+        "option": "B",
+        "text": "Curva perigosa à direita."
+      },
+      {
+        "option": "C",
+        "text": "Outros perigos."
+      },
+      {
+        "option": "D",
+        "text": "Troço de via com perigo de projecção de gravilha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1508",
+    "text": "Este sinal vertical indica:",
+    "href": "https://www.bomcondutor.pt/questao/1508",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1508.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Saída de ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Saída de condutores de veículos de duas rodas."
+      },
+      {
+        "option": "C",
+        "text": "Saída de motociclistas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1509",
+    "text": "Estes sinais de perigo advertem-me da existência de:",
+    "href": "https://www.bomcondutor.pt/questao/1509",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1509.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Perigos temporários de gravilha na faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Perigos temporários, de passagem estreita e altura reduzida."
+      },
+      {
+        "option": "C",
+        "text": "Perigos temporários, nomeadamente de trabalhos na via."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1510",
+    "text": "Estes sinais verticais devem encontrar-se colocados na proximidade de uma passagem de nível.",
+    "href": "https://www.bomcondutor.pt/questao/1510",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1510.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1511",
+    "text": "Estou na presença de um sinal de perigo. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/1511",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1511.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade e parar se for necessário."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade, porque estou no local exacto da passagem de peões."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque o sinal a isso me obriga."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1512",
+    "text": "Estou perante um sinal de perigo que me indica:",
+    "href": "https://www.bomcondutor.pt/questao/1512",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1512.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Outros perigos e bermas baixas."
+      },
+      {
+        "option": "C",
+        "text": "Outros perigos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1513",
+    "text": "Estou proibido de realizar a manobra de ultrapassagem neste local?",
+    "href": "https://www.bomcondutor.pt/questao/1513",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1513.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a sinalização não proíbe a realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Não, o sinal indica apenas curva à direita e contracurva, não sendo necessária qualquer precaução."
+      },
+      {
+        "option": "C",
+        "text": "Sim, a manobra de ultrapassagem é proibida nas curvas de visibilidade reduzida."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1514",
+    "text": "Face ao perigo anunciado pelo sinal vertical, no local em que me encontro devo circular:",
+    "href": "https://www.bomcondutor.pt/questao/1514",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1514.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A velocidade especialmente moderada."
+      },
+      {
+        "option": "B",
+        "text": "Junto ao eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Utilizando as luzes de perigo."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1515",
+    "text": "Na presença deste sinal de perigo devo circular o mais afastado possível da berma.",
+    "href": "https://www.bomcondutor.pt/questao/1515",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1515.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1516",
+    "text": "Na presença deste sinal vertical devo ter o cuidado de adaptar a velocidade:",
+    "href": "https://www.bomcondutor.pt/questao/1516",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1516.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "À acentuada inclinação da via para a direita."
+      },
+      {
+        "option": "B",
+        "text": "Às condições de aderência do pavimento."
+      },
+      {
+        "option": "C",
+        "text": "Às condições de visibilidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1517",
+    "text": "Na presença deste sinal vertical sei que me aproximo de um local onde:",
+    "href": "https://www.bomcondutor.pt/questao/1517",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1517.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo ter especial atenção porque os peões podem não utilizar a passagem desnivelada a eles destinada."
+      },
+      {
+        "option": "B",
+        "text": "Não tenho que ter especial atenção."
+      },
+      {
+        "option": "C",
+        "text": "Vou encontrar uma passagem para peões a 300 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1518",
+    "text": "Nesta situação devo moderar especialmente a velocidade devido à proximidade de uma:",
+    "href": "https://www.bomcondutor.pt/questao/1518",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1518.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Descida acentuada."
+      },
+      {
+        "option": "B",
+        "text": "Descida perigosa."
+      },
+      {
+        "option": "C",
+        "text": "Subida acentuada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1519",
+    "text": "Nesta situação, sou alertado para um perigo que pode ter como consequência:",
+    "href": "https://www.bomcondutor.pt/questao/1519",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1519.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A diminuição da distância de paragem devido à diminuição da aderência ao piso."
+      },
+      {
+        "option": "B",
+        "text": "O aumento da aderência ao piso."
+      },
+      {
+        "option": "C",
+        "text": "O aumento da distância de paragem."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1520",
+    "text": "Neste local devo circular com velocidade moderada?",
+    "href": "https://www.bomcondutor.pt/questao/1520",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1520.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a sinalização existente na via apenas proíbe a manobra de ultrapassagem."
+      },
+      {
+        "option": "B",
+        "text": "Sim, o sinal vertical indica-me um troço da via com bermas baixas do lado direito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, o sinal vertical indica-me um troço da via com pavimento escorregadio."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1521",
+    "text": "Neste local devo engrenar uma mudança de força para:",
+    "href": "https://www.bomcondutor.pt/questao/1521",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1521.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma descida perigosa."
+      },
+      {
+        "option": "B",
+        "text": "Uma subida acentuada."
+      },
+      {
+        "option": "C",
+        "text": "Uma subida perigosa."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1522",
+    "text": "Neste local devo estar especialmente atento:",
+    "href": "https://www.bomcondutor.pt/questao/1522",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1522.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "À projecção de gravilha."
+      },
+      {
+        "option": "B",
+        "text": "À queda de pedras."
+      },
+      {
+        "option": "C",
+        "text": "Às bermas baixas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1523",
+    "text": "Neste local devo moderar a velocidade porque estou na presença de um sinal de perigo que me indica:",
+    "href": "https://www.bomcondutor.pt/questao/1523",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1523.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Descida acentuada durante 200 metros."
+      },
+      {
+        "option": "B",
+        "text": "Descida perigosa a uma distância de 200 metros."
+      },
+      {
+        "option": "C",
+        "text": "Subida acentuada a uma distância de 200 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1524",
+    "text": "Neste local devo moderar a velocidade porque o pavimento tem:",
+    "href": "https://www.bomcondutor.pt/questao/1524",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1524.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma deformação côncava ou uma lomba."
+      },
+      {
+        "option": "B",
+        "text": "Uma deformação côncava."
+      },
+      {
+        "option": "C",
+        "text": "Uma lomba."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1525",
+    "text": "Neste local devo transitar:",
+    "href": "https://www.bomcondutor.pt/questao/1525",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1525.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A 50 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "A pelo menos 5 metros do veículo da frente."
+      },
+      {
+        "option": "C",
+        "text": "A velocidade especialmente moderada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1526",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1526",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1526.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade e desviar o veículo para a via de trânsito mais à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e evitar transitar na via de trânsito mais à direita."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1527",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1527",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1527.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Manter a velocidade até ao precipício e aí inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade porque a via não tem saída."
+      },
+      {
+        "option": "C",
+        "text": "Moderar especialmente a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1528",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1528",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1528.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem."
+      },
+      {
+        "option": "B",
+        "text": "Desviar o veículo para o lado esquerdo."
+      },
+      {
+        "option": "C",
+        "text": "Estar atento ao perigo representado pelo sinal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1529",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1529",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1529.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a distância de segurança."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e diminuir a distância de travagem."
+      },
+      {
+        "option": "C",
+        "text": "Parar, se existir menos aderência ao piso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1530",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1530",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1530.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade e parar se necessário, porque me aproximo de uma intersecção."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque estou na presença de um sinal de perigo."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1531",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1531",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1531.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Evitar as irregularidades do pavimento, desviando o veículo para o lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Parar antes da irregularidade do pavimento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1532",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1532",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1532.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade e estar atento ao vento intenso do lado direito."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e estar atento ao vento intenso do lado esquerdo."
+      },
+      {
+        "option": "C",
+        "text": "Parar se estiver vento."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1533",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1533",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1533.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular com precaução."
+      },
+      {
+        "option": "B",
+        "text": "Parar na zona regulada pelo sinal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1534",
+    "text": "Neste local é frequente:",
+    "href": "https://www.bomcondutor.pt/questao/1534",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1534.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A acção de vento lateral."
+      },
+      {
+        "option": "B",
+        "text": "Encontrar o pavimento escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Que a aderência ao piso seja menor."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1535",
+    "text": "Neste local, devo estar atento porque:",
+    "href": "https://www.bomcondutor.pt/questao/1535",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1535.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Existe a possibilidade de vento lateral."
+      },
+      {
+        "option": "B",
+        "text": "Não sei que perigo irei encontrar."
+      },
+      {
+        "option": "C",
+        "text": "Sei que está vento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1536",
+    "text": "Neste local, devo estar especialmente atento:",
+    "href": "https://www.bomcondutor.pt/questao/1536",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1536.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "À descida perigosa que existe mais à frente."
+      },
+      {
+        "option": "B",
+        "text": "À indicação dada pela sinalização."
+      },
+      {
+        "option": "C",
+        "text": "À velocidade a que transito, porque sou obrigado a inverter o sentido de marcha."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1537",
+    "text": "Neste local, devo:",
+    "href": "https://www.bomcondutor.pt/questao/1537",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1537.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Reduzir a velocidade, porque me aproximo de uma curva à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Transitar com precaução e aproximar-me do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Transitar com precaução."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1538",
+    "text": "Neste local, devo:",
+    "href": "https://www.bomcondutor.pt/questao/1538",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1538.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Transitar com muita precaução."
+      },
+      {
+        "option": "B",
+        "text": "Transitar com precaução e utilizar os sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros, assinalando assim a minha presença."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1539",
+    "text": "Neste local, perante a sinalização, fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1539",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1539.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A circulação pode ser temporariamente interrompida."
+      },
+      {
+        "option": "B",
+        "text": "A ponte móvel impede que os veículos sigam em frente."
+      },
+      {
+        "option": "C",
+        "text": "O piso tem pouca aderência."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1540",
+    "text": "No local em que vou transitar:",
+    "href": "https://www.bomcondutor.pt/questao/1540",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1540.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A visibilidade pode ser insuficiente."
+      },
+      {
+        "option": "B",
+        "text": "Sou obrigado a ligar as luzes de presença."
+      },
+      {
+        "option": "C",
+        "text": "Vou encontrar neve."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1541",
+    "text": "O que devo fazer nesta situação?",
+    "href": "https://www.bomcondutor.pt/questao/1541",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1541.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar um pouco a velocidade, porque a intensidade de trânsito é bastante reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Parar."
+      },
+      {
+        "option": "C",
+        "text": "Transitar com precaução."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1542",
+    "text": "O que devo fazer neste local?",
+    "href": "https://www.bomcondutor.pt/questao/1542",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1542.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estar atento e ceder a passagem apenas aos peões que iniciem a travessia nos locais assinalados na faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Estar atento porque podem surgir peões."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1543",
+    "text": "O que devo fazer neste local?",
+    "href": "https://www.bomcondutor.pt/questao/1543",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1543.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade, porque o sinal indica que o local tem pouca visibilidade."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque posso encontrar crianças."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1544",
+    "text": "O que devo fazer perante a sinalização deste local?",
+    "href": "https://www.bomcondutor.pt/questao/1544",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1544.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a velocidade, porque posso encontrar uma situação perigosa."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e inverter o sentido de marcha, se necessário."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque não sei que perigo posso encontrar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1545",
+    "text": "O que devo fazer perante a sinalização?",
+    "href": "https://www.bomcondutor.pt/questao/1545",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1545.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a velocidade às circunstâncias do local."
+      },
+      {
+        "option": "B",
+        "text": "Diminuir a velocidade e parar."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade e nunca parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1546",
+    "text": "O que devo fazer perante a sinalização?",
+    "href": "https://www.bomcondutor.pt/questao/1546",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1546.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade não transitando a uma velocidade superior a 40 km/h."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1547",
+    "text": "O que devo fazer perante o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1547",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1547.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a velocidade, porque vou encontrar grande volume de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Adaptar a velocidade, porque vou encontrar obras na via pública."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque circulo numa via que vai ter muita intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1548",
+    "text": "O que devo fazer perante o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1548",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1548.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adequar a velocidade porque me aproximo de uma passagem de peões."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade, porque o sinal indica a presença de crianças."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1549",
+    "text": "O que devo fazer quando encontro este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1549",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1549.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estar atento ao perigo que representa."
+      },
+      {
+        "option": "B",
+        "text": "Fazer marcha atrás."
+      },
+      {
+        "option": "C",
+        "text": "Inverter o sentido de marcha."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1550",
+    "text": "O que devo fazer, perante o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1550",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1550.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estar especialmente atento a eventuais obras que possa encontrar."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade, porque o sinal indica perigos vários."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque posso encontrar bermas baixas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1551",
+    "text": "O que indica este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1551",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1551.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Informação."
+      },
+      {
+        "option": "B",
+        "text": "Obrigação."
+      },
+      {
+        "option": "C",
+        "text": "Perigo."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1552",
+    "text": "O que indica o sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1552",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1552.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Neve ou gelo."
+      },
+      {
+        "option": "B",
+        "text": "Piso escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Visibilidade insuficiente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1553",
+    "text": "O que indica o sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1553",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1553.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Local frequentado por crianças."
+      },
+      {
+        "option": "B",
+        "text": "Passagem de peões."
+      },
+      {
+        "option": "C",
+        "text": "Travessia de peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1554",
+    "text": "O que me indica o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1554",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1554.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A presença de idosos e o limite mínimo de velocidade."
+      },
+      {
+        "option": "B",
+        "text": "O limite máximo de velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Um local frequentado por idosos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1555",
+    "text": "O que representa o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1555",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1555.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Obstrução de uma via de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Passagem estreita."
+      },
+      {
+        "option": "C",
+        "text": "Via de sentido único."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1556",
+    "text": "O que significa o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1556",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1556.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas altas."
+      },
+      {
+        "option": "B",
+        "text": "Depressão."
+      },
+      {
+        "option": "C",
+        "text": "Lomba."
+      },
+      {
+        "option": "D",
+        "text": "Lombas e depressão."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1557",
+    "text": "O que significa o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1557",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1557.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Neve ou gelo."
+      },
+      {
+        "option": "B",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Projecção de gravilha."
+      },
+      {
+        "option": "D",
+        "text": "Visibilidade insuficiente."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1558",
+    "text": "O que significa o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1558",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1558.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Distância de segurança obrigatória."
+      },
+      {
+        "option": "B",
+        "text": "Troço com elevado volume de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Velocidade máxima permitida de 90 km/h."
+      },
+      {
+        "option": "D",
+        "text": "Via reservada a automóveis ligeiros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1559",
+    "text": "O que significa o sinal triangular:",
+    "href": "https://www.bomcondutor.pt/questao/1559",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1559.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de passagem de peões."
+      },
+      {
+        "option": "B",
+        "text": "Lugar onde só podem transitar peões."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a peões."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1560",
+    "text": "O que significa o sinal vertical superior?",
+    "href": "https://www.bomcondutor.pt/questao/1560",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1560.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Intersecção com via onde circulam veículos sobre carris."
+      },
+      {
+        "option": "B",
+        "text": "Passagem de nível sem guarda."
+      },
+      {
+        "option": "C",
+        "text": "Proximidade de passagem de nível com cancelas ou barreiras."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1561",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1561",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1561.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas do lado esquerdo."
+      },
+      {
+        "option": "B",
+        "text": "Cedência de passagem no estreitamento da via."
+      },
+      {
+        "option": "C",
+        "text": "Desvio da faixa de rodagem."
+      },
+      {
+        "option": "D",
+        "text": "Passagem estreita."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1562",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1562",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1562.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Acentuada depressão no pavimento."
+      },
+      {
+        "option": "B",
+        "text": "Bermas altas."
+      },
+      {
+        "option": "C",
+        "text": "Descida perigosa."
+      },
+      {
+        "option": "D",
+        "text": "Subida de inclinação acentuada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1563",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1563",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1563.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "B",
+        "text": "Projecção de gravilha."
+      },
+      {
+        "option": "C",
+        "text": "Queda de pedras."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1564",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1564",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1564.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma via privada de acesso a um aeroporto."
+      },
+      {
+        "option": "B",
+        "text": "Local que pode ser sobrevoado por aviões a baixa altitude."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1565",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1565",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1565.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proximidade de aeroporto."
+      },
+      {
+        "option": "B",
+        "text": "Vento lateral forte incidindo da direita para a esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Vento lateral forte incidindo da esquerda para a direita."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1566",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1566",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1566.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circulação alternada."
+      },
+      {
+        "option": "B",
+        "text": "Fim de obras."
+      },
+      {
+        "option": "C",
+        "text": "Trabalhos na via."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1567",
+    "text": "O sinal colocado à minha direita é de:",
+    "href": "https://www.bomcondutor.pt/questao/1567",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1567.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Carácter temporário."
+      },
+      {
+        "option": "B",
+        "text": "Mensagem variável."
+      },
+      {
+        "option": "C",
+        "text": "Perigos vários."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1568",
+    "text": "O sinal de cedência de passagem indica:",
+    "href": "https://www.bomcondutor.pt/questao/1568",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1568.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma rotunda com trânsito giratório."
+      },
+      {
+        "option": "B",
+        "text": "Obrigação de contornar a rotunda."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de contornar a rotunda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1569",
+    "text": "O sinal de perigo alerta-me para a possibilidade de encontrar:",
+    "href": "https://www.bomcondutor.pt/questao/1569",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1569.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Peões a atravessar a faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Pista obrigatória para peões."
+      },
+      {
+        "option": "C",
+        "text": "Uma escola."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1570",
+    "text": "O sinal de perigo colocado à minha direita indica:",
+    "href": "https://www.bomcondutor.pt/questao/1570",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1570.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A aproximação de um local onde há o perigo de queda de pedras."
+      },
+      {
+        "option": "B",
+        "text": "O local exacto da queda de pedras."
+      },
+      {
+        "option": "C",
+        "text": "O local exacto de um precipício onde caem pedras."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1571",
+    "text": "O sinal de perigo dá indicação aos condutores:",
+    "href": "https://www.bomcondutor.pt/questao/1571",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1571.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Da proximidade de sinalização luminosa."
+      },
+      {
+        "option": "B",
+        "text": "Da proximidade de uma passagem de nível."
+      },
+      {
+        "option": "C",
+        "text": "Que a sinalização luminosa não está a funcionar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1572",
+    "text": "O sinal de perigo deve estar colocado, na aproximação de:",
+    "href": "https://www.bomcondutor.pt/questao/1572",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1572.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um local de visibilidade insuficiente."
+      },
+      {
+        "option": "B",
+        "text": "Um túnel."
+      },
+      {
+        "option": "C",
+        "text": "Uma passagem estreita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1573",
+    "text": "O sinal de perigo indica que este local:",
+    "href": "https://www.bomcondutor.pt/questao/1573",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1573.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É frequentado por crianças e idosos."
+      },
+      {
+        "option": "B",
+        "text": "É frequentado por crianças."
+      },
+      {
+        "option": "C",
+        "text": "Tem pouca visibilidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1574",
+    "text": "O sinal de perigo indica que todos os condutores devem:",
+    "href": "https://www.bomcondutor.pt/questao/1574",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1574.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e se necessário parar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1575",
+    "text": "O sinal de perigo indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1575",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1575.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva perigosa à direita."
+      },
+      {
+        "option": "B",
+        "text": "Que devo passar para a via de trânsito mais à direita no próximo entroncamento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1576",
+    "text": "O sinal de perigo indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1576",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1576.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estreitamento da via com a configuração constante no sinal."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de curva perigosa à direita."
+      },
+      {
+        "option": "C",
+        "text": "Que o trânsito se faz nos dois sentidos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1577",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1577",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1577.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Caminho obrigatório para peões."
+      },
+      {
+        "option": "B",
+        "text": "Trabalhos na via."
+      },
+      {
+        "option": "C",
+        "text": "Travessia de peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1578",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1578",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1578.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de sinalização luminosa."
+      },
+      {
+        "option": "B",
+        "text": "Aproximação de via de sentido reversível."
+      },
+      {
+        "option": "C",
+        "text": "Perigos vários."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1579",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1579",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1579.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A localização de uma passagem de peões."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de bermas baixas na via."
+      },
+      {
+        "option": "C",
+        "text": "Um troço de via com uma lomba no pavimento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1580",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1580",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1580.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à direita com contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Curva à direita."
+      },
+      {
+        "option": "C",
+        "text": "Curva à esquerda e contracurva."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1581",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1581",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1581.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cedência de passagem no estreitamento da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Desvio na faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Estreitamento da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1582",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1582",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1582.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Descida perigosa."
+      },
+      {
+        "option": "B",
+        "text": "Via que termina num cais ou precipício."
+      },
+      {
+        "option": "C",
+        "text": "Via sem saída."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1583",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1583",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1583.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cais ou precipício."
+      },
+      {
+        "option": "B",
+        "text": "Descida perigosa."
+      },
+      {
+        "option": "C",
+        "text": "Rua sem saída."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1584",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1584",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1584.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A aproximação de uma intersecção."
+      },
+      {
+        "option": "B",
+        "text": "O local exacto da sinalização luminosa."
+      },
+      {
+        "option": "C",
+        "text": "Sinalização luminosa."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1585",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1585",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1585.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Congestionamento."
+      },
+      {
+        "option": "B",
+        "text": "Obstáculos ocasionais na via pública."
+      },
+      {
+        "option": "C",
+        "text": "Via obstruída."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1586",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1586",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1586.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Obras na via pública."
+      },
+      {
+        "option": "B",
+        "text": "Outros perigos."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de ultrapassar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1587",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1587",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1587.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que me aproximo de um troço de via com bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Que o local onde me encontro tem bermas baixas."
+      },
+      {
+        "option": "C",
+        "text": "Que saí de um local com bermas baixas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1588",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1588",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1588.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à direita e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Curva à direita."
+      },
+      {
+        "option": "C",
+        "text": "Curva perigosa à esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1589",
+    "text": "O sinal de perigo indica:",
+    "href": "https://www.bomcondutor.pt/questao/1589",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1589.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma descida acentuada."
+      },
+      {
+        "option": "B",
+        "text": "Uma subida acentuada."
+      },
+      {
+        "option": "C",
+        "text": "Uma subida perigosa."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1590",
+    "text": "O sinal de perigo pode representar:",
+    "href": "https://www.bomcondutor.pt/questao/1590",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1590.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Congestionamento de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Obstáculos ocasionais na via pública."
+      },
+      {
+        "option": "C",
+        "text": "Perigos vários."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1591",
+    "text": "O sinal de perigo que se encontra na via indica:",
+    "href": "https://www.bomcondutor.pt/questao/1591",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1591.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A existência de uma curva perigosa à direita. Nesta situação devo moderar a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de um troço de via em que é frequente a acção de vento lateral com a orientação indicada no sinal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1592",
+    "text": "O sinal de perigo significa:",
+    "href": "https://www.bomcondutor.pt/questao/1592",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1592.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Local onde só podem transitar peões."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a peões."
+      },
+      {
+        "option": "C",
+        "text": "Travessia de peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1593",
+    "text": "O sinal de perigo significa:",
+    "href": "https://www.bomcondutor.pt/questao/1593",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1593.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Local frequentado por crianças."
+      },
+      {
+        "option": "B",
+        "text": "Proibida a passagem de crianças."
+      },
+      {
+        "option": "C",
+        "text": "Travessia de peões."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1594",
+    "text": "O sinal de perigo significa:",
+    "href": "https://www.bomcondutor.pt/questao/1594",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1594.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Chuva."
+      },
+      {
+        "option": "B",
+        "text": "Neve ou gelo."
+      },
+      {
+        "option": "C",
+        "text": "Visibilidade insuficiente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1595",
+    "text": "O sinal de perigo significa:",
+    "href": "https://www.bomcondutor.pt/questao/1595",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1595.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Crianças."
+      },
+      {
+        "option": "B",
+        "text": "Escola."
+      },
+      {
+        "option": "C",
+        "text": "Visibilidade insuficiente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1596",
+    "text": "O sinal de perigo, não poderá estar colocado a menos de:",
+    "href": "https://www.bomcondutor.pt/questao/1596",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1596.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "150 metros."
+      },
+      {
+        "option": "B",
+        "text": "200 metros."
+      },
+      {
+        "option": "C",
+        "text": "300 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1597",
+    "text": "O sinal indica a aproximação de:",
+    "href": "https://www.bomcondutor.pt/questao/1597",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1597.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cavaleiros."
+      },
+      {
+        "option": "B",
+        "text": "Escola de equitação."
+      },
+      {
+        "option": "C",
+        "text": "Hipódromo."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1598",
+    "text": "O sinal indica a existência de um local:",
+    "href": "https://www.bomcondutor.pt/questao/1598",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1598.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De entrada ou atravessamento de cavaleiros na faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Destinado à circulação de cavaleiros."
+      },
+      {
+        "option": "C",
+        "text": "Onde os cavaleiros estão proibidos de atravessar a faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1599",
+    "text": "O sinal indica aproximação de:",
+    "href": "https://www.bomcondutor.pt/questao/1599",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1599.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Depressão no pavimento."
+      },
+      {
+        "option": "B",
+        "text": "Lomba no pavimento."
+      },
+      {
+        "option": "C",
+        "text": "Lomba ou depressão no pavimento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1600",
+    "text": "O sinal indica que na faixa de rodagem onde transito:",
+    "href": "https://www.bomcondutor.pt/questao/1600",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1600.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Existe uma pista reservada a ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Existe uma saída para ciclomotores."
+      },
+      {
+        "option": "C",
+        "text": "Podem existir velocípedes a entrar na via."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1601",
+    "text": "O sinal indica que na via em que transito posso encontrar:",
+    "href": "https://www.bomcondutor.pt/questao/1601",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1601.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais com condutor."
+      },
+      {
+        "option": "B",
+        "text": "Animais selvagens."
+      },
+      {
+        "option": "C",
+        "text": "Animais sem condutor."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1602",
+    "text": "O sinal indica que vou transitar num local frequentado por:",
+    "href": "https://www.bomcondutor.pt/questao/1602",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1602.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Idosos e crianças."
+      },
+      {
+        "option": "B",
+        "text": "Idosos."
+      },
+      {
+        "option": "C",
+        "text": "Pessoas portadoras de deficiência."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1603",
+    "text": "O sinal indica-me a aproximação de:",
+    "href": "https://www.bomcondutor.pt/questao/1603",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1603.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um local frequentado por idosos."
+      },
+      {
+        "option": "B",
+        "text": "Uma passadeira destinada à travessia de idosos."
+      },
+      {
+        "option": "C",
+        "text": "Uma via destinada exclusivamente ao trânsito de idosos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1604",
+    "text": "O sinal indica-me que a via:",
+    "href": "https://www.bomcondutor.pt/questao/1604",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1604.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não tem saída."
+      },
+      {
+        "option": "B",
+        "text": "Tem uma ponte móvel."
+      },
+      {
+        "option": "C",
+        "text": "Termina num cais ou precipício."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1605",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1605",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1605.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pista obrigatória para ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Saída de ciclistas."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a ciclistas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1606",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1606",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1606.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Saída de ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a ciclistas."
+      },
+      {
+        "option": "C",
+        "text": "Via reservada a ciclistas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1607",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1607",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1607.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pavimento em mau estado."
+      },
+      {
+        "option": "B",
+        "text": "Piso escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Ponte móvel."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1608",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1608",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1608.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva perigosa à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Desvio."
+      },
+      {
+        "option": "C",
+        "text": "Estreitamento da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1609",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1609",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1609.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas temporariamente."
+      },
+      {
+        "option": "B",
+        "text": "Obras na via pública que ocasionam um desvio."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito temporariamente congestionado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1610",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1610",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1610.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Caminho para ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Pista obrigatória para ciclistas."
+      },
+      {
+        "option": "C",
+        "text": "Saída de ciclistas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1611",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1611",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1611.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma sucessão de curvas, sendo a primeira à direita."
+      },
+      {
+        "option": "B",
+        "text": "Aproximação de uma sucessão de curvas, sendo a primeira à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Curva à direita, no local exacto em que me encontro."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1612",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1612",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1612.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ponte móvel."
+      },
+      {
+        "option": "B",
+        "text": "Vento lateral."
+      },
+      {
+        "option": "C",
+        "text": "Visibilidade insuficiente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1613",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1613",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1613.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pista de aviação."
+      },
+      {
+        "option": "B",
+        "text": "Ponte móvel."
+      },
+      {
+        "option": "C",
+        "text": "Sinalização luminosa."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1614",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1614",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1614.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que o local onde transito é sobrevoado a baixa altitude."
+      },
+      {
+        "option": "B",
+        "text": "Um local sobrevoado a baixa altitude, a 200 metros."
+      },
+      {
+        "option": "C",
+        "text": "Uma pista de aviação numa extensão de 200 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1615",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1615",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1615.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de passagem de peões."
+      },
+      {
+        "option": "B",
+        "text": "Local frequentado por crianças."
+      },
+      {
+        "option": "C",
+        "text": "Local frequentado por idosos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1616",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1616",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1616.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Depressão."
+      },
+      {
+        "option": "B",
+        "text": "Lomba ou depressão."
+      },
+      {
+        "option": "C",
+        "text": "Lomba."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1617",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1617",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1617.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Projecção de gravilha."
+      },
+      {
+        "option": "C",
+        "text": "Queda de pedras."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1618",
+    "text": "O sinal que se encontra nesta via pública indica a proximidade de:",
+    "href": "https://www.bomcondutor.pt/questao/1618",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1618.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um troço de via onde podem ser encontrados animais sem condutor."
+      },
+      {
+        "option": "B",
+        "text": "Uma passagem de nível com guarda."
+      },
+      {
+        "option": "C",
+        "text": "Uma passagem de nível sem guarda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1619",
+    "text": "O sinal que se encontra nesta via pública indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1619",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1619.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva perigosa à direita."
+      },
+      {
+        "option": "B",
+        "text": "Descida de inclinação acentuada."
+      },
+      {
+        "option": "C",
+        "text": "Subida de inclinação acentuada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1620",
+    "text": "O sinal que se encontra nesta via, indica aos condutores:",
+    "href": "https://www.bomcondutor.pt/questao/1620",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1620.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proximidade de uma ponte móvel."
+      },
+      {
+        "option": "B",
+        "text": "Que a ponte móvel se encontra levantada."
+      },
+      {
+        "option": "C",
+        "text": "Que a via pública não tem saída para veículos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1621",
+    "text": "O sinal representa:",
+    "href": "https://www.bomcondutor.pt/questao/1621",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1621.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais selvagens."
+      },
+      {
+        "option": "B",
+        "text": "Animais sem condutor."
+      },
+      {
+        "option": "C",
+        "text": "Cavaleiros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1622",
+    "text": "O sinal representa:",
+    "href": "https://www.bomcondutor.pt/questao/1622",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1622.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Cais ou precipício."
+      },
+      {
+        "option": "C",
+        "text": "Queda de pedras."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1623",
+    "text": "O sinal representa:",
+    "href": "https://www.bomcondutor.pt/questao/1623",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1623.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à direita e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Curva à direita."
+      },
+      {
+        "option": "C",
+        "text": "Curva à esquerda e contracurva."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1624",
+    "text": "O sinal triangular adverte-me para a aproximação de:",
+    "href": "https://www.bomcondutor.pt/questao/1624",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1624.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um local frequentado por crianças."
+      },
+      {
+        "option": "B",
+        "text": "Uma passagem para peões."
+      },
+      {
+        "option": "C",
+        "text": "Uma via destinada exclusivamente ao trânsito de peões."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1625",
+    "text": "O sinal triangular indica aos condutores:",
+    "href": "https://www.bomcondutor.pt/questao/1625",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1625.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à esquerda e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Óleo na via pública."
+      },
+      {
+        "option": "C",
+        "text": "Pavimento escorregadio."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1626",
+    "text": "O sinal triangular indica-me que:",
+    "href": "https://www.bomcondutor.pt/questao/1626",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1626.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O trânsito passa a efectuar-se nos dois sentidos."
+      },
+      {
+        "option": "B",
+        "text": "O trânsito passa a efectuar-se num só sentido."
+      },
+      {
+        "option": "C",
+        "text": "Tenho prioridade nas passagens estreitas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1627",
+    "text": "O sinal triangular indica:",
+    "href": "https://www.bomcondutor.pt/questao/1627",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1627.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma passagem estreita."
+      },
+      {
+        "option": "B",
+        "text": "Que o trânsito passa a fazer-se nos dois sentidos."
+      },
+      {
+        "option": "C",
+        "text": "Sentidos obrigatórios."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1628",
+    "text": "O sinal triangular indica:",
+    "href": "https://www.bomcondutor.pt/questao/1628",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1628.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que me aproximo de um túnel."
+      },
+      {
+        "option": "B",
+        "text": "Que no túnel é obrigatório transitar com as luzes de cruzamento ligadas."
+      },
+      {
+        "option": "C",
+        "text": "Que o trânsito passa a fazer-se nos dois sentidos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1629",
+    "text": "O sinal triangular que se encontra na via indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1629",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1629.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estreitamento da via com a configuração constante do sinal."
+      },
+      {
+        "option": "B",
+        "text": "Que no estreitamento da via devo ceder a passagem aos veículos que transitem em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Que tenho prioridade nos estreitamentos da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1630",
+    "text": "O sinal vertical dá indicação aos condutores de:",
+    "href": "https://www.bomcondutor.pt/questao/1630",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1630.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pavimento com precárias condições de aderência e risco de hidroplanagem."
+      },
+      {
+        "option": "B",
+        "text": "Piso molhado ou enlameado."
+      },
+      {
+        "option": "C",
+        "text": "Troço de via em que existe o risco de projecção de gravilha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1631",
+    "text": "O sinal vertical de forma triangular é utilizado para avisar os condutores:",
+    "href": "https://www.bomcondutor.pt/questao/1631",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1631.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Da existência de vários perigos."
+      },
+      {
+        "option": "B",
+        "text": "De elevado volume de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "De piso escorregadio."
+      },
+      {
+        "option": "D",
+        "text": "De que a via está obstruída por veículos acidentados."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1632",
+    "text": "O sinal vertical indica a proximidade de um troço de via com:",
+    "href": "https://www.bomcondutor.pt/questao/1632",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1632.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas e risco de capotar."
+      },
+      {
+        "option": "B",
+        "text": "Congestionamento."
+      },
+      {
+        "option": "C",
+        "text": "Obstrução da via."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1633",
+    "text": "O sinal vertical indica aos condutores a proximidade de um troço de via:",
+    "href": "https://www.bomcondutor.pt/questao/1633",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1633.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Com descida perigosa em que existe o risco de despiste."
+      },
+      {
+        "option": "B",
+        "text": "Em que o pavimento pode tornar-se escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Onde a circulação se encontra obstruída por veículos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1634",
+    "text": "O sinal vertical indica aos condutores:",
+    "href": "https://www.bomcondutor.pt/questao/1634",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1634.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proximidade de um parque natural."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de uma reserva natural."
+      },
+      {
+        "option": "C",
+        "text": "Que a via pode ser atravessada por animais selvagens."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1635",
+    "text": "O sinal vertical indica-me a aproximação de:",
+    "href": "https://www.bomcondutor.pt/questao/1635",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1635.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um cemitério."
+      },
+      {
+        "option": "B",
+        "text": "Um hospital."
+      },
+      {
+        "option": "C",
+        "text": "Uma passagem de nível com guarda."
+      },
+      {
+        "option": "D",
+        "text": "Uma passagem desnivelada para peões."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1636",
+    "text": "O sinal vertical indica-me a proximidade de um troço de via pública:",
+    "href": "https://www.bomcondutor.pt/questao/1636",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1636.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Em que é frequente o aparecimento de nevoeiro."
+      },
+      {
+        "option": "B",
+        "text": "Em que pode existir o risco de projecção de gravilha ou pequenas pedras."
+      },
+      {
+        "option": "C",
+        "text": "Onde podem existir condições ambientais que tornem a visibilidade insuficiente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1637",
+    "text": "O sinal vertical indica-me a proximidade de:",
+    "href": "https://www.bomcondutor.pt/questao/1637",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1637.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Lomba."
+      },
+      {
+        "option": "C",
+        "text": "Passagem estreita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1638",
+    "text": "O sinal vertical indica-me que, a partir do local em que se encontra colocado, a via passa a ter:",
+    "href": "https://www.bomcondutor.pt/questao/1638",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1638.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Dois sentidos de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Duas faixas de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Duas filas de trânsito em cada sentido."
+      },
+      {
+        "option": "D",
+        "text": "Duas filas de trânsito no mesmo sentido."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1639",
+    "text": "O sinal vertical indica-me que:",
+    "href": "https://www.bomcondutor.pt/questao/1639",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1639.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A circulação deixa de realizar-se com duas vias de trânsito em cada sentido."
+      },
+      {
+        "option": "B",
+        "text": "Me aproximo de uma passagem estreita."
+      },
+      {
+        "option": "C",
+        "text": "O trânsito passa a efectuar-se nos dois sentidos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1640",
+    "text": "O sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1640",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1640.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que tenho prioridade no próximo estreitamento da via pública."
+      },
+      {
+        "option": "B",
+        "text": "Um alargamento da via pública."
+      },
+      {
+        "option": "C",
+        "text": "Um estreitamento da via pública."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1641",
+    "text": "O sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1641",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1641.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Curva perigosa à direita."
+      },
+      {
+        "option": "C",
+        "text": "Resíduos no pavimento que podem provocar despiste."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1642",
+    "text": "O sinal vertical que se encontra na via indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1642",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1642.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O desenvolvimento de um troço em curva."
+      },
+      {
+        "option": "B",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Que posso encontrar veículos a circular em excesso de velocidade em sentido contrário."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1643",
+    "text": "O sinal vertical que se encontra na via indica:",
+    "href": "https://www.bomcondutor.pt/questao/1643",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1643.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da pista obrigatória para cavaleiros."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de um local frequentado por cavaleiros."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a cavaleiros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1644",
+    "text": "O sinal vertical que se encontra na via pública indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1644",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1644.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A proximidade de uma passagem de peões."
+      },
+      {
+        "option": "B",
+        "text": "A proximidade de uma pista obrigatória para peões."
+      },
+      {
+        "option": "C",
+        "text": "Que estou a circular num local frequentado por crianças."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1645",
+    "text": "O sinal vertical que se encontra nesta via indica:",
+    "href": "https://www.bomcondutor.pt/questao/1645",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1645.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circulação numa via reservada a veículos automóveis."
+      },
+      {
+        "option": "B",
+        "text": "Local onde é autorizado o estacionamento na berma."
+      },
+      {
+        "option": "C",
+        "text": "Proximidade de um troço de via com elevado volume de trânsito."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1646",
+    "text": "O sinal vertical que se encontra nesta via pública:",
+    "href": "https://www.bomcondutor.pt/questao/1646",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1646.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas interessa aos condutores que circulam em sentido contrário devido à configuração da via onde circulam."
+      },
+      {
+        "option": "B",
+        "text": "Indica proximidade de uma passagem estreita."
+      },
+      {
+        "option": "C",
+        "text": "Indica que o trânsito passa de duas para apenas uma via de trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1647",
+    "text": "O sinal vertical triangular de fundo branco indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1647",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1647.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A existência de baias direccionais."
+      },
+      {
+        "option": "B",
+        "text": "A existência de uma curva perigosa à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de efectuar a manobra de inversão do sentido de marcha."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1648",
+    "text": "O sinal vertical triangular de fundo branco na via de trânsito, indica-me a proximidade de:",
+    "href": "https://www.bomcondutor.pt/questao/1648",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1648.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma depressão."
+      },
+      {
+        "option": "B",
+        "text": "Uma lomba ou depressão."
+      },
+      {
+        "option": "C",
+        "text": "Uma passagem superior."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1649",
+    "text": "O sinal vertical triangular indica:",
+    "href": "https://www.bomcondutor.pt/questao/1649",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1649.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estreitamento da via com a configuração do sinal."
+      },
+      {
+        "option": "B",
+        "text": "Passagem desnivelada para peões."
+      },
+      {
+        "option": "C",
+        "text": "Proximidade de lomba no pavimento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1650",
+    "text": "Os sinais de perigo têm fundo amarelo porque:",
+    "href": "https://www.bomcondutor.pt/questao/1650",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1650.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "São de confirmação."
+      },
+      {
+        "option": "B",
+        "text": "São de regulamentação."
+      },
+      {
+        "option": "C",
+        "text": "São sinalização temporária."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1651",
+    "text": "Perante a sinalização devo moderar a velocidade, e:",
+    "href": "https://www.bomcondutor.pt/questao/1651",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1651.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Parar antes da descida que se encontra a uma distância de 200 metros."
+      },
+      {
+        "option": "B",
+        "text": "Utilizar apenas o travão de serviço porque a descida é perigosa."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar o motor como auxiliar do travão."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1652",
+    "text": "Perante a sinalização devo:",
+    "href": "https://www.bomcondutor.pt/questao/1652",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1652.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Parar."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade e travar antes da lomba."
+      },
+      {
+        "option": "C",
+        "text": "Seguir atentamente e moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1653",
+    "text": "Perante a sinalização devo:",
+    "href": "https://www.bomcondutor.pt/questao/1653",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1653.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estar especialmente atento."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha antes do sinal."
+      },
+      {
+        "option": "C",
+        "text": "Parar imediatamente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1654",
+    "text": "Perante a sinalização existente neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1654",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1654.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Aumentar a distância de reacção."
+      },
+      {
+        "option": "C",
+        "text": "Diminuir a distância de paragem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1655",
+    "text": "Perante a sinalização, como devo proceder para circular em segurança?",
+    "href": "https://www.bomcondutor.pt/questao/1655",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1655.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adoptar uma velocidade especialmente moderada."
+      },
+      {
+        "option": "B",
+        "text": "Aumentar a pressão dos pneus para reduzir o efeito das irregularidades do pavimento."
+      },
+      {
+        "option": "C",
+        "text": "Circular em marcha lenta e, se possível, em primeira velocidade."
+      },
+      {
+        "option": "D",
+        "text": "Reduzir a velocidade e circular pelo centro da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1656",
+    "text": "Perante esta sinalização devo:",
+    "href": "https://www.bomcondutor.pt/questao/1656",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1656.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estar atento apenas à intersecção que se aproxima."
+      },
+      {
+        "option": "B",
+        "text": "Estar especialmente atento."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade, porque o sinal luminoso me obriga a parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1657",
+    "text": "Perante este sinal de perigo, devo:",
+    "href": "https://www.bomcondutor.pt/questao/1657",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1657.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar o meu veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e aproximar o meu veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1658",
+    "text": "Perante este sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1658",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1658.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Manter a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar o veículo da frente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1659",
+    "text": "Perante este sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1659",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1659.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular com velocidade adaptada às características da via."
+      },
+      {
+        "option": "B",
+        "text": "Circular o mais próximo possível do eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1660",
+    "text": "Perante este sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1660",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1660.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a velocidade e estar atento à aproximação de uma passagem de peões."
+      },
+      {
+        "option": "B",
+        "text": "Parar sempre."
+      },
+      {
+        "option": "C",
+        "text": "Transitar com precaução, porque o sinal me indica um local frequentado por crianças."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1661",
+    "text": "Perante este sinal estou obrigado a moderar a velocidade do meu veículo. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/1661",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1661.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1662",
+    "text": "Perante este sinal sei que:",
+    "href": "https://www.bomcondutor.pt/questao/1662",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1662.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estou próximo de um local frequentado por ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Vou encontrar uma passagem para ciclistas."
+      },
+      {
+        "option": "C",
+        "text": "Vou encontrar uma pista reservada a ciclistas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1663",
+    "text": "Perante este sinal um condutor deve:",
+    "href": "https://www.bomcondutor.pt/questao/1663",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1663.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade devido ao perigo da via poder ser atravessada por animais selvagens."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade devido ao perigo de encontrar animais sem condutor na via pública."
+      },
+      {
+        "option": "C",
+        "text": "Saber que vai entrar numa zona em que os condutores de gado em manada são obrigados a transitar numa pista reservada."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1664",
+    "text": "Perante este sinal vertical devo ter a preocupação de adaptar a velocidade de circulação:",
+    "href": "https://www.bomcondutor.pt/questao/1664",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1664.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "À inclinação da via."
+      },
+      {
+        "option": "B",
+        "text": "Às condições ambientais adversas."
+      },
+      {
+        "option": "C",
+        "text": "Às condições de aderência do piso."
+      },
+      {
+        "option": "D",
+        "text": "Às condições de visibilidade reduzida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1665",
+    "text": "Perante este sinal vertical, devo:",
+    "href": "https://www.bomcondutor.pt/questao/1665",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1665.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Manter o limite máximo de velocidade permitido para esta via."
+      },
+      {
+        "option": "B",
+        "text": "Moderar especialmente a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Transitar em marcha lenta por estar próximo um troço da via pública obstruída por veículos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1666",
+    "text": "Perante este sinal:",
+    "href": "https://www.bomcondutor.pt/questao/1666",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1666.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo ceder a passagem no estreitamento da via."
+      },
+      {
+        "option": "B",
+        "text": "Devo circular a velocidade especialmente moderada."
+      },
+      {
+        "option": "C",
+        "text": "Devo passar primeiro no estreitamento da via."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1667",
+    "text": "Perante o sinal de perigo devo transitar com precaução, porque:",
+    "href": "https://www.bomcondutor.pt/questao/1667",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1667.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A via é estreita."
+      },
+      {
+        "option": "B",
+        "text": "Aproximo-me de um lugar frequentado por idosos."
+      },
+      {
+        "option": "C",
+        "text": "Vou encontrar passagens assinaladas para a travessia de peões."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1668",
+    "text": "Perante o sinal de perigo devo:",
+    "href": "https://www.bomcondutor.pt/questao/1668",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1668.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade e transitar fora da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Transitar com especial prudência."
+      },
+      {
+        "option": "C",
+        "text": "Transitar no eixo da faixa de rodagem, para me desviar das pedras."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1669",
+    "text": "Perante o sinal de perigo devo:",
+    "href": "https://www.bomcondutor.pt/questao/1669",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1669.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Transitar com precaução no eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Transitar com precaução."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1670",
+    "text": "Perante o sinal de perigo devo:",
+    "href": "https://www.bomcondutor.pt/questao/1670",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1670.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a minha condução ao perigo representado pelo sinal."
+      },
+      {
+        "option": "B",
+        "text": "Aumentar um pouco a velocidade antes da curva."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade e aproximar o veículo do eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1671",
+    "text": "Perante o sinal de perigo devo:",
+    "href": "https://www.bomcondutor.pt/questao/1671",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1671.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade e desviar o meu veículo para a esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e desviar o veículo para o eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1672",
+    "text": "Perante o sinal de perigo, é necessário:",
+    "href": "https://www.bomcondutor.pt/questao/1672",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1672.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a condução às condições adversas que possam surgir."
+      },
+      {
+        "option": "B",
+        "text": "Ligar as luzes de nevoeiro, porque a visibilidade pode ser menor."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque a neve torna o piso escorregadio."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1673",
+    "text": "Perante o sinal de perigo, fico a saber:",
+    "href": "https://www.bomcondutor.pt/questao/1673",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1673.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que o trânsito se faz nos dois sentidos e que vou transitar num túnel."
+      },
+      {
+        "option": "B",
+        "text": "Que o trânsito se faz nos dois sentidos."
+      },
+      {
+        "option": "C",
+        "text": "Que vou transitar num túnel."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1674",
+    "text": "Perante o sinal de perigo:",
+    "href": "https://www.bomcondutor.pt/questao/1674",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1674.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A velocidade deve ser moderada e a utilização das luzes é obrigatória."
+      },
+      {
+        "option": "B",
+        "text": "A velocidade deve ser moderada e a utilização das luzes não é permitida."
+      },
+      {
+        "option": "C",
+        "text": "A velocidade deve ser moderada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1675",
+    "text": "Perante o sinal de perigo:",
+    "href": "https://www.bomcondutor.pt/questao/1675",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1675.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo inverter o sentido de marcha, não arriscando assim encontrar animais selvagens."
+      },
+      {
+        "option": "B",
+        "text": "Devo inverter o sentido de marcha, não arriscando assim encontrar animais sem condutor."
+      },
+      {
+        "option": "C",
+        "text": "Devo moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1676",
+    "text": "Perante o sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1676",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1676.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade, porque circulo numa recta."
+      },
+      {
+        "option": "B",
+        "text": "Buzinar e prosseguir a marcha."
+      },
+      {
+        "option": "C",
+        "text": "Prestar especial atenção e moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1677",
+    "text": "Perante o sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1677",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1677.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar, porque o sinal está verde."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade face à aproximação da sinalização luminosa."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque o sinal está vermelho."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1678",
+    "text": "Perante o sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1678",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1678.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Parar e aguardar a descida da ponte móvel."
+      },
+      {
+        "option": "B",
+        "text": "Parar e aguardar pelo barco de transporte de automóveis."
+      },
+      {
+        "option": "C",
+        "text": "Tomar as devidas precauções, pois estou à beira do cais."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1679",
+    "text": "Perante o sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1679",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1679.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ligar as luzes de nevoeiro."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e ligar as luzes de cruzamento."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1680",
+    "text": "Perante o sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1680",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1680.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem aos ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Parar, se encontrar ciclistas."
+      },
+      {
+        "option": "C",
+        "text": "Transitar com precaução, porque posso encontrar ciclistas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1681",
+    "text": "Perante o sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1681",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1681.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Parar antes do sinal, para me certificar que não há animais no local."
+      },
+      {
+        "option": "B",
+        "text": "Transitar com precaução especial."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros, para que os animais não ocupem a faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1682",
+    "text": "Perante o sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1682",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1682.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade e parar antes de cada irregularidade."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Parar antes de cada irregularidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1683",
+    "text": "Perante o sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/1683",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1683.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Engrenar a mudança adequada à inclinação da via."
+      },
+      {
+        "option": "B",
+        "text": "Parar, antes da descida."
+      },
+      {
+        "option": "C",
+        "text": "Preparar o veículo para a descida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1684",
+    "text": "Perante o sinal que se encontra na via devo:",
+    "href": "https://www.bomcondutor.pt/questao/1684",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1684.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Moderar a velocidade porque me aproximo de uma passagem de nível localizada a 300 metros."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade devido à proximidade de um entroncamento em que transitam veículos pesados."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1685",
+    "text": "Perante o sinal vertical que procedimentos devo adoptar?",
+    "href": "https://www.bomcondutor.pt/questao/1685",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1685.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Segurar o volante com firmeza e, se necessário, compensar a força do vento virando o volante para o lado de onde o vento sopra."
+      },
+      {
+        "option": "B",
+        "text": "Segurar o volante com suavidade."
+      },
+      {
+        "option": "C",
+        "text": "Virar o volante para o lado contrário ao da incidência do vento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1686",
+    "text": "Perante o sinal vertical que se encontra na via pública devo tomar alguma precaução?",
+    "href": "https://www.bomcondutor.pt/questao/1686",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1686.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o trânsito passa a ser feito apenas num só sentido."
+      },
+      {
+        "option": "B",
+        "text": "Sim, aproxima-se um estreitamento da via com a configuração igual à do sinal."
+      },
+      {
+        "option": "C",
+        "text": "Sim, dado que não tenho prioridade no próximo entroncamento."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1687",
+    "text": "Perante o sinal vertical que se encontra na via, fico a saber:",
+    "href": "https://www.bomcondutor.pt/questao/1687",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1687.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que a ponte móvel se encontra levantada e que circulação se encontra temporariamente interrompida."
+      },
+      {
+        "option": "B",
+        "text": "Que a via onde circulo vai terminar num cais ou precipício."
+      },
+      {
+        "option": "C",
+        "text": "Que me aproximo de um local onde existe uma ponte móvel."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1688",
+    "text": "Perante o sinal vertical que se encontra nesta via pública estou obrigado a moderar a velocidade?",
+    "href": "https://www.bomcondutor.pt/questao/1688",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1688.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, apenas estou obrigado a moderar a velocidade nas descidas de inclinação acentuada."
+      },
+      {
+        "option": "B",
+        "text": "Não, apenas estou obrigado a moderar a velocidade sempre que exista grande intensidade de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, estou obrigado a moderar a velocidade em todos os locais com sinais de perigo."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1689",
+    "text": "Perante qualquer sinal de perigo estou obrigado a moderar a velocidade do meu veículo?",
+    "href": "https://www.bomcondutor.pt/questao/1689",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1689.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1690",
+    "text": "Posso circular na via pública onde se encontra o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1690",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1690.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, é uma via exclusiva para cavaleiros."
+      },
+      {
+        "option": "B",
+        "text": "Não, o sinal indica-me saída de cavaleiros."
+      },
+      {
+        "option": "C",
+        "text": "Sim, com velocidade moderada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1691",
+    "text": "Posso ultrapassar?",
+    "href": "https://www.bomcondutor.pt/questao/1691",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1691.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que sinalize correctamente a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque não existe sinalização a proibir a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1692",
+    "text": "Pratico infracção ao Código da Estrada caso não modere especialmente a velocidade nesta via pública?",
+    "href": "https://www.bomcondutor.pt/questao/1692",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1692.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o Código da Estrada não prevê qualquer sanção para este comportamento."
+      },
+      {
+        "option": "B",
+        "text": "Não, o sinal indica-me apenas que a via com prioridade muda de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Sim, o sinal de perigo indica-me a existência de uma curva perigosa à esquerda."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1693",
+    "text": "Qual a indicação dada pelo sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1693",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1693.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Obstrução de via."
+      },
+      {
+        "option": "C",
+        "text": "Queda de pedras."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1694",
+    "text": "Qual a indicação que este sinal dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1694",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1694.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Obstrução da via."
+      },
+      {
+        "option": "B",
+        "text": "Outros perigos."
+      },
+      {
+        "option": "C",
+        "text": "Trabalhos na via."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1695",
+    "text": "Qual a indicação que este sinal vertical dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1695",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1695.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Existência de curva perigosa à direita."
+      },
+      {
+        "option": "B",
+        "text": "Que a via com prioridade muda de direcção à direita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1696",
+    "text": "Qual a indicação que este sinal vertical dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1696",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1696.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Local frequentado por cavaleiros."
+      },
+      {
+        "option": "B",
+        "text": "Pista obrigatória para cavaleiros."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a cavaleiros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1697",
+    "text": "Qual a indicação que o sinal vertical dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1697",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1697.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proximidade de um local onde se encontram veículos estacionados na berma."
+      },
+      {
+        "option": "B",
+        "text": "Um estreitamento da via e que devem utilizar parte da berma."
+      },
+      {
+        "option": "C",
+        "text": "Um troço de via com bermas baixas do lado direito."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1698",
+    "text": "Qual a indicação que o sinal vertical dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1698",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1698.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que a via pode ser atravessada por animais selvagens."
+      },
+      {
+        "option": "B",
+        "text": "Sinalização de zona de caça."
+      },
+      {
+        "option": "C",
+        "text": "Troço de via onde podem ser encontrados animais sem condutor."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1699",
+    "text": "Qual a indicação que o sinal vertical dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1699",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1699.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aconselha a circular ao centro da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Bermas baixas dos dois lados da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Proximidade de uma lomba no pavimento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1700",
+    "text": "Qual a indicação que o sinal vertical triangular dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1700",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1700.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A existência de trabalhos na via e a configuração do desvio de itinerário."
+      },
+      {
+        "option": "B",
+        "text": "A proximidade de uma sucessão de curvas perigosas, sendo a primeira à direita."
+      },
+      {
+        "option": "C",
+        "text": "Curva à esquerda e contracurva."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1701",
+    "text": "Qual a indicação que o sinal vertical triangular dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1701",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1701.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma passagem de peões."
+      },
+      {
+        "option": "B",
+        "text": "Informa os condutores da localização de uma passagem para peões desnivelada."
+      },
+      {
+        "option": "C",
+        "text": "Que podem ser encontrados peões a atravessar a faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1702",
+    "text": "Qual a indicação que o sinal vertical triangular dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/1702",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1702.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Início de uma pista obrigatória para peões."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de um local frequentado por crianças."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a peões."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1703",
+    "text": "Qual o perigo indicado por este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1703",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1703.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Projecção de gravilha."
+      },
+      {
+        "option": "C",
+        "text": "Queda de pedras."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1704",
+    "text": "Qual o significado deste sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1704",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1704.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais selvagens."
+      },
+      {
+        "option": "B",
+        "text": "Gado em manada."
+      },
+      {
+        "option": "C",
+        "text": "Local reservado à caça de animais selvagens."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1705",
+    "text": "Qual o significado do sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1705",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1705.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Passagem estreita."
+      },
+      {
+        "option": "B",
+        "text": "Supressão da via da direita."
+      },
+      {
+        "option": "C",
+        "text": "Velocidade máxima recomendada."
+      },
+      {
+        "option": "D",
+        "text": "Velocidade mínima recomendada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1706",
+    "text": "Qual o significado do sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1706",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1706.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Depressão."
+      },
+      {
+        "option": "B",
+        "text": "Lomba ou depressão."
+      },
+      {
+        "option": "C",
+        "text": "Lomba."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1707",
+    "text": "Qual o significado do sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1707",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1707.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva à esquerda e contracurva."
+      },
+      {
+        "option": "B",
+        "text": "Indica o sentido obrigatório possível."
+      },
+      {
+        "option": "C",
+        "text": "Obrigação de seguir no sentido indicado pela seta."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1708",
+    "text": "Qual o significado do sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1708",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1708.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de pista obrigatória para ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Saída de ciclistas."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a ciclistas."
+      },
+      {
+        "option": "D",
+        "text": "Via reservada a veículos de duas rodas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1709",
+    "text": "Qual o significado do sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1709",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1709.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Descida de inclinação acentuada."
+      },
+      {
+        "option": "B",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "C",
+        "text": "Pavimento irregular."
+      },
+      {
+        "option": "D",
+        "text": "Subida de inclinação acentuada."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1710",
+    "text": "Qual o significado do sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1710",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1710.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Condições atmosféricas adversas."
+      },
+      {
+        "option": "B",
+        "text": "Neve ou gelo."
+      },
+      {
+        "option": "C",
+        "text": "Pavimento escorregadio."
+      },
+      {
+        "option": "D",
+        "text": "Visibilidade reduzida."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1711",
+    "text": "Qual o significado do sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1711",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1711.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais sem condutor."
+      },
+      {
+        "option": "B",
+        "text": "Entrada em zona de pastagem."
+      },
+      {
+        "option": "C",
+        "text": "Início de reserva natural."
+      },
+      {
+        "option": "D",
+        "text": "Pista para gado em manada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1712",
+    "text": "Qual o significado do sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1712",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1712.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Intersecção com via onde circulam automóveis pesados."
+      },
+      {
+        "option": "B",
+        "text": "Passagem de nível com cancelas ou barreiras."
+      },
+      {
+        "option": "C",
+        "text": "Passagem de nível com guarda."
+      },
+      {
+        "option": "D",
+        "text": "Passagem de nível sem guarda."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1713",
+    "text": "Que indicação me dá o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1713",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1713.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Local frequentado por condutores de veículos de duas rodas."
+      },
+      {
+        "option": "B",
+        "text": "Obrigatoriedade de ceder a passagem aos ciclistas."
+      },
+      {
+        "option": "C",
+        "text": "Proximidade de local frequentemente utilizado por ciclistas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1714",
+    "text": "Que indicação me dá o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1714",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1714.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Indica-me um troço de via com bermas baixas."
+      },
+      {
+        "option": "B",
+        "text": "Que a circulação passa a fazer-se apenas num só sentido."
+      },
+      {
+        "option": "C",
+        "text": "Que vou entrar numa via reservada a veículos automóveis."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1715",
+    "text": "Que manobra(s) estou proibido de realizar até encontrar este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1715",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1715.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inversão do sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Mudança de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Paragem e estacionamento."
+      },
+      {
+        "option": "D",
+        "text": "Ultrapassagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1716",
+    "text": "Que significado tem o sinal de perigo?",
+    "href": "https://www.bomcondutor.pt/questao/1716",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1716.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estreitamento da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Túnel."
+      },
+      {
+        "option": "C",
+        "text": "Visibilidade reduzida."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1717",
+    "text": "Que significado tem o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1717",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1717.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Indicação de um local frequentado por trabalhadores agrícolas."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de via sem saída devido a obras no local."
+      },
+      {
+        "option": "C",
+        "text": "Trabalhos na via."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1718",
+    "text": "Regra geral, a situação de perigo para a qual este sinal me adverte, encontra-se:",
+    "href": "https://www.bomcondutor.pt/questao/1718",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1718.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Entre 100 a 250 metros do sinal."
+      },
+      {
+        "option": "B",
+        "text": "Entre 150 a 300 metros do sinal."
+      },
+      {
+        "option": "C",
+        "text": "Entre 25 a 50 metros do sinal."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1719",
+    "text": "Sempre que vejo este sinal, sei que vou encontrar:",
+    "href": "https://www.bomcondutor.pt/questao/1719",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1719.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um local frequentado por crianças."
+      },
+      {
+        "option": "B",
+        "text": "Uma escola."
+      },
+      {
+        "option": "C",
+        "text": "Uma passagem de peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1720",
+    "text": "Sou advertido(a) para a situação de perigo que:",
+    "href": "https://www.bomcondutor.pt/questao/1720",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1720.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Irá manter-se numa extensão de 1,3 km."
+      },
+      {
+        "option": "B",
+        "text": "Se encontra a 1,45 km."
+      },
+      {
+        "option": "C",
+        "text": "Tem início dentro de 1,3 km."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1721",
+    "text": "Um destes sinais verticais indica que existem obras no local?",
+    "href": "https://www.bomcondutor.pt/questao/1721",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1721.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não. Estes sinais apenas me indicam que existem algumas alterações no trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Sim, ambos os sinais."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1722",
+    "text": "Uma descida perigosa com 8% de inclinação significa que:",
+    "href": "https://www.bomcondutor.pt/questao/1722",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1722.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Em cada 100 metros percorridos descemos 8 metros."
+      },
+      {
+        "option": "B",
+        "text": "Em cada 100 metros percorridos descemos 80 metros."
+      },
+      {
+        "option": "C",
+        "text": "Em cada quilómetro percorrido descemos 8 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  }
+]

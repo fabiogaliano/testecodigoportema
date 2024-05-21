@@ -1,0 +1,6628 @@
+[
+  {
+    "id": "2304",
+    "text": "À distância a que me encontro do sinal, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2304",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2304.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade, para continuar a marcha sem imobilizar o veículo."
+      },
+      {
+        "option": "B",
+        "text": "Parar."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade, com o objectivo de imobilizar o veículo perto do sinal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2305",
+    "text": "A função das guias é tornar os limites da faixa de rodagem mais visíveis. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2305",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2305.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2306",
+    "text": "A indicação dada pelo agente regulador de trânsito destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2306",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2306.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A fazer parar o trânsito."
+      },
+      {
+        "option": "B",
+        "text": "A mandar avançar o trânsito."
+      },
+      {
+        "option": "C",
+        "text": "A obrigar todos os condutores a abrandar marcha."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2307",
+    "text": "A indicação dada pelo agente regulador de trânsito obriga o trânsito que vem da sua frente e da sua retaguarda a:",
+    "href": "https://www.bomcondutor.pt/questao/2307",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2307.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2308",
+    "text": "A indicação dada pelo agente regulador de trânsito significa que devo:",
+    "href": "https://www.bomcondutor.pt/questao/2308",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2308.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar."
+      },
+      {
+        "option": "B",
+        "text": "Parar, unicamente se a minha intenção for seguir em frente."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2309",
+    "text": "A indicação dada pelo agente regulador de trânsito, destina-se ao trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/2309",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2309.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Da direita."
+      },
+      {
+        "option": "B",
+        "text": "Em sentido contrário ao meu."
+      },
+      {
+        "option": "C",
+        "text": "Que circula à minha retaguarda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2310",
+    "text": "A indicação dada pelo agente regulador de trânsito, destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2310",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2310.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos condutores à minha direita."
+      },
+      {
+        "option": "B",
+        "text": "Aos condutores à minha esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Aos condutores que transitam na minha via de trânsito."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2311",
+    "text": "A indicação dada pelo agente regulador de trânsito, destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2311",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2311.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao trânsito à sua direita."
+      },
+      {
+        "option": "B",
+        "text": "Ao trânsito à sua retaguarda."
+      },
+      {
+        "option": "C",
+        "text": "Ao trânsito da frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2312",
+    "text": "A indicação dada pelo sinal luminoso destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2312",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2312.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao trânsito das duas vias de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Aos dois sentidos de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Apenas ao trânsito da via de trânsito da direita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2313",
+    "text": "A linha amarela do lado direito da faixa de rodagem significa que:",
+    "href": "https://www.bomcondutor.pt/questao/2313",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2313.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A via de trânsito vai estar sujeita a obras e não posso parar neste local, salvo para a entrada ou saída de passageiros e desde que esteja pronto a retomar a marcha se dificultar o trânsito ou as obras."
+      },
+      {
+        "option": "B",
+        "text": "É proibido parar ou estacionar em toda a extensão da linha, excepto para efectuar cargas ou descargas."
+      },
+      {
+        "option": "C",
+        "text": "É proibido parar ou estacionar em toda a extensão da linha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2314",
+    "text": "A linha branca no lado direito da faixa de rodagem designa-se:",
+    "href": "https://www.bomcondutor.pt/questao/2314",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2314.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Guia."
+      },
+      {
+        "option": "B",
+        "text": "Linha contínua de aviso."
+      },
+      {
+        "option": "C",
+        "text": "Linha contínua."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2315",
+    "text": "A linha contínua amarela junto ao limite direito da faixa de rodagem indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/2315",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2315.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que é proibido parar ou estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Que posso parar apenas pelo tempo estritamente necessário para a entrada ou saída de passageiros."
+      },
+      {
+        "option": "C",
+        "text": "Que posso parar mas não estacionar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2316",
+    "text": "A linha contínua que separa os dois sentidos de trânsito indica-me que:",
+    "href": "https://www.bomcondutor.pt/questao/2316",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2316.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso pisar nem transpor a linha."
+      },
+      {
+        "option": "B",
+        "text": "Posso pisar desde que não transponha a linha."
+      },
+      {
+        "option": "C",
+        "text": "Posso transpor a linha."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2317",
+    "text": "A linha contínua separadora dos dois sentidos de trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/2317",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2317.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Obriga-me sempre a transitar à sua direita."
+      },
+      {
+        "option": "B",
+        "text": "Permite-me pisar ou transpor apenas para realizar manobras."
+      },
+      {
+        "option": "C",
+        "text": "Permite-me pisar ou transpor."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2318",
+    "text": "A linha de paragem transversal indica:",
+    "href": "https://www.bomcondutor.pt/questao/2318",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2318.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A obrigação de imobilizar o meu veículo sobre a marca rodoviária."
+      },
+      {
+        "option": "B",
+        "text": "O local de paragem, imposta pela sinalização luminosa."
+      },
+      {
+        "option": "C",
+        "text": "Que não pode ser transposta independentemente da sinalização luminosa."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2319",
+    "text": "A linha descontínua amarela que se encontra à minha direita permite-me:",
+    "href": "https://www.bomcondutor.pt/questao/2319",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2319.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar para cargas e descargas."
+      },
+      {
+        "option": "B",
+        "text": "Parar e estacionar durante o dia."
+      },
+      {
+        "option": "C",
+        "text": "Parar para largar um passageiro."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2320",
+    "text": "A linha descontínua de aviso que se encontra no pavimento, indica-me a proximidade de uma:",
+    "href": "https://www.bomcondutor.pt/questao/2320",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2320.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Linha contínua."
+      },
+      {
+        "option": "B",
+        "text": "Linha descontínua de abrandamento."
+      },
+      {
+        "option": "C",
+        "text": "Linha descontínua."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2321",
+    "text": "A linha descontínua de cor amarela indica-me que:",
+    "href": "https://www.bomcondutor.pt/questao/2321",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2321.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso parar nem estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Posso estacionar mas não parar."
+      },
+      {
+        "option": "C",
+        "text": "Posso parar mas não estacionar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2322",
+    "text": "A linha longitudinal contínua aposta no eixo da faixa de rodagem indica:",
+    "href": "https://www.bomcondutor.pt/questao/2322",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2322.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O dever de circular à sua esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de a pisar ou transpor."
+      },
+      {
+        "option": "C",
+        "text": "Que pode ser pisada ou transposta para efectuar manobras."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2323",
+    "text": "A linha longitudinal contínua pode ser pisada ou transposta.",
+    "href": "https://www.bomcondutor.pt/questao/2323",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2323.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2324",
+    "text": "A linha longitudinal contínua que se encontra à minha direita pode ser pisada ou transposta?",
+    "href": "https://www.bomcondutor.pt/questao/2324",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2324.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nem mesmo para mudar de direcção."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas se o meu destino for o Lumiar ou Paço do Lumiar."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas se pretender mudar de direcção."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2325",
+    "text": "A linha longitudinal descontínua inscrita no pavimento delimita uma via de trânsito em que o condutor deve:",
+    "href": "https://www.bomcondutor.pt/questao/2325",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2325.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Engrenar uma mudança de força."
+      },
+      {
+        "option": "C",
+        "text": "Fazer uso dos sinais luminosos."
+      },
+      {
+        "option": "D",
+        "text": "Reduzir a velocidade."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "2326",
+    "text": "A linha mista marcada no pavimento permite-me ultrapassar o tractor agrícola?",
+    "href": "https://www.bomcondutor.pt/questao/2326",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2326.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a linha mista proíbe a ultrapassagem."
+      },
+      {
+        "option": "B",
+        "text": "Sim, caso não haja trânsito em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas só se houver espaço de modo a não pisar a linha contínua."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2327",
+    "text": "A luz amarela constante do sinal luminoso antecede a luz:",
+    "href": "https://www.bomcondutor.pt/questao/2327",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2327.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Amarela intermitente."
+      },
+      {
+        "option": "B",
+        "text": "Verde."
+      },
+      {
+        "option": "C",
+        "text": "Vermelha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2328",
+    "text": "A luz amarela intermitente do semáforo da esquerda pode condicionar a minha circulação?",
+    "href": "https://www.bomcondutor.pt/questao/2328",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2328.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque sigo em frente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque sigo em frente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, sempre."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2329",
+    "text": "A luz amarela rotativa, deve ser colocada :",
+    "href": "https://www.bomcondutor.pt/questao/2329",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2329.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Atrás do condutor, do lado direito do veículo e visível a pelo menos 100 m"
+      },
+      {
+        "option": "B",
+        "text": "Atrás do condutor, do lado esquerdo do veículo e visível a pelo menos 100 m."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2330",
+    "text": "A luz de cor amarela não intermitente indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/2330",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2330.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Transição do verde para o vermelho."
+      },
+      {
+        "option": "B",
+        "text": "Transição do vermelho para o verde."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2331",
+    "text": "A luz verde de regulação do trânsito destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2331",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2331.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos condutores que pretendem mudar de direcção à esquerda ou seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Apenas aos condutores que pretendem inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Apenas aos condutores que pretendem mudar de direcção para a esquerda."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2332",
+    "text": "A luz verde do semáforo regula o sentido de trânsito para o condutor que pretenda:",
+    "href": "https://www.bomcondutor.pt/questao/2332",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2332.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Seguir em frente ou virar para a esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Seguir em frente."
+      },
+      {
+        "option": "C",
+        "text": "Seguir para a direita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2333",
+    "text": "A manobra que o condutor da frente realiza está correcta?",
+    "href": "https://www.bomcondutor.pt/questao/2333",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2333.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque transpõe uma raia delimitada por uma linha contínua."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que a esteja a realizar como manobra de recurso."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que a sua realização não ponha em perigo a restante circulação."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2334",
+    "text": "A marca longitudinal que separa os dois sentidos de trânsito indica-me que:",
+    "href": "https://www.bomcondutor.pt/questao/2334",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2334.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estou proibido de pisar ou transpor a marca rodoviária."
+      },
+      {
+        "option": "B",
+        "text": "O condutor que circula em sentido contrário está proibido de a pisar ou transpor."
+      },
+      {
+        "option": "C",
+        "text": "Só posso pisar ou transpor a marca rodoviária para efectuar manobras."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2335",
+    "text": "A marca rodoviária à minha direita destina-se a identificar a via de trânsito que delimita como:",
+    "href": "https://www.bomcondutor.pt/questao/2335",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2335.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Corredor de circulação."
+      },
+      {
+        "option": "B",
+        "text": "Via de abrandamento."
+      },
+      {
+        "option": "C",
+        "text": "Via de aceleração."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2336",
+    "text": "A marca rodoviária colocada no eixo da faixa de rodagem à minha esquerda:",
+    "href": "https://www.bomcondutor.pt/questao/2336",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2336.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É uma linha mista."
+      },
+      {
+        "option": "B",
+        "text": "Obriga à manobra de ultrapassagem."
+      },
+      {
+        "option": "C",
+        "text": "Proíbe-me a manobra de ultrapassagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2337",
+    "text": "A marca rodoviária de cor amarela colocada no eixo da faixa de rodagem:",
+    "href": "https://www.bomcondutor.pt/questao/2337",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2337.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não pode ser transposta."
+      },
+      {
+        "option": "B",
+        "text": "Pode ser transposta, porque tem carácter temporário."
+      },
+      {
+        "option": "C",
+        "text": "Regula a paragem e o estacionamento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2338",
+    "text": "A marca rodoviária de cor amarela existente nesta via pública:",
+    "href": "https://www.bomcondutor.pt/questao/2338",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2338.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proíbe a paragem e o estacionamento de veículos."
+      },
+      {
+        "option": "B",
+        "text": "Proíbe a paragem e permite o estacionamento de veículos."
+      },
+      {
+        "option": "C",
+        "text": "Proíbe o estacionamento e permite a paragem de veículos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2339",
+    "text": "A marca rodoviária de cor amarela proíbe o estacionamento?",
+    "href": "https://www.bomcondutor.pt/questao/2339",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2339.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "B",
+        "text": "Sim, se o estacionamento não se destinar a cargas e descargas."
+      },
+      {
+        "option": "C",
+        "text": "Sim, sempre."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2340",
+    "text": "A marca rodoviária inscrita sobre o bordo do passeio proíbe-me de:",
+    "href": "https://www.bomcondutor.pt/questao/2340",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2340.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Parar e estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2341",
+    "text": "A marca rodoviária proíbe a paragem?",
+    "href": "https://www.bomcondutor.pt/questao/2341",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2341.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "B",
+        "text": "Não, se a paragem se destinar a cargas e descargas."
+      },
+      {
+        "option": "C",
+        "text": "Não, se a paragem se destinar à entrada ou saída de passageiros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2342",
+    "text": "A marca rodoviária que divide os sentidos de trânsito, é uma linha:",
+    "href": "https://www.bomcondutor.pt/questao/2342",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2342.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Contínua."
+      },
+      {
+        "option": "B",
+        "text": "Descontínua."
+      },
+      {
+        "option": "C",
+        "text": "Mista."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2343",
+    "text": "A marca rodoviária sobre a qual está parado o veículo designa-se:",
+    "href": "https://www.bomcondutor.pt/questao/2343",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2343.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Guia."
+      },
+      {
+        "option": "B",
+        "text": "Linha contínua."
+      },
+      {
+        "option": "C",
+        "text": "Linha delimitadora de sentido de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2344",
+    "text": "A ordem dada pelo agente regulador de trânsito destina-se aos veículos, que estão:",
+    "href": "https://www.bomcondutor.pt/questao/2344",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2344.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "À sua frente."
+      },
+      {
+        "option": "B",
+        "text": "À sua retaguarda."
+      },
+      {
+        "option": "C",
+        "text": "Do seu lado esquerdo."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2345",
+    "text": "A ordem dada pelo agente regulador de trânsito destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2345",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2345.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao trânsito que está à sua direita."
+      },
+      {
+        "option": "B",
+        "text": "Ao trânsito que vem de frente e da retaguarda."
+      },
+      {
+        "option": "C",
+        "text": "Unicamente ao trânsito à sua direita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2346",
+    "text": "A ordem dada pelo agente regulador de trânsito prevalece, sobre todas as outras regras e sinais de trânsito.",
+    "href": "https://www.bomcondutor.pt/questao/2346",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2346.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2347",
+    "text": "A paragem nesta faixa de rodagem é imposta:",
+    "href": "https://www.bomcondutor.pt/questao/2347",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2347.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os veículos que transitam em qualquer das vias de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Apenas aos veículos que pretendam seguir em frente."
+      },
+      {
+        "option": "C",
+        "text": "Apenas aos veículos que transitam na via de trânsito da direita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2348",
+    "text": "A partir deste momento devo utilizar as luzes de:",
+    "href": "https://www.bomcondutor.pt/questao/2348",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2348.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Máximos."
+      },
+      {
+        "option": "B",
+        "text": "Médios."
+      },
+      {
+        "option": "C",
+        "text": "Mínimos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2349",
+    "text": "A partir do local onde está colocado o sinal:",
+    "href": "https://www.bomcondutor.pt/questao/2349",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2349.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo acender as luzes de estrada."
+      },
+      {
+        "option": "B",
+        "text": "Não posso utilizar sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Posso utilizar sinais sonoros em caso de perigo iminente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2350",
+    "text": "A que tipo de sinalização pertence este sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/2350",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2350.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sinalização de carácter temporário."
+      },
+      {
+        "option": "B",
+        "text": "Sinalização de mensagem variável."
+      },
+      {
+        "option": "C",
+        "text": "Sinalização de zona."
+      },
+      {
+        "option": "D",
+        "text": "Sinalização turístico-cultural."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "2351",
+    "text": "A sequência de pares de linhas transversais de cor branca que se encontram no pavimento, servem para indicar aos condutores:",
+    "href": "https://www.bomcondutor.pt/questao/2351",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2351.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A largura da via pública."
+      },
+      {
+        "option": "B",
+        "text": "O número de vias de trânsito no mesmo sentido."
+      },
+      {
+        "option": "C",
+        "text": "Que devem reduzir a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2352",
+    "text": "A seta marcada na faixa de rodagem é:",
+    "href": "https://www.bomcondutor.pt/questao/2352",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2352.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma raia oblíqua."
+      },
+      {
+        "option": "B",
+        "text": "Uma seta de desvio."
+      },
+      {
+        "option": "C",
+        "text": "Uma seta de selecção."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2353",
+    "text": "A sinalização complementar de cor amarela e preta que se encontra nesta via pública indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/2353",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2353.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A posição e limites de obstáculos existentes na via."
+      },
+      {
+        "option": "B",
+        "text": "Fim de localidade."
+      },
+      {
+        "option": "C",
+        "text": "Que posso parar mas não estacionar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2354",
+    "text": "A sinalização de mensagem variável pode informar sobre a afectação de vias de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/2354",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2354.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca pode."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas nas auto-estradas ou vias equiparadas."
+      },
+      {
+        "option": "C",
+        "text": "Sim, pode."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2355",
+    "text": "A sinalização de mensagem variável pode ser colocada:",
+    "href": "https://www.bomcondutor.pt/questao/2355",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2355.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Do lado direito da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Do lado direito ou sobre a faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Unicamente sobre a via."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2356",
+    "text": "A sinalização de mensagem variável pode servir para condicionar a circulação em determinadas vias de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/2356",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2356.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2357",
+    "text": "A sinalização de mensagem variável tem por finalidade:",
+    "href": "https://www.bomcondutor.pt/questao/2357",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2357.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Melhorar a fluidez da circulação, transmitindo uma obrigação, proibição ou indicação."
+      },
+      {
+        "option": "B",
+        "text": "Transmitir apenas obrigações."
+      },
+      {
+        "option": "C",
+        "text": "Transmitir apenas proibições."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2358",
+    "text": "A sinalização de mensagem variável:",
+    "href": "https://www.bomcondutor.pt/questao/2358",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2358.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas pode indicar perigo."
+      },
+      {
+        "option": "B",
+        "text": "Não tem qualquer valor, para além do informativo."
+      },
+      {
+        "option": "C",
+        "text": "Pode indicar uma proibição ou uma obrigação."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2359",
+    "text": "A sinalização de posição tem como principal função:",
+    "href": "https://www.bomcondutor.pt/questao/2359",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2359.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Delimitar obstáculos ou zona e imediações"
+      },
+      {
+        "option": "B",
+        "text": "Sinalizar a aproximação de obstáculos ou zona de obras."
+      },
+      {
+        "option": "C",
+        "text": "Substituir os agentes fiscalizadores do trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2360",
+    "text": "A sinalização desta via pública obriga-me a:",
+    "href": "https://www.bomcondutor.pt/questao/2360",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2360.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem aos veículos que saiam do parque de estacionamento."
+      },
+      {
+        "option": "B",
+        "text": "Moderar especialmente a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2361",
+    "text": "A sinalização luminosa desta via pública indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/2361",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2361.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Passagem autorizada."
+      },
+      {
+        "option": "B",
+        "text": "Que apenas estou autorizado a mudar de direcção à direita."
+      },
+      {
+        "option": "C",
+        "text": "Que devo parar antes de atingir a zona regulada pelo sinal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2362",
+    "text": "A sinalização luminosa permite avançar os veículos que circulam na via de trânsito à minha esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2362",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2362.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a sinalização luminosa não permite avançar."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização luminosa permite avançar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2363",
+    "text": "A sinalização luminosa permite-me mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2363",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2363.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas com precaução."
+      },
+      {
+        "option": "C",
+        "text": "Sim, tenho prioridade de passagem e o veículo que circula em sentido contrário deve suspender a sua marcha."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2364",
+    "text": "A sinalização que encontro neste local:",
+    "href": "https://www.bomcondutor.pt/questao/2364",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2364.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É de carácter temporário."
+      },
+      {
+        "option": "B",
+        "text": "Obriga-me a transitar a 50 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Regula a paragem e o estacionamento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2365",
+    "text": "A sinalização temporária prevalece sobre as regras de trânsito e sinais luminosos, verticais e marcas rodoviárias. Concorda com a afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2365",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2365.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2366",
+    "text": "A via de abrandamento destina-se a permitir que os veículos:",
+    "href": "https://www.bomcondutor.pt/questao/2366",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2366.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Continuem a transitar nesta via pública."
+      },
+      {
+        "option": "B",
+        "text": "Que pretendam sair desta via pública diminuam a velocidade já fora da corrente de trânsito principal."
+      },
+      {
+        "option": "C",
+        "text": "Reduzam a velocidade para entrarem numa escapatória."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2367",
+    "text": "A via de abrandamento é a via de trânsito mais à direita e destinada aos veículos que pretendam sair da auto-estrada.",
+    "href": "https://www.bomcondutor.pt/questao/2367",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2367.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2368",
+    "text": "A via de aceleração destina-se a:",
+    "href": "https://www.bomcondutor.pt/questao/2368",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2368.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Permitir a redução de velocidade para sair da via de trânsito principal."
+      },
+      {
+        "option": "B",
+        "text": "Permitir que os veículos atinjam a velocidade adequada para entrarem na via de trânsito principal."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito mais rápido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2369",
+    "text": "A via de aceleração é a via de trânsito mais à esquerda e destinada ao trânsito mais rápido. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2369",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2369.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2370",
+    "text": "A via de trânsito onde circulo destina-se a permitir que os veículos:",
+    "href": "https://www.bomcondutor.pt/questao/2370",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2370.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Atinjam a velocidade adequada para se incorporarem convenientemente na corrente do trânsito principal."
+      },
+      {
+        "option": "B",
+        "text": "Diminuam a velocidade para saírem da corrente de trânsito principal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2371",
+    "text": "Ao aproximar-me da sinalização luminosa devo:",
+    "href": "https://www.bomcondutor.pt/questao/2371",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2371.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar desde que passe de imediato para a via da esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Avançar o mais rapidamente possível."
+      },
+      {
+        "option": "C",
+        "text": "Parar, caso o possa fazer em segurança."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2372",
+    "text": "Ao circular nesta via de trânsito devo utilizar as luzes de:",
+    "href": "https://www.bomcondutor.pt/questao/2372",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2372.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cruzamento."
+      },
+      {
+        "option": "B",
+        "text": "Estrada."
+      },
+      {
+        "option": "C",
+        "text": "Presença."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2373",
+    "text": "Ao circular nesta via de trânsito estou correctamente posicionado para mudar de direcção à esquerda no próximo entroncamento. Concorda com a afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2373",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2373.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra é permitida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2374",
+    "text": "Ao circular nesta via e perante o sinal de luz amarela intermitente:",
+    "href": "https://www.bomcondutor.pt/questao/2374",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2374.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estou autorizado a passar desde que o faça com especial prudência."
+      },
+      {
+        "option": "B",
+        "text": "Estou proibido de entrar na zona regulada pelo sinal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2375",
+    "text": "Ao circular nesta via pública devo:",
+    "href": "https://www.bomcondutor.pt/questao/2375",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2375.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade até 50 Km/h, porque é a velocidade recomendada."
+      },
+      {
+        "option": "B",
+        "text": "Manter ou aumentar a velocidade porque a via de trânsito encontra-se desimpedida."
+      },
+      {
+        "option": "C",
+        "text": "Moderar especialmente a velocidade porque me aproximo de uma passagem para peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2376",
+    "text": "Ao circular neste local estou obrigado a moderar especialmente a velocidade do meu veículo?",
+    "href": "https://www.bomcondutor.pt/questao/2376",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2376.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, embora por precaução deva reduzir a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mantendo sempre a velocidade média de 50 Km/h."
+      },
+      {
+        "option": "C",
+        "text": "Sim, sempre."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2377",
+    "text": "Ao circular neste local, se algum peão já tiver iniciado a travessia da faixa de rodagem devo parar?",
+    "href": "https://www.bomcondutor.pt/questao/2377",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2377.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, devo."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2378",
+    "text": "Ao circular neste local, se pretendesse entrar na área de serviço deveria ter-me aproximado o mais possível, e com a necessária antecedência, do limite direito da faixa de rodagem. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2378",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2378.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2379",
+    "text": "Ao parar junto desta passagem de nível, devo utilizar as luzes de:",
+    "href": "https://www.bomcondutor.pt/questao/2379",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2379.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cruzamento."
+      },
+      {
+        "option": "B",
+        "text": "Estrada."
+      },
+      {
+        "option": "C",
+        "text": "Presença."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2380",
+    "text": "Ao transitar numa via com sinalização luminosa, como devo proceder se o sinal estiver vermelho e um agente me mandar avançar?",
+    "href": "https://www.bomcondutor.pt/questao/2380",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2380.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo obedecer à ordem do agente regulador do trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Devo respeitar a luz vermelha e parar imediatamente o veículo."
+      },
+      {
+        "option": "C",
+        "text": "Devo respeitar a luz vermelha, pois as ordens do agente só prevalecem perante as regras de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2381",
+    "text": "Após o sinal de mensagem variável, a velocidade indicada no sinal é:",
+    "href": "https://www.bomcondutor.pt/questao/2381",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2381.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A máxima."
+      },
+      {
+        "option": "B",
+        "text": "A mínima."
+      },
+      {
+        "option": "C",
+        "text": "A recomendada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2382",
+    "text": "As luzes amarelas alternadas existentes neste local servem para:",
+    "href": "https://www.bomcondutor.pt/questao/2382",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2382.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Advertir-me da aproximação de uma passagem de nível."
+      },
+      {
+        "option": "B",
+        "text": "Advertir-me de uma situação de perigo."
+      },
+      {
+        "option": "C",
+        "text": "Impor a paragem dos veículos que circulem a mais de 60 Km/h."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2383",
+    "text": "As luzes amarelas alternadas servem para:",
+    "href": "https://www.bomcondutor.pt/questao/2383",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2383.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Advertir-me para uma situação de perigo."
+      },
+      {
+        "option": "B",
+        "text": "Me indicar a obrigação de parar, desde que tenha espaço suficiente."
+      },
+      {
+        "option": "C",
+        "text": "Passarem a vermelho, caso circule a mais de 60 Km/h."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2384",
+    "text": "As marcas no pavimento recomendam-me a distância de segurança que devo manter em relação ao veículo que circula à minha frente.",
+    "href": "https://www.bomcondutor.pt/questao/2384",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2384.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2385",
+    "text": "As marcas rodoviárias de cor amarela podem regular a paragem e o estacionamento?",
+    "href": "https://www.bomcondutor.pt/questao/2385",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2385.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "B",
+        "text": "Sim, em algumas situações."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2386",
+    "text": "As marcas rodoviárias de cor amarela que se encontram no pavimento designam-se:",
+    "href": "https://www.bomcondutor.pt/questao/2386",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2386.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bandas cromáticas."
+      },
+      {
+        "option": "B",
+        "text": "Guias de velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Marcas de segurança."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2387",
+    "text": "As marcas rodoviárias que orientam os sentidos de trânsito na proximidade do entroncamento designam-se por setas de:",
+    "href": "https://www.bomcondutor.pt/questao/2387",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2387.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Desvio."
+      },
+      {
+        "option": "B",
+        "text": "Selecção."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2388",
+    "text": "As marcas rodoviárias que se encontram na minha via de trânsito indicam-me:",
+    "href": "https://www.bomcondutor.pt/questao/2388",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2388.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A distância de segurança que devo manter em relação aos veículos da frente."
+      },
+      {
+        "option": "B",
+        "text": "Que devo reduzir a velocidade do meu veículo."
+      },
+      {
+        "option": "C",
+        "text": "Que não devo entrar na zona abrangida pela sinalização se for previsível que a intensidade do trânsito me obrigue a parar dentro daquela área."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2389",
+    "text": "As marcas rodoviárias que se encontram no eixo da faixa de rodagem chamam-se:",
+    "href": "https://www.bomcondutor.pt/questao/2389",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2389.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Linha descontínua de aviso."
+      },
+      {
+        "option": "B",
+        "text": "Linha mista."
+      },
+      {
+        "option": "C",
+        "text": "Linhas contínuas adjacentes."
+      },
+      {
+        "option": "D",
+        "text": "Linhas de sentido reversível."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2390",
+    "text": "As marcas rodoviárias sobre as quais se encontra o robot, tem a designação de:",
+    "href": "https://www.bomcondutor.pt/questao/2390",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2390.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bandas sonoras."
+      },
+      {
+        "option": "B",
+        "text": "Marcas de desvio."
+      },
+      {
+        "option": "C",
+        "text": "Raias."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2391",
+    "text": "As marcas rodoviárias transversais que se encontram no pavimento chamam-se:",
+    "href": "https://www.bomcondutor.pt/questao/2391",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2391.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bandas cromáticas."
+      },
+      {
+        "option": "B",
+        "text": "Guias."
+      },
+      {
+        "option": "C",
+        "text": "Marcas de segurança."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2392",
+    "text": "As marcas transversais que encontro no pavimento, são:",
+    "href": "https://www.bomcondutor.pt/questao/2392",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2392.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bandas cromáticas."
+      },
+      {
+        "option": "B",
+        "text": "Guias."
+      },
+      {
+        "option": "C",
+        "text": "Raias oblíquas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2393",
+    "text": "As marcas transversais que encontro no pavimento:",
+    "href": "https://www.bomcondutor.pt/questao/2393",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2393.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Alertam para a necessidade de moderar a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Alertam para a obrigatoriedade de paragem do veículo."
+      },
+      {
+        "option": "C",
+        "text": "Alertam para obras no local."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2394",
+    "text": "As marcas transversais que se encontram no pavimento alertam os condutores:",
+    "href": "https://www.bomcondutor.pt/questao/2394",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2394.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Para a distância de segurança que devem manter em relação ao veículo da frente."
+      },
+      {
+        "option": "B",
+        "text": "Para a necessidade de praticarem velocidade mais reduzidas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2395",
+    "text": "As raias oblíquas à minha esquerda significam:",
+    "href": "https://www.bomcondutor.pt/questao/2395",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2395.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Permissão de parar ou estacionar na área por elas delimitadas."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de entrar na área por elas delimitadas."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de estacionar na área por elas delimitadas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2396",
+    "text": "As raias oblíquas que se encontram do meu lado direito indicam-me:",
+    "href": "https://www.bomcondutor.pt/questao/2396",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2396.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proibição de entrar na área por elas abrangida."
+      },
+      {
+        "option": "B",
+        "text": "Um local destinado para paragem de veículos."
+      },
+      {
+        "option": "C",
+        "text": "Uma zona destinada a veículos que circulam a velocidade reduzida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2397",
+    "text": "As setas de cor branca que se encontram no pavimento indicam-me:",
+    "href": "https://www.bomcondutor.pt/questao/2397",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2397.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva perigosa à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Que devo passar para a via de trânsito que elas indicam."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2398",
+    "text": "As setas de cor branca que se encontram no pavimento indicam-me:",
+    "href": "https://www.bomcondutor.pt/questao/2398",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2398.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de uma curva à direita."
+      },
+      {
+        "option": "B",
+        "text": "Aproximação de uma linha contínua."
+      },
+      {
+        "option": "C",
+        "text": "Aproximação de uma linha descontínua."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2399",
+    "text": "As setas inscritas no pavimento são utilizadas para orientar os sentidos de trânsito na proximidade de cruzamentos ou entroncamentos.",
+    "href": "https://www.bomcondutor.pt/questao/2399",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2399.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2400",
+    "text": "As setas marcadas no pavimento indicam a conveniência de:",
+    "href": "https://www.bomcondutor.pt/questao/2400",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2400.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Passar para a via de trânsito para onde elas apontam."
+      },
+      {
+        "option": "B",
+        "text": "Virar à esquerda no próximo entroncamento ou cruzamento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2401",
+    "text": "As setas que existem no pavimento:",
+    "href": "https://www.bomcondutor.pt/questao/2401",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2401.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Obrigam o condutor a mudar de direcção."
+      },
+      {
+        "option": "B",
+        "text": "Permitem ao condutor mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Recomendam a mudança de direcção."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2402",
+    "text": "Circulo em médios. Estas luzes devem iluminar o solo numa distância máxima de:",
+    "href": "https://www.bomcondutor.pt/questao/2402",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2402.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "100 metros."
+      },
+      {
+        "option": "B",
+        "text": "150 metros."
+      },
+      {
+        "option": "C",
+        "text": "30 metros."
+      },
+      {
+        "option": "D",
+        "text": "80 metros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2403",
+    "text": "Como devo proceder nesta situação?",
+    "href": "https://www.bomcondutor.pt/questao/2403",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2403.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Adaptar a marcha e imobilizar o veículo perante o sinal luminoso."
+      },
+      {
+        "option": "B",
+        "text": "Aumentar um pouco a velocidade e avançar."
+      },
+      {
+        "option": "C",
+        "text": "Parar no local exacto em que me encontro."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2404",
+    "text": "Como devo proceder perante a luz amarela não intermitente?",
+    "href": "https://www.bomcondutor.pt/questao/2404",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2404.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Autoriza-me a passar com especial prudência."
+      },
+      {
+        "option": "B",
+        "text": "Devo acelerar para não embaraçar o trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Proíbe-me a entrada na zona regulada pelo sinal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2405",
+    "text": "Como devo proceder perante a luz vermelha dos sinais luminosos?",
+    "href": "https://www.bomcondutor.pt/questao/2405",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2405.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Parar e avançar depois de ceder a passagem a outros veículos."
+      },
+      {
+        "option": "B",
+        "text": "Parar."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e avançar com toda a precaução."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2406",
+    "text": "Como devo proceder perante a sinalização vertical e horizontal existente no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/2406",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2406.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Parar em toda e qualquer circunstância."
+      },
+      {
+        "option": "B",
+        "text": "Parar, caso se aproximem veículos vindos do lado direito."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e, se necessário, parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2407",
+    "text": "Como devo proceder perante este sinal luminoso?",
+    "href": "https://www.bomcondutor.pt/questao/2407",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2407.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo parar antes de atingir a zona regulada pelo sinal."
+      },
+      {
+        "option": "B",
+        "text": "Devo parar, salvo se já estiver muito perto do sinal quando a luz se acender e não puder parar em segurança."
+      },
+      {
+        "option": "C",
+        "text": "Posso avançar com prudência."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2408",
+    "text": "Como se chamam as marcas rodoviárias que delimitam a faixa de rodagem?",
+    "href": "https://www.bomcondutor.pt/questao/2408",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2408.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bandas cromáticas."
+      },
+      {
+        "option": "B",
+        "text": "Bermas."
+      },
+      {
+        "option": "C",
+        "text": "Guias."
+      },
+      {
+        "option": "D",
+        "text": "Linhas contínuas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2409",
+    "text": "Como se designa a linha à minha esquerda que faz a separação dos sentidos de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/2409",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2409.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Linha longitudinal contínua."
+      },
+      {
+        "option": "B",
+        "text": "Linha longitudinal descontínua."
+      },
+      {
+        "option": "C",
+        "text": "Linha transversal descontínua de aviso."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2410",
+    "text": "Como se designa a marca rodoviária que se encontra à minha esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2410",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2410.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Linha descontínua de abrandamento."
+      },
+      {
+        "option": "B",
+        "text": "Linha descontínua de aceleração."
+      },
+      {
+        "option": "C",
+        "text": "Linha descontínua de aviso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2411",
+    "text": "Como se designa a marca rodoviária que se encontra do meu lado direito?",
+    "href": "https://www.bomcondutor.pt/questao/2411",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2411.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Guia."
+      },
+      {
+        "option": "B",
+        "text": "Linha de sentido reversível."
+      },
+      {
+        "option": "C",
+        "text": "Linha descontínua que identifica um corredor de circulação."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2412",
+    "text": "Como se designa a via em que circulo?",
+    "href": "https://www.bomcondutor.pt/questao/2412",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2412.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Via de abrandamento."
+      },
+      {
+        "option": "B",
+        "text": "Via de aceleração."
+      },
+      {
+        "option": "C",
+        "text": "Via de sentido reversível."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2413",
+    "text": "Como se designam as marcas rodoviárias à minha esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2413",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2413.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bandas cromáticas"
+      },
+      {
+        "option": "B",
+        "text": "Marcas de segurança."
+      },
+      {
+        "option": "C",
+        "text": "Raias oblíquas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2414",
+    "text": "Como se designam as marcas rodoviárias que se encontram inscritas no pavimento?",
+    "href": "https://www.bomcondutor.pt/questao/2414",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2414.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Linhas contínuas adjacentes."
+      },
+      {
+        "option": "B",
+        "text": "Linhas de sentido reversível."
+      },
+      {
+        "option": "C",
+        "text": "Linhas mistas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2415",
+    "text": "Como se designam as marcas rodoviárias situadas à minha esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2415",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2415.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Bandas sonoras."
+      },
+      {
+        "option": "B",
+        "text": "Guias longitudinais."
+      },
+      {
+        "option": "C",
+        "text": "Marcas de segurança."
+      },
+      {
+        "option": "D",
+        "text": "Raias oblíquas."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "2416",
+    "text": "Devo buzinar, para advertir o peão da minha presença?",
+    "href": "https://www.bomcondutor.pt/questao/2416",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2416.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, devo reduzir a velocidade e aguardar a passagem do peão."
+      },
+      {
+        "option": "B",
+        "text": "Não, é sempre proibido buzinar dentro das localidades."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque o peão não circula correctamente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2417",
+    "text": "Devo parar?",
+    "href": "https://www.bomcondutor.pt/questao/2417",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2417.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2418",
+    "text": "Devo saber que as marcas rodoviárias do eixo da faixa de rodagem mais próximas de mim, designam-se por:",
+    "href": "https://www.bomcondutor.pt/questao/2418",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2418.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Linha descontínua de aviso intercalada com seta de desvio."
+      },
+      {
+        "option": "B",
+        "text": "Linha descontínua e seta de selecção."
+      },
+      {
+        "option": "C",
+        "text": "Linha descontínua e seta orientadora do sentido de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2419",
+    "text": "É sempre permitido avançar perante a luz verde dos sinais luminosos?",
+    "href": "https://www.bomcondutor.pt/questao/2419",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2419.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque por precaução devo parar sempre que encontro a luz verde."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque essa é a indicação dada pelo sinal."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2420",
+    "text": "É sempre proibido buzinar, quando o condutor circular:",
+    "href": "https://www.bomcondutor.pt/questao/2420",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2420.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Durante a noite, dentro das localidades."
+      },
+      {
+        "option": "B",
+        "text": "Durante a noite, fora das localidades."
+      },
+      {
+        "option": "C",
+        "text": "Durante o dia, dentro das localidades."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2421",
+    "text": "É sempre proibido buzinar:",
+    "href": "https://www.bomcondutor.pt/questao/2421",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2421.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De dia ou de noite, fora das localidades."
+      },
+      {
+        "option": "B",
+        "text": "De dia, nas vias de boa visibilidade, dentro das localidades."
+      },
+      {
+        "option": "C",
+        "text": "De noite, dentro das localidades."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2422",
+    "text": "Em qual dos seguintes casos o condutor deve, durante a noite, apagar os máximos?",
+    "href": "https://www.bomcondutor.pt/questao/2422",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2422.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao cruzar-se com outros veículos ou com animais."
+      },
+      {
+        "option": "B",
+        "text": "Ao entrar numa auto-estrada."
+      },
+      {
+        "option": "C",
+        "text": "Ao entrar numa localidade mal iluminada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2423",
+    "text": "Em que caso se devem utilizar placas de amarelo reflector e vermelho fluorescente, na retaguarda de um veículo?",
+    "href": "https://www.bomcondutor.pt/questao/2423",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2423.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sempre que o veículo for um pesado."
+      },
+      {
+        "option": "B",
+        "text": "Só se o veículo tiver mais de 12 metros de comprimento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2424",
+    "text": "Em que direcção vai seguir o automóvel vermelho?",
+    "href": "https://www.bomcondutor.pt/questao/2424",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2424.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Em frente."
+      },
+      {
+        "option": "B",
+        "text": "Para a direita."
+      },
+      {
+        "option": "C",
+        "text": "Para a esquerda."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2425",
+    "text": "Em situação de perigo iminente posso utilizar os sinais sonoros?",
+    "href": "https://www.bomcondutor.pt/questao/2425",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2425.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2426",
+    "text": "Encontrando-se acesa a luz vermelha do sistema principal de luzes, os peões estão autorizados a proceder ao atravessamento da faixa de rodagem.",
+    "href": "https://www.bomcondutor.pt/questao/2426",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2426.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2427",
+    "text": "Encontrando-se o trânsito congestionado não devo entrar neste cruzamento se:",
+    "href": "https://www.bomcondutor.pt/questao/2427",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2427.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "As condições de aderência da via forem deficientes."
+      },
+      {
+        "option": "B",
+        "text": "For previsível a necessidade de parar na área demarcada."
+      },
+      {
+        "option": "C",
+        "text": "Pretender mudar de direcção à esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2428",
+    "text": "Esta indicação de paragem, pela luz vermelha dos sinais luminosos, destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2428",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2428.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os veículos, desde que não transitem em missão urgente de socorro."
+      },
+      {
+        "option": "B",
+        "text": "A todos os veículos."
+      },
+      {
+        "option": "C",
+        "text": "Apenas aos veículos com motor."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2429",
+    "text": "Esta linha contínua, marcada no pavimento, não pode ser pisada.",
+    "href": "https://www.bomcondutor.pt/questao/2429",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2429.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2430",
+    "text": "Estando já imobilizado, que luzes devo utilizar?",
+    "href": "https://www.bomcondutor.pt/questao/2430",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2430.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Os máximos."
+      },
+      {
+        "option": "B",
+        "text": "Os médios."
+      },
+      {
+        "option": "C",
+        "text": "Os mínimos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2431",
+    "text": "Estas marcas rodoviárias de cor amarela:",
+    "href": "https://www.bomcondutor.pt/questao/2431",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2431.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas regulam a paragem e o estacionamento."
+      },
+      {
+        "option": "B",
+        "text": "Não têm qualquer valor."
+      },
+      {
+        "option": "C",
+        "text": "Têm carácter temporário."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2432",
+    "text": "Estas placas devem ser usadas nos veículos ou conjunto de veículos que tenham :",
+    "href": "https://www.bomcondutor.pt/questao/2432",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2432.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Até 12 metros de comprimento."
+      },
+      {
+        "option": "B",
+        "text": "Mais de 12 metros de comprimento."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2433",
+    "text": "Este sinal indica que:",
+    "href": "https://www.bomcondutor.pt/questao/2433",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2433.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Na auto-estrada onde circulo há um estreitamento da via a 150 metros."
+      },
+      {
+        "option": "B",
+        "text": "No itinerário complementar onde circulo há uma saída a 150 metros."
+      },
+      {
+        "option": "C",
+        "text": "No itinerário principal onde circulo há uma saída a 150 metros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2434",
+    "text": "Este sinal informa os condutores da aproximação de uma saída:",
+    "href": "https://www.bomcondutor.pt/questao/2434",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2434.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Na auto-estrada onde circulo, a 150 metros."
+      },
+      {
+        "option": "B",
+        "text": "No itinerário principal onde circulo, a 150 metros."
+      },
+      {
+        "option": "C",
+        "text": "Para uma localidade, a 150 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2435",
+    "text": "Estou a menos de 100 metros do veículo da frente. Posso circular em 'máximos'?",
+    "href": "https://www.bomcondutor.pt/questao/2435",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2435.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque posso encandear o condutor do veículo da frente."
+      },
+      {
+        "option": "B",
+        "text": "Sempre, visto que não circulam veículos em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se mantiver a mesma distância do veículo da frente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2436",
+    "text": "Existe uma via de trânsito em cada sentido. Se for necessário, posso efectuar a manobra de ultrapassagem a outro automóvel neste local?",
+    "href": "https://www.bomcondutor.pt/questao/2436",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2436.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de ultrapassagem é sempre proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que possa executar a manobra em condições de segurança."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a via também se encontra sinalizada com uma linha descontínua."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2437",
+    "text": "Existem situações em que perante a luz verde eu não devo avançar?",
+    "href": "https://www.bomcondutor.pt/questao/2437",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2437.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2438",
+    "text": "Fora das localidades, durante o dia, o condutor pode usar o sinal sonoro:",
+    "href": "https://www.bomcondutor.pt/questao/2438",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2438.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Em sinal de saudação."
+      },
+      {
+        "option": "B",
+        "text": "No início de uma ultrapassagem."
+      },
+      {
+        "option": "C",
+        "text": "Numa redução de velocidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2439",
+    "text": "Na imagem da direita, a barra horizontal do sinal indica ao condutor de veículos de transporte colectivo que:",
+    "href": "https://www.bomcondutor.pt/questao/2439",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2439.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Deve prosseguir a marcha, mas a velocidade moderada."
+      },
+      {
+        "option": "B",
+        "text": "É obrigado a parar antes de entrar na zona regulada pelo sinal."
+      },
+      {
+        "option": "C",
+        "text": "Pode prosseguir a marcha, embora com atenção."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2440",
+    "text": "Na imagem da esquerda, a barra vertical do sinal indica aos condutores de veículos de transporte colectivo que:",
+    "href": "https://www.bomcondutor.pt/questao/2440",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2440.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devem ceder passagem aos outros veículos."
+      },
+      {
+        "option": "B",
+        "text": "Podem prosseguir a marcha."
+      },
+      {
+        "option": "C",
+        "text": "São obrigados a parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2441",
+    "text": "Na via de trânsito onde circulo a sinalização luminosa permite-me mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2441",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2441.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, permite-me seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Sim e posso avançar de imediato."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas tenho que aguardar que o sinal luminoso passe a verde."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2442",
+    "text": "Na via de trânsito onde me encontro, a marca rodoviária:",
+    "href": "https://www.bomcondutor.pt/questao/2442",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2442.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Obriga-me sempre a seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Permite-me mudar de direcção à esquerda ou seguir em frente."
+      },
+      {
+        "option": "C",
+        "text": "Permite-me seguir em frente ou mudar de direcção à direita."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2443",
+    "text": "Nesta situação como devo comportar-me?",
+    "href": "https://www.bomcondutor.pt/questao/2443",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2443.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo aguardar que o peão termine a conversa."
+      },
+      {
+        "option": "B",
+        "text": "Devo buzinar, manter a velocidade e continuar a marcha."
+      },
+      {
+        "option": "C",
+        "text": "Devo reduzir a velocidade, buzinar e adequar a distância lateral."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2444",
+    "text": "Nesta situação devo procurar evitar o uso de sinais sonoros.",
+    "href": "https://www.bomcondutor.pt/questao/2444",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2444.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2445",
+    "text": "Nesta situação devo utilizar as luzes de:",
+    "href": "https://www.bomcondutor.pt/questao/2445",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2445.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cruzamento."
+      },
+      {
+        "option": "B",
+        "text": "Estrada."
+      },
+      {
+        "option": "C",
+        "text": "Presença."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2446",
+    "text": "Nesta situação devo utilizar os sinais sonoros, para advertir o condutor que manobra da minha presença.",
+    "href": "https://www.bomcondutor.pt/questao/2446",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2446.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2447",
+    "text": "Nesta situação devo:",
+    "href": "https://www.bomcondutor.pt/questao/2447",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2447.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com prudência, mantendo uma distância segura relativamente aos veículos que seguem à minha frente."
+      },
+      {
+        "option": "B",
+        "text": "Avançar rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2448",
+    "text": "Nesta situação devo:",
+    "href": "https://www.bomcondutor.pt/questao/2448",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2448.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Acender os mínimos a fim de assinalar a minha presença."
+      },
+      {
+        "option": "B",
+        "text": "Buzinar a fim de assinalar a minha presença."
+      },
+      {
+        "option": "C",
+        "text": "Manter a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2449",
+    "text": "Nesta situação devo:",
+    "href": "https://www.bomcondutor.pt/questao/2449",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2449.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar lentamente pois está acesa a luz verde no semáforo."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção à esquerda, obrigatoriamente."
+      },
+      {
+        "option": "C",
+        "text": "Parar e aguardar outra indicação do agente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2450",
+    "text": "Nesta situação devo:",
+    "href": "https://www.bomcondutor.pt/questao/2450",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2450.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar."
+      },
+      {
+        "option": "B",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2451",
+    "text": "Nesta situação devo:",
+    "href": "https://www.bomcondutor.pt/questao/2451",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2451.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar lentamente."
+      },
+      {
+        "option": "B",
+        "text": "Buzinar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2452",
+    "text": "Nesta situação devo:",
+    "href": "https://www.bomcondutor.pt/questao/2452",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2452.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aguardar que o veículo cinzento avance."
+      },
+      {
+        "option": "B",
+        "text": "Avançar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2453",
+    "text": "Nesta situação o agente regulador de trânsito indica:",
+    "href": "https://www.bomcondutor.pt/questao/2453",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2453.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos condutores que na intersecção se apresentem à minha direita, o dever de avançar."
+      },
+      {
+        "option": "B",
+        "text": "Aos condutores que transitam à minha esquerda, o dever de parar."
+      },
+      {
+        "option": "C",
+        "text": "Aos condutores que transitam no meu sentido, o dever de avançar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2454",
+    "text": "Nesta situação posso buzinar?",
+    "href": "https://www.bomcondutor.pt/questao/2454",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2454.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca posso."
+      },
+      {
+        "option": "B",
+        "text": "Sim, em quaisquer circunstâncias"
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas só em caso de perigo iminente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2455",
+    "text": "Nesta situação posso buzinar?",
+    "href": "https://www.bomcondutor.pt/questao/2455",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2455.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, para informar o agente da minha presença."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque me aproximo de um entroncamento."
+      },
+      {
+        "option": "D",
+        "text": "Sim, se tiver pressa."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2456",
+    "text": "Nesta situação posso utilizar as luzes de máximos.",
+    "href": "https://www.bomcondutor.pt/questao/2456",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2456.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2457",
+    "text": "Nesta situação qual a sinalização que prevalece?",
+    "href": "https://www.bomcondutor.pt/questao/2457",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2457.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A do agente regulador de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "A sinalização luminosa."
+      },
+      {
+        "option": "C",
+        "text": "Não existe prevalência de sinalização."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2458",
+    "text": "Nesta situação, devo circular com as luzes de:",
+    "href": "https://www.bomcondutor.pt/questao/2458",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2458.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cruzamento."
+      },
+      {
+        "option": "B",
+        "text": "Estrada."
+      },
+      {
+        "option": "C",
+        "text": "Presença."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2459",
+    "text": "Nesta situação, devo circular unicamente com as luzes de presença porque circulo num local com iluminação.",
+    "href": "https://www.bomcondutor.pt/questao/2459",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2459.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2460",
+    "text": "Nesta situação, devo saber que a luz amarela intermitente significa que:",
+    "href": "https://www.bomcondutor.pt/questao/2460",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2460.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo avançar com cuidado porque o trânsito à minha esquerda está condicionado."
+      },
+      {
+        "option": "B",
+        "text": "Os veículos que se encontram à minha esquerda podem avançar com especial cuidado."
+      },
+      {
+        "option": "C",
+        "text": "Sou obrigado a virar à esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2461",
+    "text": "Nesta situação, devo transitar com:",
+    "href": "https://www.bomcondutor.pt/questao/2461",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2461.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "As luzes de cruzamento."
+      },
+      {
+        "option": "B",
+        "text": "As luzes de estrada."
+      },
+      {
+        "option": "C",
+        "text": "As luzes de presença."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2462",
+    "text": "Nesta situação, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2462",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2462.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com precaução."
+      },
+      {
+        "option": "B",
+        "text": "Avançar rapidamente, porque a luz do sinal luminoso está verde."
+      },
+      {
+        "option": "C",
+        "text": "Parar obrigatoriamente e aguardar que o veículo branco inicie a marcha."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2463",
+    "text": "Nesta situação, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2463",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2463.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Passar antes da luz vermelha."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade e parar."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar o condutor do velocípede."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2464",
+    "text": "Nesta situação, estou autorizado a prosseguir a marcha do veículo?",
+    "href": "https://www.bomcondutor.pt/questao/2464",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2464.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque se encontra acesa a luz verde para os peões."
+      },
+      {
+        "option": "B",
+        "text": "Não. Devo parar."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se a sinalização luminosa não se alterar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2465",
+    "text": "Nesta situação, logo que exista espaço à retaguarda do veículo pesado, o que devo fazer?",
+    "href": "https://www.bomcondutor.pt/questao/2465",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2465.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aguardar que o condutor do veículo pesado conclua a manobra e só depois avançar."
+      },
+      {
+        "option": "B",
+        "text": "Alertar o condutor do veículo pesado com o sinal sonoro e avançar rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Devo avançar a baixa velocidade e estar atento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2466",
+    "text": "Nesta situação, o condutor que circula à minha retaguarda deve circular com as luzes acesas de:",
+    "href": "https://www.bomcondutor.pt/questao/2466",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2466.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Máximos."
+      },
+      {
+        "option": "B",
+        "text": "Médios."
+      },
+      {
+        "option": "C",
+        "text": "Mínimos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2467",
+    "text": "Nesta situação, o que é que me obriga a imobilizar o veículo?",
+    "href": "https://www.bomcondutor.pt/questao/2467",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2467.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A presença de outros veículos."
+      },
+      {
+        "option": "B",
+        "text": "A sinalização existente."
+      },
+      {
+        "option": "C",
+        "text": "Nada me obriga a imobilizar o veículo, desde que ceda a passagem aos outros veículos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2468",
+    "text": "Nesta situação, o que me obriga a parar o veículo?",
+    "href": "https://www.bomcondutor.pt/questao/2468",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2468.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Nada, desde que ceda a passagem aos outros condutores."
+      },
+      {
+        "option": "B",
+        "text": "O condutor do veículo que se encontra à minha esquerda."
+      },
+      {
+        "option": "C",
+        "text": "O sinal vertical e a marca no pavimento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2469",
+    "text": "Nesta situação, os peões devem:",
+    "href": "https://www.bomcondutor.pt/questao/2469",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2469.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar se estiver muito trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Avançar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2470",
+    "text": "Nesta situação, para assinalar a presença do meu veículo, devo utilizar:",
+    "href": "https://www.bomcondutor.pt/questao/2470",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2470.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Os máximos ou os mínimos."
+      },
+      {
+        "option": "B",
+        "text": "Os médios."
+      },
+      {
+        "option": "C",
+        "text": "Os mínimos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2471",
+    "text": "Nesta situação, perante a luz verde do sinal luminoso, posso prosseguir a marcha e mudar de direcção para a esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2471",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2471.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a sinalização luminosa só me autoriza a seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque o agente está a mandar parar o trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque o agente está a dar-me essa indicação."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2472",
+    "text": "Nesta situação, perante a sinalização amarela, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2472",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2472.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Acelerar, caso consiga passar antes da luz vermelha."
+      },
+      {
+        "option": "B",
+        "text": "Prosseguir com especial precaução pois a luz adverte para um perigo."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e respeitar a cor da luz existente na sinalização luminosa."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2473",
+    "text": "Nesta situação, perante a sinalização luminosa amarela não intermitente:",
+    "href": "https://www.bomcondutor.pt/questao/2473",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2473.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo parar o meu veículo."
+      },
+      {
+        "option": "B",
+        "text": "Posso avançar."
+      },
+      {
+        "option": "C",
+        "text": "Posso seguir desde que o faça com especial prudência."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2474",
+    "text": "Nesta situação, posso buzinar para alertar o agente de autoridade da minha presença?",
+    "href": "https://www.bomcondutor.pt/questao/2474",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2474.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sim, como protesto contra a interrupção de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Sim, se conduzir um veículo em missão urgente de socorro."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se conduzir uma ambulância."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2475",
+    "text": "Nesta situação, posso pisar a marca rodoviária desde que não a transponha.",
+    "href": "https://www.bomcondutor.pt/questao/2475",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2475.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2476",
+    "text": "Nesta situação, posso utilizar os sinais sonoros?",
+    "href": "https://www.bomcondutor.pt/questao/2476",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2476.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2477",
+    "text": "Nesta situação, quando a luz passar a verde, se necessário devo advertir o condutor da frente com o uso breve de sinais sonoros.",
+    "href": "https://www.bomcondutor.pt/questao/2477",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2477.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2478",
+    "text": "Nesta situação, que luzes devo utilizar?",
+    "href": "https://www.bomcondutor.pt/questao/2478",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2478.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "'Máximos'."
+      },
+      {
+        "option": "B",
+        "text": "'Médios'."
+      },
+      {
+        "option": "C",
+        "text": "'Mínimos'."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2479",
+    "text": "Nesta situação, sou obrigado a:",
+    "href": "https://www.bomcondutor.pt/questao/2479",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2479.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar, sem parar para ceder passagem a peões."
+      },
+      {
+        "option": "B",
+        "text": "Estar especialmente atento ao comportamento de peões."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2480",
+    "text": "Nesta situação, tenho que mudar de via de trânsito. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/2480",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2480.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer 'pisca' para a esquerda e aguardar pelo momento oportuno."
+      },
+      {
+        "option": "B",
+        "text": "Prosseguir, pois venho da direita em relação aos condutores da via da esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros, para advertir os condutores da via da esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2481",
+    "text": "Nestas condições ambientais devo utilizar:",
+    "href": "https://www.bomcondutor.pt/questao/2481",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2481.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "As luzes de estrada."
+      },
+      {
+        "option": "B",
+        "text": "As luzes de nevoeiro à retaguarda e de cruzamento."
+      },
+      {
+        "option": "C",
+        "text": "As luzes de presença."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2482",
+    "text": "Nestas condições atmosféricas devo utilizar os médios para:",
+    "href": "https://www.bomcondutor.pt/questao/2482",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2482.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Assinalar a intenção de ultrapassar."
+      },
+      {
+        "option": "B",
+        "text": "Avisar os outros condutores da aproximação de perigo."
+      },
+      {
+        "option": "C",
+        "text": "Cruzar com o automóvel que transita em sentido oposto."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2483",
+    "text": "Neste local posso utilizar os ' máximos' quando:",
+    "href": "https://www.bomcondutor.pt/questao/2483",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2483.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Dessa utilização não resulte perigo de encandeamento."
+      },
+      {
+        "option": "B",
+        "text": "Em qualquer situação."
+      },
+      {
+        "option": "C",
+        "text": "Estiver a menos de 100 metros do veículo que segue à minha frente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2484",
+    "text": "Neste local, as marcas inscritas no pavimento são:",
+    "href": "https://www.bomcondutor.pt/questao/2484",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2484.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Setas de desvio."
+      },
+      {
+        "option": "B",
+        "text": "Setas de pré-sinalização."
+      },
+      {
+        "option": "C",
+        "text": "Setas de selecção."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2485",
+    "text": "Neste local, caso tenha uma avaria nas luzes da retaguarda do veículo, posso:",
+    "href": "https://www.bomcondutor.pt/questao/2485",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2485.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular com apenas um indicador de presença do lado direito e uma das luzes de travagem."
+      },
+      {
+        "option": "B",
+        "text": "Circular com apenas um indicador de presença do lado esquerdo e uma das luzes de travagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2486",
+    "text": "Neste local, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2486",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2486.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Parar, porque estou na presença de bandas cromáticas."
+      },
+      {
+        "option": "B",
+        "text": "Parar."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2487",
+    "text": "Neste local, face à sinalização posso:",
+    "href": "https://www.bomcondutor.pt/questao/2487",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2487.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar junto das linhas em ziguezague ou descontínua."
+      },
+      {
+        "option": "B",
+        "text": "Parar junto das linhas em ziguezague e descontínua."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2488",
+    "text": "Neste local, posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/2488",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2488.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que não transponha a raia oblíqua."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que ocupe a metade esquerda da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2489",
+    "text": "Neste local, posso mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2489",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2489.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a sinalização não me permite a realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que sinalize correcta e antecipadamente a minha intenção."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2490",
+    "text": "Neste local, posso transpor a linha marcada no pavimento.",
+    "href": "https://www.bomcondutor.pt/questao/2490",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2490.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2491",
+    "text": "Neste local, posso utilizar os sinais sonoros?",
+    "href": "https://www.bomcondutor.pt/questao/2491",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2491.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sim, como saudação."
+      },
+      {
+        "option": "B",
+        "text": "Sim, em caso de perigo iminente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, para assinalar a minha presença."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2492",
+    "text": "Neste local:",
+    "href": "https://www.bomcondutor.pt/questao/2492",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2492.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo ultrapassar rapidamente."
+      },
+      {
+        "option": "B",
+        "text": "É proibido transitar à direita da linha descontínua."
+      },
+      {
+        "option": "C",
+        "text": "Não devo iniciar a manobra de ultrapassagem."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2493",
+    "text": "Neste momento o agente manda avançar, o trânsito que vem:",
+    "href": "https://www.bomcondutor.pt/questao/2493",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2493.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Da direita."
+      },
+      {
+        "option": "B",
+        "text": "Da esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Da frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2494",
+    "text": "Neste momento, ao transitar na via da direita sou obrigado a:",
+    "href": "https://www.bomcondutor.pt/questao/2494",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2494.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção."
+      },
+      {
+        "option": "B",
+        "text": "Parar e a mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2495",
+    "text": "No local em que me encontro devo:",
+    "href": "https://www.bomcondutor.pt/questao/2495",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2495.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Continuar a marcha e seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Parar e depois seguir em frente."
+      },
+      {
+        "option": "C",
+        "text": "Parar para depois prosseguir a marcha e mudar de direcção à esquerda."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2496",
+    "text": "No local em que me encontro:",
+    "href": "https://www.bomcondutor.pt/questao/2496",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2496.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Posso prosseguir desde que mude de direcção à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Sou obrigado a parar e a mudar de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Sou obrigado a parar se pretender seguir em frente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2497",
+    "text": "No local exacto em que me encontro, os sinais sonoros só podem ser utilizados em caso de perigo iminente.",
+    "href": "https://www.bomcondutor.pt/questao/2497",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2497.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2498",
+    "text": "No momento em que a luz deste sinal luminoso mudar ainda posso prosseguir a marcha?",
+    "href": "https://www.bomcondutor.pt/questao/2498",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2498.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a paragem é obrigatória."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas só se não conseguir parar em condições de segurança."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se estiver a concluir uma ultrapassagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2499",
+    "text": "No sistema principal de luzes, perante a luz amarela, o condutor deve:",
+    "href": "https://www.bomcondutor.pt/questao/2499",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2499.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar rapidamente."
+      },
+      {
+        "option": "B",
+        "text": "Ceder a passagem e avançar com precaução."
+      },
+      {
+        "option": "C",
+        "text": "Parar, se o puder fazer em condições de segurança."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2500",
+    "text": "Num tractor agrícola a luz rotativa amarela serve para assinalar:",
+    "href": "https://www.bomcondutor.pt/questao/2500",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2500.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Veiculo com carga."
+      },
+      {
+        "option": "B",
+        "text": "Veiculo com reboque."
+      },
+      {
+        "option": "C",
+        "text": "Veículo em marcha lenta."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2501",
+    "text": "O agente regulador de trânsito está:",
+    "href": "https://www.bomcondutor.pt/questao/2501",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2501.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A indicar a todos os condutores na intersecção o dever de parar."
+      },
+      {
+        "option": "B",
+        "text": "A indicar ao trânsito à sua retaguarda o dever de parar."
+      },
+      {
+        "option": "C",
+        "text": "A indicar que todos os condutores devem avançar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2502",
+    "text": "O agente regulador do trânsito, nesta situação está a dar uma indicação que se destina:",
+    "href": "https://www.bomcondutor.pt/questao/2502",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2502.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao trânsito da frente e da retaguarda."
+      },
+      {
+        "option": "B",
+        "text": "Apenas ao trânsito da frente."
+      },
+      {
+        "option": "C",
+        "text": "Apenas ao trânsito da retaguarda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2503",
+    "text": "O automóvel da direita sai de um caminho particular. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/2503",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2503.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Prosseguir a marcha, buzinando continuadamente."
+      },
+      {
+        "option": "B",
+        "text": "Prosseguir a marcha, devendo observar o comportamento daquele condutor."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e ceder-lhe passagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2504",
+    "text": "O condutor com que me vou cruzar utiliza indevidamente os 'máximos'. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/2504",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2504.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Buzinar continuamente."
+      },
+      {
+        "option": "B",
+        "text": "Passar a utilizar as luzes de 'máximos' para não ficar encandeado."
+      },
+      {
+        "option": "C",
+        "text": "Permanecer em 'médios', reduzir a velocidade e desviar o olhar para a direita."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2505",
+    "text": "O condutor do automóvel pesado está a cometer uma infracção?",
+    "href": "https://www.bomcondutor.pt/questao/2505",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2505.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, pois a linha mista pode ser transposta para efectuar manobras."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a linha mista não pode ser transposta."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a linha mista proíbe as ultrapassagens."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2506",
+    "text": "O condutor do automóvel pesado está a cometer uma infracção?",
+    "href": "https://www.bomcondutor.pt/questao/2506",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2506.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a sinalização não o impede de efectuar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a marca rodoviária não pode ser pisada."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque não pode ultrapassar com chuva."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2507",
+    "text": "O condutor do veículo cinzento, bem como todo o trânsito à sua retaguarda, devem:",
+    "href": "https://www.bomcondutor.pt/questao/2507",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2507.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Abrandar."
+      },
+      {
+        "option": "B",
+        "text": "Avançar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2508",
+    "text": "O condutor é obrigado a passar de máximos para médios:",
+    "href": "https://www.bomcondutor.pt/questao/2508",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2508.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao atravessar uma passagem de nível."
+      },
+      {
+        "option": "B",
+        "text": "No acesso a uma auto-estrada."
+      },
+      {
+        "option": "C",
+        "text": "No cruzamento com outros veículos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2509",
+    "text": "O condutor é obrigado, durante a noite, a apagar os máximos:",
+    "href": "https://www.bomcondutor.pt/questao/2509",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2509.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "No cruzamento com outros veículos, pessoas ou animais."
+      },
+      {
+        "option": "B",
+        "text": "Somente no cruzamento com automóveis."
+      },
+      {
+        "option": "C",
+        "text": "Somente no cruzamento com veículos de tracção animal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2510",
+    "text": "O condutor pode usar o sinal sonoro:",
+    "href": "https://www.bomcondutor.pt/questao/2510",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2510.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Como forma de protesto."
+      },
+      {
+        "option": "B",
+        "text": "De noite, fora das localidades."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2511",
+    "text": "O meu veículo é um ligeiro de passageiros e tem um reboque atrelado. Circulo correctamente nesta via de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/2511",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2511.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2512",
+    "text": "O painel colocado à retaguarda do veículo indica:",
+    "href": "https://www.bomcondutor.pt/questao/2512",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2512.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que é um veículo de marcha lenta."
+      },
+      {
+        "option": "B",
+        "text": "Que transporta mercadorias perigosas."
+      },
+      {
+        "option": "C",
+        "text": "Que transporta produtos poluentes das águas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2513",
+    "text": "O que deve fazer o condutor que é encandeado ao cruzar-se de noite com outro veículo?",
+    "href": "https://www.bomcondutor.pt/questao/2513",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2513.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ligar os máximos."
+      },
+      {
+        "option": "B",
+        "text": "Passar várias vezes e com rapidez dos médios a máximos."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade, mantendo os médios acesos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2514",
+    "text": "O que devo fazer nesta situação?",
+    "href": "https://www.bomcondutor.pt/questao/2514",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2514.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar um pouco a velocidade, porque ainda me encontro muito distante do sinal, devendo ultrapassar o velocípede."
+      },
+      {
+        "option": "B",
+        "text": "Parar no local exacto em que me encontro."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e adequar a minha condução à paragem imposta pelo sinal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2515",
+    "text": "O que devo fazer nesta situação?",
+    "href": "https://www.bomcondutor.pt/questao/2515",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2515.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha se a intensidade de trânsito aumentar."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade e transitar à direita da linha."
+      },
+      {
+        "option": "C",
+        "text": "Parar porque a sinalização me indica que o local está em obras."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2516",
+    "text": "O que devo fazer neste local?",
+    "href": "https://www.bomcondutor.pt/questao/2516",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2516.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar obrigatoriamente de via de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Transitar na via de trânsito da direita."
+      },
+      {
+        "option": "C",
+        "text": "Transitar na via de trânsito da esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2517",
+    "text": "O que devo fazer perante a indicação dada pelo agente regulador de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/2517",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2517.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar porque a mesma se destina apenas ao trânsito que vem em sentido contrário."
+      },
+      {
+        "option": "B",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2518",
+    "text": "O que devo fazer perante a indicação dada pelo agente?",
+    "href": "https://www.bomcondutor.pt/questao/2518",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2518.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Abrandar."
+      },
+      {
+        "option": "B",
+        "text": "Avançar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2519",
+    "text": "O que devo fazer perante a luz amarela constante do sinal luminoso?",
+    "href": "https://www.bomcondutor.pt/questao/2519",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2519.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com muita precaução."
+      },
+      {
+        "option": "B",
+        "text": "Avançar sempre, mas rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2520",
+    "text": "O que me indicam as linhas transversais contínuas?",
+    "href": "https://www.bomcondutor.pt/questao/2520",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2520.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Passagem para ciclistas."
+      },
+      {
+        "option": "B",
+        "text": "Passagem para peões."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2521",
+    "text": "O que significam as luzes amarelas acendendo alternadamente?",
+    "href": "https://www.bomcondutor.pt/questao/2521",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2521.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Obrigação de parar antes da zona regulada pelo sinal."
+      },
+      {
+        "option": "B",
+        "text": "Permissão para passar com especial prudência."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de prosseguir a marcha se circular a velocidade superior a 50 km/h."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2522",
+    "text": "O que significam as marcas rodoviárias de cor amarela?",
+    "href": "https://www.bomcondutor.pt/questao/2522",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2522.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que apenas posso parar para tomada ou largada de passageiros."
+      },
+      {
+        "option": "B",
+        "text": "Que nunca posso parar ou estacionar neste local."
+      },
+      {
+        "option": "C",
+        "text": "Que posso parar e estacionar apenas para cargas e descargas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2523",
+    "text": "O sinal colocado sobre a via é:",
+    "href": "https://www.bomcondutor.pt/questao/2523",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2523.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De carácter temporário."
+      },
+      {
+        "option": "B",
+        "text": "De indicação."
+      },
+      {
+        "option": "C",
+        "text": "De mensagem variável."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2524",
+    "text": "O sinal de luz vermelha destina-se a:",
+    "href": "https://www.bomcondutor.pt/questao/2524",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2524.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Condutores."
+      },
+      {
+        "option": "B",
+        "text": "Peões e condutores."
+      },
+      {
+        "option": "C",
+        "text": "Peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2525",
+    "text": "O sinal do agente indica:",
+    "href": "https://www.bomcondutor.pt/questao/2525",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2525.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Início de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Paragem obrigatória."
+      },
+      {
+        "option": "C",
+        "text": "Redução de velocidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2526",
+    "text": "O sinal luminoso de cor amarela intermitente indica-me que:",
+    "href": "https://www.bomcondutor.pt/questao/2526",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2526.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A sinalização luminosa não está a funcionar."
+      },
+      {
+        "option": "B",
+        "text": "Devo ceder a passagem aos veículos que se apresentem pela direita."
+      },
+      {
+        "option": "C",
+        "text": "Devo circular com velocidade especialmente moderada devido à proximidade de sinalização luminosa."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2527",
+    "text": "O sinal luminoso de cor verde indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/2527",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2527.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Passagem autorizada."
+      },
+      {
+        "option": "B",
+        "text": "Passagem proibida."
+      },
+      {
+        "option": "C",
+        "text": "Transição da luz verde para a luz vermelha."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2528",
+    "text": "O sinal luminoso de cor vermelha aplica-se:",
+    "href": "https://www.bomcondutor.pt/questao/2528",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2528.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os veículos que circulam na via em que estou colocado."
+      },
+      {
+        "option": "B",
+        "text": "Aos veículos que pretendem entrar na via assinalada pelo sinal vertical."
+      },
+      {
+        "option": "C",
+        "text": "Apenas aos veículos de transporte público."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2529",
+    "text": "O sinal luminoso destina-se principalmente:",
+    "href": "https://www.bomcondutor.pt/questao/2529",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2529.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao condutor."
+      },
+      {
+        "option": "B",
+        "text": "Ao peão e ao condutor."
+      },
+      {
+        "option": "C",
+        "text": "Ao peão."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2530",
+    "text": "O sinal que o agente regulador de trânsito faz, indica:",
+    "href": "https://www.bomcondutor.pt/questao/2530",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2530.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que o trânsito à sua direita deve avançar."
+      },
+      {
+        "option": "B",
+        "text": "Que o trânsito à sua direita deve parar."
+      },
+      {
+        "option": "C",
+        "text": "Que todos os condutores devem parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2531",
+    "text": "O sinal rectangular de fundo amarelo indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/2531",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2531.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estreitamento da via de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Supressão da berma."
+      },
+      {
+        "option": "C",
+        "text": "Supressão de via de trânsito."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2532",
+    "text": "O sinal vertical à minha direita transmite-me uma indicação útil sobre um local de especial relevância:",
+    "href": "https://www.bomcondutor.pt/questao/2532",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2532.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cultural."
+      },
+      {
+        "option": "B",
+        "text": "De património natural."
+      },
+      {
+        "option": "C",
+        "text": "Histórico-patrimonial."
+      },
+      {
+        "option": "D",
+        "text": "Publicitária."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2533",
+    "text": "O sinal vertical é:",
+    "href": "https://www.bomcondutor.pt/questao/2533",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2533.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De mensagem variável."
+      },
+      {
+        "option": "B",
+        "text": "De proibição."
+      },
+      {
+        "option": "C",
+        "text": "Turístico-cultural."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2534",
+    "text": "O sinal vertical imediatamente à minha direita é:",
+    "href": "https://www.bomcondutor.pt/questao/2534",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2534.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De informação."
+      },
+      {
+        "option": "B",
+        "text": "De zona."
+      },
+      {
+        "option": "C",
+        "text": "Turístico-cultural."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2535",
+    "text": "O sinal vertical indica:",
+    "href": "https://www.bomcondutor.pt/questao/2535",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2535.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de uma região."
+      },
+      {
+        "option": "B",
+        "text": "Início de uma localidade."
+      },
+      {
+        "option": "C",
+        "text": "Local com interesse cultural."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2536",
+    "text": "O sinal vertical indica:",
+    "href": "https://www.bomcondutor.pt/questao/2536",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2536.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Início de rota."
+      },
+      {
+        "option": "B",
+        "text": "Local com interesse cultural."
+      },
+      {
+        "option": "C",
+        "text": "Região."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2537",
+    "text": "Os sinais luminosos devem ser repetidos do lado esquerdo ou por cima da faixa de rodagem:",
+    "href": "https://www.bomcondutor.pt/questao/2537",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2537.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Para poderem ser vistos à distância conveniente."
+      },
+      {
+        "option": "B",
+        "text": "Sempre."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2538",
+    "text": "Os marcadores retroreflectores são utilizados para dar indicação aos condutores de que as condições do pavimento são deficientes.",
+    "href": "https://www.bomcondutor.pt/questao/2538",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2538.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2539",
+    "text": "Os sinais luminosos têm o objectivo de regular o trânsito.",
+    "href": "https://www.bomcondutor.pt/questao/2539",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2539.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2540",
+    "text": "Os veículos que transitem na via da esquerda devem:",
+    "href": "https://www.bomcondutor.pt/questao/2540",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2540.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com precaução."
+      },
+      {
+        "option": "B",
+        "text": "Parar."
+      },
+      {
+        "option": "C",
+        "text": "Unicamente mudar de direcção, porque o sinal luminoso está colocado do lado direito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2541",
+    "text": "Para circular em segurança, o automobilista que circula à minha retaguarda, deve acender as luzes de:",
+    "href": "https://www.bomcondutor.pt/questao/2541",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2541.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cruzamento."
+      },
+      {
+        "option": "B",
+        "text": "Estrada."
+      },
+      {
+        "option": "C",
+        "text": "Presença."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2542",
+    "text": "Para indicar aos outros utentes da via pública a aproximação do seu veículo, o condutor deve utilizar:",
+    "href": "https://www.bomcondutor.pt/questao/2542",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2542.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O sinal de mudança de direcção."
+      },
+      {
+        "option": "B",
+        "text": "Os sinais sonoros nas localidades, de dia, mas só em caso de perigo iminente."
+      },
+      {
+        "option": "C",
+        "text": "Os sinais sonoros, de noite, nas localidades."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2543",
+    "text": "Para mudar de direcção à esquerda posso pisar as raias obliquas que se encontram assinaladas no pavimento?",
+    "href": "https://www.bomcondutor.pt/questao/2543",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2543.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2544",
+    "text": "Para que servem os marcadores retroreflectores colocados no pavimento à minha direita?",
+    "href": "https://www.bomcondutor.pt/questao/2544",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2544.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Para indicar que a velocidade deve ser especialmente reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Para informar os condutores que as condições do pavimento são más."
+      },
+      {
+        "option": "C",
+        "text": "Para reforçar a visibilidade das marcas rodoviárias."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2545",
+    "text": "Perante a indicação dada pelo sinal devo:",
+    "href": "https://www.bomcondutor.pt/questao/2545",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2545.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar mas com muita precaução."
+      },
+      {
+        "option": "B",
+        "text": "Parar e aguardar por outra indicação."
+      },
+      {
+        "option": "C",
+        "text": "Parar e só avançar depois de ceder a passagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2546",
+    "text": "Perante a indicação do sinal luminoso, estou autorizado a avançar. No entanto, as condições do trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/2546",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2546.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não me permitem avançar de imediato."
+      },
+      {
+        "option": "B",
+        "text": "Obrigam-me a parar antes do sinal."
+      },
+      {
+        "option": "C",
+        "text": "Permitem a utilização dos sinais sonoros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2547",
+    "text": "Perante a linha contínua amarela junto ao limite direito da faixa de rodagem, fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2547",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2547.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A paragem e o estacionamento devem fazer-se fora da faixa de rodagem, porque não circulo numa localidade."
+      },
+      {
+        "option": "B",
+        "text": "É proibido estacionar, podendo apenas parar na berma."
+      },
+      {
+        "option": "C",
+        "text": "É proibido parar ou estacionar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2548",
+    "text": "Perante a luz amarela da sinalização luminosa, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2548",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2548.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ocupar a via da esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Passar rapidamente antes de aparecer a luz vermelha."
+      },
+      {
+        "option": "C",
+        "text": "Preparar-me para parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2549",
+    "text": "Perante a luz amarela do sinal luminoso, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2549",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2549.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com muita precaução."
+      },
+      {
+        "option": "B",
+        "text": "Avançar rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2550",
+    "text": "Perante a luz amarela, que antecede a luz vermelha, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2550",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2550.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com precaução."
+      },
+      {
+        "option": "B",
+        "text": "Avançar rapidamente se a paragem não se mostrar segura."
+      },
+      {
+        "option": "C",
+        "text": "Travar bruscamente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2551",
+    "text": "Perante a luz do sinal luminoso devo:",
+    "href": "https://www.bomcondutor.pt/questao/2551",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2551.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar muito lentamente."
+      },
+      {
+        "option": "B",
+        "text": "Avançar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2552",
+    "text": "Perante a luz verde dos sinais luminosos:",
+    "href": "https://www.bomcondutor.pt/questao/2552",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2552.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Regra geral, devo avançar."
+      },
+      {
+        "option": "B",
+        "text": "Regra geral, devo parar."
+      },
+      {
+        "option": "C",
+        "text": "Sou obrigado a avançar em qualquer circunstância."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2553",
+    "text": "Perante a luz verde eu não devo avançar quando:",
+    "href": "https://www.bomcondutor.pt/questao/2553",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2553.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "No passeio existam peões que pretendam iniciar a travessia da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Pela intensidade de trânsito, seja previsível a imobilização no centro da intersecção."
+      },
+      {
+        "option": "C",
+        "text": "Um agente regulador de trânsito esteja no local."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2554",
+    "text": "Perante a marca rodoviária de cor amarela que se encontra no pavimento, devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2554",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2554.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas posso parar na área demarcada se a sinalização luminosa permitir."
+      },
+      {
+        "option": "B",
+        "text": "Apenas posso parar na área demarcada se tiver prioridade de passagem."
+      },
+      {
+        "option": "C",
+        "text": "Nunca posso parar na área demarcada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2555",
+    "text": "Perante a mudança de cor na sinalização luminosa, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2555",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2555.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Acelerar para passar rapidamente."
+      },
+      {
+        "option": "B",
+        "text": "Reduzir a velocidade e avançar com prudência."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade e parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2556",
+    "text": "Perante a seta marcada no pavimento devo:",
+    "href": "https://www.bomcondutor.pt/questao/2556",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2556.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Manter-me na via de trânsito em que circulo."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção à direita."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2557",
+    "text": "Perante a sinalização desta via pública fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2557",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2557.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "As marcas rodoviárias permitem-me seguir em frente ou mudar de direcção à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Posso mudar de direcção à esquerda e tenho prioridade de passagem sobre os veículos que circulam em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Se pretender mudar de direcção à esquerda devo ocupar as raias obliquas para reduzir a velocidade."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2558",
+    "text": "Perante a sinalização devo estar especialmente atento:",
+    "href": "https://www.bomcondutor.pt/questao/2558",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2558.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "À travessia de peões."
+      },
+      {
+        "option": "B",
+        "text": "Aos outros veículos porque os peões são obrigados a parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2559",
+    "text": "Perante a sinalização existente nesta via pública posso mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2559",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2559.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas com precaução."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2560",
+    "text": "Perante a sinalização existente nesta via pública, estou sempre obrigado a seguir em frente. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2560",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2560.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2561",
+    "text": "Perante a sinalização existente nesta via pública, posso mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2561",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2561.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, estou proibido de realizar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, as marcas rodoviárias permitem a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que passe para a via de trânsito mais à esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2562",
+    "text": "Perante a sinalização existente no local, como devo proceder?",
+    "href": "https://www.bomcondutor.pt/questao/2562",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2562.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Acelerar, de modo a passar o mais rapidamente possível."
+      },
+      {
+        "option": "B",
+        "text": "Circular com especial precaução."
+      },
+      {
+        "option": "C",
+        "text": "Parar, porque tenho espaço suficiente para o fazer em segurança."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2563",
+    "text": "Perante a sinalização luminosa:",
+    "href": "https://www.bomcondutor.pt/questao/2563",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2563.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo mudar de direcção para a esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Devo parar e avançar quando o sinal ficar verde."
+      },
+      {
+        "option": "C",
+        "text": "Posso avançar e virar para a esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2564",
+    "text": "Perante a sinalização posso avançar em qualquer circunstância?",
+    "href": "https://www.bomcondutor.pt/questao/2564",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2564.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, caso seja previsível a imobilização no cruzamento."
+      },
+      {
+        "option": "B",
+        "text": "Sim, visto estar acesa a luz verde."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2565",
+    "text": "Perante a sinalização que se encontra no pavimento devo:",
+    "href": "https://www.bomcondutor.pt/questao/2565",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2565.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Passar para a via de trânsito da esquerda em segurança."
+      },
+      {
+        "option": "B",
+        "text": "Virar obrigatoriamente à esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2566",
+    "text": "Perante as marcas rodoviárias à minha esquerda, fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2566",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2566.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É proibido estacionar na área por elas abrangida a não ser para a realização de manobras que manifestamente não apresentem perigo."
+      },
+      {
+        "option": "B",
+        "text": "É proibido parar ou estacionar na área por elas abrangida a não ser para a realização de manobras que manifestamente não apresentem perigo."
+      },
+      {
+        "option": "C",
+        "text": "É proibido parar ou estacionar na área por elas abrangida."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2567",
+    "text": "Perante as marcas rodoviárias existentes no pavimento, fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2567",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2567.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A linha mista existente no eixo da faixa de rodagem permite-me a sua transposição."
+      },
+      {
+        "option": "B",
+        "text": "Não posso transpor a linha descontínua que se encontra no eixo a faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Não posso transpor as duas linhas, contínua e descontínua, que se encontram no eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2568",
+    "text": "Perante as marcas rodoviárias que se encontram no pavimento posso mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2568",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2568.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, devo seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, devo ocupar de imediato as raias obliquas."
+      },
+      {
+        "option": "C",
+        "text": "Sim, na próxima intersecção."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2569",
+    "text": "Perante esta situação posso transpor a linha existente no eixo da via?",
+    "href": "https://www.bomcondutor.pt/questao/2569",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2569.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca posso."
+      },
+      {
+        "option": "B",
+        "text": "Sim, para mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Sim, para ultrapassar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2570",
+    "text": "Perante esta situação reduzi subitamente a velocidade. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/2570",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2570.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Buzinar, para advertir os utentes dessa situação."
+      },
+      {
+        "option": "B",
+        "text": "Fazer sinal de paragem com o braço esquerdo."
+      },
+      {
+        "option": "C",
+        "text": "Ligar os quatro 'piscas' em simultâneo, como sinalização de perigo."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2571",
+    "text": "Perante o sinal do agente, os condutores que se apresentam na intersecção, à minha direita, devem:",
+    "href": "https://www.bomcondutor.pt/questao/2571",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2571.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Abrandar."
+      },
+      {
+        "option": "B",
+        "text": "Avançar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2572",
+    "text": "Porque circulo num local bem iluminado devo utilizar as luzes de:",
+    "href": "https://www.bomcondutor.pt/questao/2572",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2572.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cruzamento."
+      },
+      {
+        "option": "B",
+        "text": "Estrada."
+      },
+      {
+        "option": "C",
+        "text": "Presença."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2573",
+    "text": "Posso avançar perante a luz amarela constante do sinal luminoso?",
+    "href": "https://www.bomcondutor.pt/questao/2573",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2573.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas se não conseguir parar em segurança."
+      },
+      {
+        "option": "C",
+        "text": "Sim, sempre."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2574",
+    "text": "Posso circular apenas com as luzes de presença?",
+    "href": "https://www.bomcondutor.pt/questao/2574",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2574.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2575",
+    "text": "Posso efectuar a manobra de ultrapassagem neste local?",
+    "href": "https://www.bomcondutor.pt/questao/2575",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2575.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a linha mista proíbe a realização da manobra de ultrapassagem."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que efectue a manobra em segurança."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas de veículos automóveis ligeiros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2576",
+    "text": "Posso estacionar na área demarcada de cor amarela?",
+    "href": "https://www.bomcondutor.pt/questao/2576",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2576.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca, porque esta marca apenas permite a paragem."
+      },
+      {
+        "option": "B",
+        "text": "Sim, se for carregar ou descarregar mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Sim, sempre, porque é esse o seu objectivo."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2577",
+    "text": "Posso estacionar o meu veículo no preciso local onde me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/2577",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2577.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, apenas posso parar."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2578",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/2578",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2578.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a marca rodoviária existente não me permite realizar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque estou a menos de 50 metros de uma curva."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas só quando houver pouca intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2579",
+    "text": "Posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/2579",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2579.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a sinalização não mo permite."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a luz verde me autoriza a efectuar a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a sinalização luminosa prevalece sobre a sinalização vertical."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2580",
+    "text": "Posso mudar de direcção à esquerda na próxima bifurcação?",
+    "href": "https://www.bomcondutor.pt/questao/2580",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2580.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2581",
+    "text": "Posso mudar de direcção à esquerda na próxima intersecção?",
+    "href": "https://www.bomcondutor.pt/questao/2581",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2581.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque as marcas rodoviárias não permitem a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim. Devo aproximar-me do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim. Devo aproximar-me do lado esquerdo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2582",
+    "text": "Posso mudar de direcção à esquerda no próximo entroncamento?",
+    "href": "https://www.bomcondutor.pt/questao/2582",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2582.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, as marcas rodoviárias não permitem."
+      },
+      {
+        "option": "B",
+        "text": "Sim, e já me encontro correctamente posicionado nesta via de trânsito para efectuar a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, não existe sinalização que proíba a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2583",
+    "text": "Posso parar em cima da raia oblíqua?",
+    "href": "https://www.bomcondutor.pt/questao/2583",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2583.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, em caso de avaria."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2584",
+    "text": "Posso parar no local onde me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/2584",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2584.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Posso parar mas não posso estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Sim, posso parar e estacionar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2585",
+    "text": "Posso parar o meu veículo do lado direito da faixa de rodagem?",
+    "href": "https://www.bomcondutor.pt/questao/2585",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2585.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, excepto para cargas ou descargas."
+      },
+      {
+        "option": "B",
+        "text": "Não. É proibido parar."
+      },
+      {
+        "option": "C",
+        "text": "Sim, sendo apenas proibido estacionar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2586",
+    "text": "Posso pisar ou transpor a linha descontínua?",
+    "href": "https://www.bomcondutor.pt/questao/2586",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2586.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Não, posso pisar sem transpor a linha."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas para efectuar manobras."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2587",
+    "text": "Posso pisar ou transpor a linha longitudinal contínua à minha direita?",
+    "href": "https://www.bomcondutor.pt/questao/2587",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2587.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas para entrar na área de serviço."
+      },
+      {
+        "option": "C",
+        "text": "Sim, para efectuar a manobra de ultrapassagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2588",
+    "text": "Posso pisar ou transpor a linha mista que se encontra à minha esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2588",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2588.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Não, estou autorizado a pisar mas nunca a transpor a linha."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas para efectuar manobras."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2589",
+    "text": "Posso pisar ou transpor as raias oblíquas que se encontram à minha esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2589",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2589.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas se pretender mudar de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Sim, sempre que pretenda parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2590",
+    "text": "Posso pisar ou transpor esta marca rodoviária?",
+    "href": "https://www.bomcondutor.pt/questao/2590",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2590.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "B",
+        "text": "Sim, em caso de necessidade."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas só com piso seco."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2591",
+    "text": "Posso transpor a marca longitudinal contínua existente nesta via pública?",
+    "href": "https://www.bomcondutor.pt/questao/2591",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2591.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a marca não pode ser transposta nem pisada."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas para mudar de direcção à esquerda no entroncamento."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas para ultrapassar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2592",
+    "text": "Posso transpor as marcas rodoviárias separadoras dos sentidos de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/2592",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2592.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, estou proibido de transpor as linhas contínuas adjacentes que separam os sentidos de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Sim, posso transpor a linha mista que separa os sentidos de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, posso transpor as linhas de sentido reversível que separam os sentidos de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2593",
+    "text": "Posso transpor ou pisar a marca rodoviária que divide os sentidos de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/2593",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2593.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, se dessa situação não resultar qualquer tipo de insegurança."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se necessitar de ultrapassar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2594",
+    "text": "Posso utilizar as raias oblíquas que se encontram do meu lado direito?",
+    "href": "https://www.bomcondutor.pt/questao/2594",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2594.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca posso."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas para tomada ou largada de passageiros."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas se pretender passar para a via de trânsito mais à direita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2595",
+    "text": "Posso utilizar os máximos?",
+    "href": "https://www.bomcondutor.pt/questao/2595",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2595.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, caso exista perigo de encandeamento."
+      },
+      {
+        "option": "B",
+        "text": "Sim, se durante o percurso encontrar nevoeiro."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se iniciar uma ultrapassagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2596",
+    "text": "Posso utilizar os sinais sonoros:",
+    "href": "https://www.bomcondutor.pt/questao/2596",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2596.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Para assinalar a minha marcha urgente de socorro."
+      },
+      {
+        "option": "B",
+        "text": "Para assinalar a realização de qualquer manobra."
+      },
+      {
+        "option": "C",
+        "text": "Para ultrapassar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2597",
+    "text": "Posso utilizar os sinais sonoros?",
+    "href": "https://www.bomcondutor.pt/questao/2597",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2597.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sim, em caso de perigo iminente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, pois circulo dentro de uma localidade."
+      },
+      {
+        "option": "C",
+        "text": "Sim, pois existe um sinal a indicar-me passagem estreita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2598",
+    "text": "Pretendo mudar de direcção à direita. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/2598",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2598.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com precaução."
+      },
+      {
+        "option": "B",
+        "text": "Avançar rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2599",
+    "text": "Pretendo parar neste local, para largar um passageiro. Posso fazê-lo sobre a linha em ziguezague?",
+    "href": "https://www.bomcondutor.pt/questao/2599",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2599.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, esta marca só me permite estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Não, só me é possível realizar a manobra sobre a linha amarela descontínua."
+      },
+      {
+        "option": "C",
+        "text": "Sim, posso."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2600",
+    "text": "Pretendo seguir em frente. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/2600",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2600.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com precaução."
+      },
+      {
+        "option": "B",
+        "text": "Avançar rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2601",
+    "text": "Qual das seguintes afirmações, sobre as marcas rodoviárias amarelas, está correcta?",
+    "href": "https://www.bomcondutor.pt/questao/2601",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2601.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A linha em ziguezague proíbe a paragem, a linha descontínua proíbe o estacionamento."
+      },
+      {
+        "option": "B",
+        "text": "Ambas proíbem a paragem."
+      },
+      {
+        "option": "C",
+        "text": "Ambas proíbem o estacionamento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2602",
+    "text": "Qual das seguintes luzes, à retaguarda, deve utilizar o veículo que segue à minha frente?",
+    "href": "https://www.bomcondutor.pt/questao/2602",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2602.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Indicador de mudança de direcção à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Luz de marcha atrás."
+      },
+      {
+        "option": "C",
+        "text": "Luzes de presença e de nevoeiro."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2603",
+    "text": "Qual das seguintes marcas longitudinais tem sempre o mesmo significado que as marcas que se encontram inscritas no pavimento?",
+    "href": "https://www.bomcondutor.pt/questao/2603",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2603.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Linha contínua."
+      },
+      {
+        "option": "B",
+        "text": "Linha descontínua."
+      },
+      {
+        "option": "C",
+        "text": "Linha mista."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2604",
+    "text": "Qual é a marca rodoviária colocada no eixo da via?",
+    "href": "https://www.bomcondutor.pt/questao/2604",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2604.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Uma linha descontínua."
+      },
+      {
+        "option": "B",
+        "text": "Uma linha mista."
+      },
+      {
+        "option": "C",
+        "text": "Uma raia oblíqua."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2605",
+    "text": "Qual o significado da linha amarela em ziguezague?",
+    "href": "https://www.bomcondutor.pt/questao/2605",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2605.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proibição de estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de parar ou estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2606",
+    "text": "Qual o significado da marca rodoviária de cor amarela?",
+    "href": "https://www.bomcondutor.pt/questao/2606",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2606.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proibição de estacionar em toda a sua extensão."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de parar em toda a sua extensão."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2607",
+    "text": "Quando a sinalização luminosa mudar para a cor verde, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2607",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2607.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar."
+      },
+      {
+        "option": "B",
+        "text": "Parar obrigatoriamente."
+      },
+      {
+        "option": "C",
+        "text": "Parar, desde que o consiga fazer em condições de segurança."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2608",
+    "text": "Que indicação a sinalização de cor amarela e preta dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/2608",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2608.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A presença de obstáculos ou construções que podem constituir perigo."
+      },
+      {
+        "option": "B",
+        "text": "Os veículos que circulam em sentido contrário podem ultrapassar."
+      },
+      {
+        "option": "C",
+        "text": "Proximidade de obras na via pública."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2609",
+    "text": "Regra geral, como devo proceder perante a luz amarela constante da sinalização luminosa?",
+    "href": "https://www.bomcondutor.pt/questao/2609",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2609.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo parar o veículo antes da zona regulada pelo sinal."
+      },
+      {
+        "option": "B",
+        "text": "Posso passar, desde que o faça com especial prudência."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2610",
+    "text": "Regra geral, perante a luz verde dos sinais luminosos, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2610",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2610.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar."
+      },
+      {
+        "option": "B",
+        "text": "Parar e ceder a passagem."
+      },
+      {
+        "option": "C",
+        "text": "Parar, embora tenha a prioridade."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2611",
+    "text": "Relativamente à ordem de prevalência entre vários tipos de sinalização, podemos afirmar que:",
+    "href": "https://www.bomcondutor.pt/questao/2611",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2611.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A sinalização temporária prevalece sobre as marcas rodoviárias."
+      },
+      {
+        "option": "B",
+        "text": "As marcas rodoviárias prevalecem sobre a sinalização temporária."
+      },
+      {
+        "option": "C",
+        "text": "Entre a sinalização temporária e as marcas rodoviárias não há princípios de prevalência."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2612",
+    "text": "São proibidos os sinais sonoros, quando utilizados:",
+    "href": "https://www.bomcondutor.pt/questao/2612",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2612.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Como forma de protesto, contra interrupções de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "De noite, fora das localidades."
+      },
+      {
+        "option": "C",
+        "text": "Fora das localidades, para efectuar uma ultrapassagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2613",
+    "text": "São proibidos os sinais sonoros, quando utilizados:",
+    "href": "https://www.bomcondutor.pt/questao/2613",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2613.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De dia, dentro das localidades, em caso de manifesta necessidade."
+      },
+      {
+        "option": "B",
+        "text": "De noite, dentro das localidades."
+      },
+      {
+        "option": "C",
+        "text": "De noite, fora das localidades."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2614",
+    "text": "Se me encontrar em situação em que as condições atmosféricas não me permitam circular em boas condições de visibilidade, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2614",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2614.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Suspender a marcha."
+      },
+      {
+        "option": "B",
+        "text": "Utilizar as luzes de cruzamento."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar as luzes de perigo."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2615",
+    "text": "Se necessário posso transpor a guia da direita.",
+    "href": "https://www.bomcondutor.pt/questao/2615",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2615.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2616",
+    "text": "Se pretender efectuar cargas e descargas posso parar no local sinalizado com a marca rodoviária de cor amarela?",
+    "href": "https://www.bomcondutor.pt/questao/2616",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2616.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2617",
+    "text": "Se pretender seguir a direcção do Lumiar, posso pisar ou transpor a linha longitudinal contínua que se encontra à minha direita?",
+    "href": "https://www.bomcondutor.pt/questao/2617",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2617.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca posso."
+      },
+      {
+        "option": "B",
+        "text": "Sim, o Código da Estrada permite."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque devo utilizar a via mais conveniente ao meu destino."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2618",
+    "text": "Se pretender seguir em frente, estou correctamente posicionado nesta via de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/2618",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2618.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, devo passar para a via de trânsito mais à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Sim, estou correctamente posicionado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2619",
+    "text": "Se um agente regulador do trânsito me mandar avançar perante o sinal vermelho, como devo proceder?",
+    "href": "https://www.bomcondutor.pt/questao/2619",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2619.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo obedecer à ordem do agente regulador do trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Devo obedecer ao sinal luminoso vermelho que me obriga a parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2620",
+    "text": "Sempre que o agente regulador de trânsito me dá uma indicação de parar, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2620",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2620.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estar atento, mas apenas devo respeitar a sinalização vertical."
+      },
+      {
+        "option": "B",
+        "text": "Respeitá-la."
+      },
+      {
+        "option": "C",
+        "text": "Verificar primeiro se não há sinalização contrária."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2621",
+    "text": "Sempre que pretender mudar de via de trânsito estou obrigado a assinalar a manobra?",
+    "href": "https://www.bomcondutor.pt/questao/2621",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2621.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, apenas estou obrigado a sinalizar as manobras de mudança de direcção, ultrapassagem ou inversão do sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Sim, estou obrigado a sinalizar a manobra, excepto se a faixa de rodagem tiver mais de duas vias de trânsito no mesmo sentido."
+      },
+      {
+        "option": "C",
+        "text": "Sim, estou sempre obrigado a sinalizar a manobra."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2622",
+    "text": "Sou obrigado a parar:",
+    "href": "https://www.bomcondutor.pt/questao/2622",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2622.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Antes da linha transversal de paragem."
+      },
+      {
+        "option": "B",
+        "text": "Depois da linha transversal de paragem."
+      },
+      {
+        "option": "C",
+        "text": "Sobre a linha transversal de paragem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2623",
+    "text": "Tendo em atenção a sinalização desta via pública, posso mudar de direcção à esquerda no próximo cruzamento?",
+    "href": "https://www.bomcondutor.pt/questao/2623",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2623.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a linha contínua não permite a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2624",
+    "text": "Tendo em conta as marcas rodoviárias inscritas no pavimento, se mudar para a via de trânsito à minha direita devo seguir a direcção:",
+    "href": "https://www.bomcondutor.pt/questao/2624",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2624.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aveiro/Porto ou Vouzela/Tondela."
+      },
+      {
+        "option": "B",
+        "text": "Aveiro/Porto."
+      },
+      {
+        "option": "C",
+        "text": "Vouzela/Tondela."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2625",
+    "text": "Todos os condutores são obrigados a parar perante o sinal luminoso de cor vermelha?",
+    "href": "https://www.bomcondutor.pt/questao/2625",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2625.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, embora os condutores de veículos que circulam em missão de socorro possam avançar, depois de tomadas as devidas precauções."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2626",
+    "text": "Transito a menos de 100 metros do veículo da frente. Devo circular com:",
+    "href": "https://www.bomcondutor.pt/questao/2626",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2626.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "'Máximos'."
+      },
+      {
+        "option": "B",
+        "text": "'Médios' ou os 'máximos'."
+      },
+      {
+        "option": "C",
+        "text": "'Médios'."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2627",
+    "text": "Um condutor de um veículo em missão urgente de socorro, estará obrigado a parar nesta situação?",
+    "href": "https://www.bomcondutor.pt/questao/2627",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2627.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, se a sua intenção for mudar de direcção à direita."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, independentemente do trajecto a seguir."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2628",
+    "text": "Um veículo com estas placas na retaguarda é:",
+    "href": "https://www.bomcondutor.pt/questao/2628",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2628.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um automóvel com 10 metros de comprimento."
+      },
+      {
+        "option": "B",
+        "text": "Um automóvel com mais de 12 metros de comprimento."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2629",
+    "text": "Uma luz amarela, rotativa ou intermitente, é obrigatória:",
+    "href": "https://www.bomcondutor.pt/questao/2629",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2629.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Em todos os veículos que não excedam a velocidade de 40 km/h."
+      },
+      {
+        "option": "B",
+        "text": "Nos motociclos com carro."
+      },
+      {
+        "option": "C",
+        "text": "Nos tractores agrícolas e máquinas agrícolas e industriais automotrizes."
+      }
+    ],
+    "correctAnswer": "C"
+  }
+]

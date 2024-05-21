@@ -1,0 +1,6406 @@
+[
+  {
+    "id": "2949",
+    "text": "A manobra de inversão do sentido de marcha é permitida neste local?",
+    "href": "https://www.bomcondutor.pt/questao/2949",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2949.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a sinalização existente na via não me permite efectuar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização existente na via permite-me efectuar a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, antes da curva e do sinal de perigo."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2950",
+    "text": "A manobra de inversão do sentido de marcha é permitida nos túneis que tenham mais de uma via de trânsito.",
+    "href": "https://www.bomcondutor.pt/questao/2950",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2950.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2951",
+    "text": "A manobra de inversão do sentido de marcha é proibida em todos os túneis?",
+    "href": "https://www.bomcondutor.pt/questao/2951",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2951.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, apenas nos túneis de visibilidade reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra é sempre proibida."
+      },
+      {
+        "option": "C",
+        "text": "Sim, excepto nos túneis com mais de uma via de trânsito no mesmo sentido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2952",
+    "text": "A manobra de inversão do sentido de marcha é proibida:",
+    "href": "https://www.bomcondutor.pt/questao/2952",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2952.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas nos entroncamentos de visibilidade reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Em todos os entroncamentos."
+      },
+      {
+        "option": "C",
+        "text": "Única e exclusivamente nos cruzamentos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2953",
+    "text": "A manobra de inversão do sentido de marcha é sempre proibida nas lombas?",
+    "href": "https://www.bomcondutor.pt/questao/2953",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2953.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, salvo se existirem duas ou mais vias de trânsito no mesmo sentido."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2954",
+    "text": "A manobra de inversão do sentido de marcha é sempre proibida numa passagem de nível?",
+    "href": "https://www.bomcondutor.pt/questao/2954",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2954.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, se for utilizada como manobra auxiliar ou de recurso."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2955",
+    "text": "A manobra de inversão do sentido de marcha numa ponte é sempre proibida. Concorda com a afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2955",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2955.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de inversão do sentido de marcha é permitida nas pontes que, pela sua largura ou outras características, seja apropriada à realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra de inversão do sentido de marcha é sempre proibida nas pontes."
+      },
+      {
+        "option": "C",
+        "text": "Sim, excepto nas pontes com mais de uma via de trânsito no mesmo sentido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2956",
+    "text": "A manobra de marcha atrás deve ser realizada:",
+    "href": "https://www.bomcondutor.pt/questao/2956",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2956.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "No maior trajecto possível."
+      },
+      {
+        "option": "B",
+        "text": "No menor trajecto possível."
+      },
+      {
+        "option": "C",
+        "text": "No trajecto que o condutor considerar necessário."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2957",
+    "text": "A manobra de marcha atrás deve ser utilizada como manobra de recurso e executada:",
+    "href": "https://www.bomcondutor.pt/questao/2957",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2957.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Lentamente e no maior trajecto possível."
+      },
+      {
+        "option": "B",
+        "text": "Lentamente."
+      },
+      {
+        "option": "C",
+        "text": "Rapidamente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2958",
+    "text": "A manobra de marcha atrás é permitida neste local?",
+    "href": "https://www.bomcondutor.pt/questao/2958",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2958.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é sempre proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas como manobra auxiliar e no menor trajecto possível."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas se for necessário recuar até ao local onde se encontra o telefone de emergência."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2959",
+    "text": "A manobra de marcha atrás é proibida em todas as curvas. Concorda com a afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2959",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2959.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida nas curvas de visibilidade reduzida excepto se a via, pela sua largura, for apropriada à realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Não, a manobra é proibida nas curvas de visibilidade reduzida."
+      },
+      {
+        "option": "C",
+        "text": "Sim, a manobra é proibida em todas as curvas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2960",
+    "text": "A manobra de marcha atrás é proibida em todos os entroncamentos. Concorda com a afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2960",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2960.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a marcha atrás é proibida em todos os entroncamentos de visibilidade reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a marcha atrás é proibida em todos os entroncamentos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2961",
+    "text": "A manobra de marcha atrás é proibida nos túneis.",
+    "href": "https://www.bomcondutor.pt/questao/2961",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2961.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2962",
+    "text": "A manobra de marcha atrás nas vias fora das localidades apenas é permitida como manobra auxiliar ou de recurso. Concorda com a afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2962",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2962.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2963",
+    "text": "A manobra de marcha atrás:",
+    "href": "https://www.bomcondutor.pt/questao/2963",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2963.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Deve efectuar-se rapidamente."
+      },
+      {
+        "option": "B",
+        "text": "Deve efectuar-se sempre que se verifique grande intensidade de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "É permitida como manobra de recurso."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2964",
+    "text": "A manobra de mudança de direcção à direita deve ser executada:",
+    "href": "https://www.bomcondutor.pt/questao/2964",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2964.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "No maior trajecto possível, desde que tenha espaço disponível na faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Ocupando com a devida antecedência o eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Respeitando a posição de marcha e no trajecto mais curto."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2965",
+    "text": "A manobra de mudança de direcção à direita deve ser realizada:",
+    "href": "https://www.bomcondutor.pt/questao/2965",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2965.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "No trajecto mais curto."
+      },
+      {
+        "option": "B",
+        "text": "No trajecto mais longo."
+      },
+      {
+        "option": "C",
+        "text": "Pelo eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2966",
+    "text": "A manobra de ultrapassagem é permitida neste local?",
+    "href": "https://www.bomcondutor.pt/questao/2966",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2966.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque não há sinalização vertical que proíba a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque não há trânsito em sentido contrário."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2967",
+    "text": "A manobra de ultrapassagem é proibida imediatamente antes dos entroncamentos?",
+    "href": "https://www.bomcondutor.pt/questao/2967",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2967.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas se a visibilidade for reduzida."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2968",
+    "text": "A marca rodoviária que se encontra à minha esquerda não me permite realizar a manobra de :",
+    "href": "https://www.bomcondutor.pt/questao/2968",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2968.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inversão do sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Marcha atrás."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2969",
+    "text": "A marcha atrás é uma manobra de recurso, que não deve ser executada:",
+    "href": "https://www.bomcondutor.pt/questao/2969",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2969.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A uma velocidade reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Nas vias de sentido único."
+      },
+      {
+        "option": "C",
+        "text": "Nos locais com muita intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2970",
+    "text": "A marcha atrás pode ser considerada uma manobra de recurso?",
+    "href": "https://www.bomcondutor.pt/questao/2970",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2970.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2971",
+    "text": "A mudança de direcção à direita:",
+    "href": "https://www.bomcondutor.pt/questao/2971",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2971.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Deve ser executada o mais à direita possível."
+      },
+      {
+        "option": "B",
+        "text": "É proibida neste local."
+      },
+      {
+        "option": "C",
+        "text": "Não deve ser executada pelo veículo que circula à minha frente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2972",
+    "text": "A mudança de direcção para a direita, deve ser realizada:",
+    "href": "https://www.bomcondutor.pt/questao/2972",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2972.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "No trajecto mais curto, junto ao limite direito da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Pelo lado direito da faixa de rodagem, independentemente do trajecto."
+      },
+      {
+        "option": "C",
+        "text": "Pelo lado esquerdo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2973",
+    "text": "A que velocidade devo fazer marcha atrás?",
+    "href": "https://www.bomcondutor.pt/questao/2973",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2973.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Lentamente e com precauções."
+      },
+      {
+        "option": "B",
+        "text": "Nunca a mais de 10 Km/h."
+      },
+      {
+        "option": "C",
+        "text": "O mais rápido possível."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2974",
+    "text": "A realização da manobra de inversão do sentido de marcha é permitida neste local?",
+    "href": "https://www.bomcondutor.pt/questao/2974",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2974.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida neste local."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a faixa de rodagem encontra-se livre na extensão e largura necessárias à realização da manobra com segurança."
+      },
+      {
+        "option": "C",
+        "text": "Sim, devendo aproximar-me o mais possível do limite direito da faixa de rodagem e efectuar a manobra no trajecto mais seguro."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2975",
+    "text": "A sinalização existente nesta via de trânsito permite-me inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/2975",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2975.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a linha contínua proibe apenas a manobra de ultrapassagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, a manobra é permitida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2976",
+    "text": "A via de trânsito à minha esquerda pode ser utilizada por condutores que:",
+    "href": "https://www.bomcondutor.pt/questao/2976",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2976.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Me pretendam ultrapassar."
+      },
+      {
+        "option": "B",
+        "text": "Queiram mudar de direcção à esquerda, assinalando adequadamente a sua intenção."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2977",
+    "text": "A via de trânsito à minha esquerda:",
+    "href": "https://www.bomcondutor.pt/questao/2977",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2977.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É destinada aos condutores que pretendem mudar de direcção à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "É uma via de abrandamento."
+      },
+      {
+        "option": "C",
+        "text": "É uma via de aceleração."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2978",
+    "text": "Antes de iniciar a manobra de marcha atrás é necessário verificar:",
+    "href": "https://www.bomcondutor.pt/questao/2978",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2978.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Quantos sentidos tem a via de trânsito em que circulo."
+      },
+      {
+        "option": "B",
+        "text": "Se a visibilidade é suficiente."
+      },
+      {
+        "option": "C",
+        "text": "Se é possível ou não inverter o sentido de marcha."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2979",
+    "text": "Antes de iniciar a manobra de mudança de direcção para a esquerda, devo assegurar-me:",
+    "href": "https://www.bomcondutor.pt/questao/2979",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2979.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que a manobra seja efectuada à maior velocidade possível."
+      },
+      {
+        "option": "B",
+        "text": "Que a manobra seja efectuada o mais possível à esquerda da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Que dela não resulte perigo ou embaraço para o trânsito."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2980",
+    "text": "Antes de realizar qualquer manobra, devo ter em atenção as condições de visibilidade.",
+    "href": "https://www.bomcondutor.pt/questao/2980",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2980.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2981",
+    "text": "Ao circular nesta ponte estou proibido de:",
+    "href": "https://www.bomcondutor.pt/questao/2981",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2981.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular com velocidade moderada."
+      },
+      {
+        "option": "B",
+        "text": "Circular o mais próximo possível do passeio."
+      },
+      {
+        "option": "C",
+        "text": "Efectuar a manobra de marcha atrás."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2982",
+    "text": "Ao circular nesta ponte, nunca posso inverter o sentido de marcha. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2982",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2982.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é permitida se não houver intensidade de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Não, a manobra é possível se o veículo que circula em sentido contrário parar."
+      },
+      {
+        "option": "C",
+        "text": "Sim, a manobra é proibida."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2983",
+    "text": "Ao circular nesta via de trânsito devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2983",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2983.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A manobra de marcha atrás é permitida nas lombas, desde que, seja efectuada como manobra de recurso e no menor trajecto possível."
+      },
+      {
+        "option": "B",
+        "text": "A manobra de marcha atrás é permitida neste local em virtude das marcas rodoviárias."
+      },
+      {
+        "option": "C",
+        "text": "A manobra de marcha atrás é proibida nas lombas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2984",
+    "text": "Ao circular nesta via de trânsito e perante a sinalização existente devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2984",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2984.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Posso efectuar a manobra de inversão do sentido de marcha desde que nunca cause perigo ou embaraço para o trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Posso efectuar a manobra de inversão do sentido de marcha lentamente, ainda que cause algum embaraço injustificado aos restantes utentes da via, mas desde que nunca cause qualquer perigo."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2985",
+    "text": "Ao circular neste local estou obrigado a moderar especialmente a velocidade do meu veículo.",
+    "href": "https://www.bomcondutor.pt/questao/2985",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2985.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2986",
+    "text": "Ao circular neste local um condutor deve saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2986",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2986.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas pode inverter o sentido de marcha no próximo entroncamento."
+      },
+      {
+        "option": "B",
+        "text": "Está proibido de inverter o sentido de marcha e que tem prioridade no próximo entroncamento."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2987",
+    "text": "Ao circular neste local, devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2987",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2987.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A sinalização da passagem de nível não me proíbe de inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "É sempre proibido inverter o sentido de marcha numa passagem de nível."
+      },
+      {
+        "option": "C",
+        "text": "Posso inverter o sentido de marcha desde que não transponha a linha branca no eixo da via."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2988",
+    "text": "Ao circular neste local, devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2988",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2988.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estou proibido de inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Posso efectuar a manobra de inversão do sentido de marcha devendo aproximar-me do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Posso efectuar a manobra de inversão do sentido de marcha porque a sinalização não me proíbe."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2989",
+    "text": "Ao circular num túnel devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2989",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2989.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É proibida a manobra de marcha atrás, ainda que pela berma."
+      },
+      {
+        "option": "B",
+        "text": "Só posso efectuar a manobra de marcha atrás se a visibilidade for suficiente ou se a via, pela sua largura ou outras características, for apropriada à realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sou obrigado a ligar os médios ou as luzes de estrada se não tiver uma visibilidade mínima de 100 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2990",
+    "text": "Ao circular num túnel, devo saber que a manobra de inversão do sentido de marcha:",
+    "href": "https://www.bomcondutor.pt/questao/2990",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2990.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas é permitida se a visibilidade for boa e a via de trânsito tiver largura suficiente e for apropriada à realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "É proibida, sendo sancionada com coima e inibição de conduzir pelo período máximo de um mês."
+      },
+      {
+        "option": "C",
+        "text": "É proibida, sendo sancionada com coima e inibição de conduzir."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2991",
+    "text": "Ao circular numa auto-estrada devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2991",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2991.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A manobra de marcha atrás só é permitida como manobra auxiliar ou de recurso e deve efectuar-se lentamente e no menor trajecto possível."
+      },
+      {
+        "option": "B",
+        "text": "A manobra de marcha atrás só é permitida se na faixa de rodagem existirem duas ou mais filas de trânsito no mesmo sentido."
+      },
+      {
+        "option": "C",
+        "text": "É proibido fazer marcha atrás ainda que fora da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2992",
+    "text": "Ao circular numa ponte posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/2992",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2992.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra é permitida."
+      },
+      {
+        "option": "C",
+        "text": "Sim, excepto em pontes como a da imagem em que, pela sua largura, é inapropriada à realização da manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2993",
+    "text": "Ao efectuar o atravessamento de uma passagem de nível, devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/2993",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2993.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas posso inverter o sentido de marcha depois de me certificar que a intensidade do trânsito não me obriga a imobilizar o veículo sobre a passagem de nível."
+      },
+      {
+        "option": "B",
+        "text": "Não posso inverter o sentido de marcha, salvo no caso de uma passagem de nível com guarda."
+      },
+      {
+        "option": "C",
+        "text": "Não posso inverter o sentido de marcha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2994",
+    "text": "Ao fazer marcha atrás, nesta via, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2994",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2994.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Exceder a distância de 50 metros."
+      },
+      {
+        "option": "B",
+        "text": "Realizar a manobra lentamente e no menor trajecto possível."
+      },
+      {
+        "option": "C",
+        "text": "Realizar a manobra num espaço inferior a 10 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2995",
+    "text": "Ao mudar de direcção o veículo que me precede, deve:",
+    "href": "https://www.bomcondutor.pt/questao/2995",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2995.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem se existirem peões a atravessar a faixa de rodagem em que vai entrar."
+      },
+      {
+        "option": "B",
+        "text": "Ligar as luzes de perigo, devido às dimensões do veículo."
+      },
+      {
+        "option": "C",
+        "text": "Parar, antes de terminar a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2996",
+    "text": "Ao pretender mudar de direcção à esquerda, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2996",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2996.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Aproximar sempre o veículo do lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Manter o veículo o mais à direita possível."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2997",
+    "text": "Ao transitar nesta via de trânsito posso mudar de direcção à direita?",
+    "href": "https://www.bomcondutor.pt/questao/2997",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2997.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que mude imediatamente de via de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que sinalize a minha intenção."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2998",
+    "text": "Ao transitar nesta via de trânsito, sou obrigado:",
+    "href": "https://www.bomcondutor.pt/questao/2998",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2998.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A mudar de direcção."
+      },
+      {
+        "option": "B",
+        "text": "A parar antes de mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "A seguir em frente ou a mudar de direcção à direita."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2999",
+    "text": "Após o sinal vertical, não é possível inverter o sentido de marcha.",
+    "href": "https://www.bomcondutor.pt/questao/2999",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2999.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3000",
+    "text": "Após o sinal, a inversão de sentido de marcha é proibida?",
+    "href": "https://www.bomcondutor.pt/questao/3000",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3000.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3001",
+    "text": "Circulo fora de uma localidade. A manobra de inversão do sentido de marcha neste local:",
+    "href": "https://www.bomcondutor.pt/questao/3001",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3001.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É permitida porque me encontro antes da curva."
+      },
+      {
+        "option": "B",
+        "text": "É proibida e constitui contra-ordenação leve sancionada com coima."
+      },
+      {
+        "option": "C",
+        "text": "É proibida podendo ficar inibido de conduzir."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3002",
+    "text": "Circulo fora de uma localidade. Posso inverter o sentido de marcha no local onde me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3002",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3002.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização da via de trânsito não proíbe a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas no troço da via onde terminam as duas linhas contínuas adjacentes."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3003",
+    "text": "Circulo junto ao eixo da faixa de rodagem. Comporto-me correctamente, porque pretendo:",
+    "href": "https://www.bomcondutor.pt/questao/3003",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3003.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção para a direita."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção para a esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3004",
+    "text": "Circulo numa ponte. Posso fazer marcha atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3004",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3004.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque é proibido fazer marcha atrás em pontes."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que haja pouca intensidade de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque é permitido realizar esta manobra em pontes."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3005",
+    "text": "Circulo numa ponte. Posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3005",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3005.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, neste local a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que sinalize correctamente a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas só após o condutor do outro veículo concluir a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3006",
+    "text": "Circulo numa via de trânsito em filas paralelas. Posso mudar para a via de trânsito da esquerda para:",
+    "href": "https://www.bomcondutor.pt/questao/3006",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3006.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3007",
+    "text": "Circulo numa via equiparada a auto-estrada. Posso efectuar a manobra de marcha de atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3007",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3007.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é sempre proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, antes da lomba e no menor trajecto possível porque não circulo numa auto-estrada."
+      },
+      {
+        "option": "C",
+        "text": "Sim, junto à berma e porque existem três vias de trânsito no mesmo sentido."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3008",
+    "text": "Como devo proceder para mudar de direcção à direita no próximo entroncamento?",
+    "href": "https://www.bomcondutor.pt/questao/3008",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3008.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar-me do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Aproximar-me do limite direito da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3009",
+    "text": "Como devo proceder para mudar de direcção à esquerda na próxima intersecção?",
+    "href": "https://www.bomcondutor.pt/questao/3009",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3009.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Efectuar a manobra no trajecto mais curto."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3010",
+    "text": "Considera estar correctamente posicionado para mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3010",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3010.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, devido à intensidade de trânsito, deveria estar já na via mais à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque não necessito de passar para a via mais à esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3011",
+    "text": "Considerando que circulo fora de uma localidade, posso ocupar a via imediatamente à minha esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3011",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3011.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sim, para mudar de direcção ou ultrapassar."
+      },
+      {
+        "option": "B",
+        "text": "Sim, sempre."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3012",
+    "text": "Dentro do túnel não posso:",
+    "href": "https://www.bomcondutor.pt/questao/3012",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3012.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Ultrapassar e inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3013",
+    "text": "Depois de passar o sinal, posso fazer inversão do sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3013",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3013.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não"
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3014",
+    "text": "Devo efectuar a marcha atrás:",
+    "href": "https://www.bomcondutor.pt/questao/3014",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3014.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Lentamente e no menor trajecto possível."
+      },
+      {
+        "option": "B",
+        "text": "O mais rapidamente possível."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3015",
+    "text": "Devo iniciar a manobra de ultrapassagem imediatamente?",
+    "href": "https://www.bomcondutor.pt/questao/3015",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3015.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, não me é permitido."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque neste local é proibida a execução de qualquer manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque não existe trânsito em sentido oposto."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3016",
+    "text": "É permitida a realização da manobra de inversão do sentido de marcha neste local. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/3016",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3016.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a via é apropriada à realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque não se verifica grande intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3017",
+    "text": "É permitida manobra de marcha atrás numa passagem de nível?",
+    "href": "https://www.bomcondutor.pt/questao/3017",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3017.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Não, excepto perante as instruções dos agentes ferroviários."
+      },
+      {
+        "option": "C",
+        "text": "Sim, no caso da passagem de nível não dispor de protecção ou sinalização pode-se realizar a manobra de marcha atrás."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3018",
+    "text": "É-me permitido realizar a manobra de marcha atrás, neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3018",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3018.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sim, porque não circulam veículos em sentido contrário."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque o local não é de visibilidade reduzida."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se percorrer só dois metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3019",
+    "text": "Em algumas circunstâncias, a manobra de inversão do sentido de marcha pode ser efectuada numa passagem de nível. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/3019",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3019.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é sempre proibida nas passagens de nível."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que a via, pela sua largura ou outras características, seja apropriada à realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que a visibilidade seja suficiente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3020",
+    "text": "Em determinados locais e situações, não sendo possível inverter o sentido de marcha posso recorrer à manobra de marcha atrás.",
+    "href": "https://www.bomcondutor.pt/questao/3020",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3020.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado, porque em todos os locais que é proibido inverter o sentido de marcha é também proibido fazer marcha atrás."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3021",
+    "text": "Em lombas de boa visibilidade é permitido realizar a manobra de inversão do sentido de marcha.",
+    "href": "https://www.bomcondutor.pt/questao/3021",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3021.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3022",
+    "text": "Encontro-me a 5 metros da passagem de nível. Posso estacionar?",
+    "href": "https://www.bomcondutor.pt/questao/3022",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3022.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3023",
+    "text": "Encontro-me a menos de 5 metros deste entroncamento. Posso parar neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3023",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3023.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Sim, dado não existir sinalização que proíba a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que sinalize a manobra correcta e antecipadamente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3024",
+    "text": "Encontro-me correctamente posicionado na via para:",
+    "href": "https://www.bomcondutor.pt/questao/3024",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3024.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção para a direita."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção para a esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3025",
+    "text": "Encontro-me correctamente posicionado na via?",
+    "href": "https://www.bomcondutor.pt/questao/3025",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3025.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sim, caso pretenda mudar de direcção à direita."
+      },
+      {
+        "option": "B",
+        "text": "Sim, caso pretenda mudar de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a via é larga e não há trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3026",
+    "text": "Encontro-me correctamente posicionado para mudar de direcção para a esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3026",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3026.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque estou proibido de mudar de direcção para a esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Sim, é esta a via de trânsito que devo utilizar para realizar a manobra."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3027",
+    "text": "Este condutor está a praticar uma infracção?",
+    "href": "https://www.bomcondutor.pt/questao/3027",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3027.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque está a inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque está a recorrer à marcha atrás."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3028",
+    "text": "Este condutor pretende inverter o sentido de marcha no local onde se encontra. Procede correctamente?",
+    "href": "https://www.bomcondutor.pt/questao/3028",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3028.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque o local não é adequado à execução desta manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a visibilidade do local não é insuficiente para a execução da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque não há muita intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3029",
+    "text": "Este condutor que inverte o sentido de marcha deve:",
+    "href": "https://www.bomcondutor.pt/questao/3029",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3029.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Desistir da manobra. No local em que se encontra está a cometer uma infracção."
+      },
+      {
+        "option": "B",
+        "text": "Executar a manobra rapidamente, continuando a recorrer à marcha atrás de maneira a não entrar na rotunda."
+      },
+      {
+        "option": "C",
+        "text": "Iniciar de imediato a manobra, sem recorrer à marcha atrás."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3030",
+    "text": "Estou correctamente colocado, para:",
+    "href": "https://www.bomcondutor.pt/questao/3030",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3030.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer marcha atrás neste local."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha neste local."
+      },
+      {
+        "option": "C",
+        "text": "Mudar de direcção neste local."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3031",
+    "text": "Estou proibido de efectuar a manobra de marcha atrás neste local porque:",
+    "href": "https://www.bomcondutor.pt/questao/3031",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3031.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A berma não tem largura suficiente para, com segurança, efectuar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "A faixa de rodagem tem apenas uma via de trânsito afecta a cada sentido."
+      },
+      {
+        "option": "C",
+        "text": "É proibido efectuar a manobra numa lomba"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3032",
+    "text": "Estou proibido de inverter o sentido de marcha neste local porque a faixa de rodagem tem apenas uma via de trânsito afecta a cada sentido e circulam veículos em sentido contrário.",
+    "href": "https://www.bomcondutor.pt/questao/3032",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3032.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação está correcta."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação está incorrecta."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3033",
+    "text": "Estou proibido de mudar de direcção para a direita:",
+    "href": "https://www.bomcondutor.pt/questao/3033",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3033.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Em dois entroncamentos sucessivos."
+      },
+      {
+        "option": "B",
+        "text": "No próximo entroncamento."
+      },
+      {
+        "option": "C",
+        "text": "Nos sucessivos entroncamentos, até encontrar o sinal de fim de proibição."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3034",
+    "text": "Fora das localidades é proibido estacionar nas faixas de rodagem.",
+    "href": "https://www.bomcondutor.pt/questao/3034",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3034.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3035",
+    "text": "Fora de uma localidade o estacionamento é proibido dentro da faixa de rodagem.",
+    "href": "https://www.bomcondutor.pt/questao/3035",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3035.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3036",
+    "text": "Imediatamente após o sinal, posso mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3036",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3036.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3037",
+    "text": "Iniciei a mudança para a fila de trânsito da direita. Em que direcções posso seguir?",
+    "href": "https://www.bomcondutor.pt/questao/3037",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3037.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas em frente"
+      },
+      {
+        "option": "B",
+        "text": "Apenas para a direita."
+      },
+      {
+        "option": "C",
+        "text": "Para a direita e em frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3038",
+    "text": "Na auto-estrada em que circulo é proibido:",
+    "href": "https://www.bomcondutor.pt/questao/3038",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3038.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular a menos de 60 Km/h"
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha"
+      },
+      {
+        "option": "C",
+        "text": "Transitar com os máximos ligados."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3039",
+    "text": "Na mudança de direcção para a esquerda tenho que:",
+    "href": "https://www.bomcondutor.pt/questao/3039",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3039.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar-me o mais possível da direita, mantendo uma distância que permita evitar acidentes em relação aos veículos que circulam em sentido contrário e efectuar a manobra no trajecto mais longo."
+      },
+      {
+        "option": "B",
+        "text": "Aproximar-me, com a necessária antecedência e o mais possível, do eixo da faixa de rodagem e efectuar a manobra tomando as precauções necessárias para evitar acidentes."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3040",
+    "text": "Na ponte onde circulo, posso fazer marcha atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3040",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3040.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, excepto como manobra de recurso."
+      },
+      {
+        "option": "B",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que sinalize correctamente a manobra."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3041",
+    "text": "Na próxima intersecção pretendo mudar de direcção à direita, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3041",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3041.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Continuar nesta via de trânsito, porque quando há grande intensidade de trânsito a mudança de direcção não é permitida."
+      },
+      {
+        "option": "B",
+        "text": "Ocupar com a devida antecedência a via de trânsito mais à direita."
+      },
+      {
+        "option": "C",
+        "text": "Ocupar qualquer uma das vias de trânsito porque o trânsito circula com velocidade muito reduzida."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3042",
+    "text": "Na próxima intersecção vou mudar de direcção à direita. Ao executar a manobra devo fazê-lo:",
+    "href": "https://www.bomcondutor.pt/questao/3042",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3042.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ocupando o eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Sinalizando e mudando, em segurança, para a via de trânsito mais à direita."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3043",
+    "text": "Na rotunda onde estou a entrar não posso:",
+    "href": "https://www.bomcondutor.pt/questao/3043",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3043.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular em sentido giratório para inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Circular pela via da esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Fazer marcha-atrás."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3044",
+    "text": "Não devo iniciar a manobra de mudança de direcção à esquerda, sem antes:",
+    "href": "https://www.bomcondutor.pt/questao/3044",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3044.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avisar os outros condutores com o sinal sonoro."
+      },
+      {
+        "option": "B",
+        "text": "Me certificar que a manobra não constitui perigo para o restante trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3045",
+    "text": "Não é permitido realizar qualquer manobra de que resulte embaraço para o trânsito.",
+    "href": "https://www.bomcondutor.pt/questao/3045",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3045.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3046",
+    "text": "Nesta situação de nevoeiro posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3046",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3046.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a visibilidade é insuficiente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque há pouca intensidade de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se fizer a manobra muito rapidamente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3047",
+    "text": "Nesta situação devo:",
+    "href": "https://www.bomcondutor.pt/questao/3047",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3047.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar, logo que possível."
+      },
+      {
+        "option": "B",
+        "text": "Buzinar, para advertir o condutor da frente que a luz se encontra verde."
+      },
+      {
+        "option": "C",
+        "text": "Seguir em frente, visto não poder mudar de direcção para a esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3048",
+    "text": "Nesta situação o que devo fazer?",
+    "href": "https://www.bomcondutor.pt/questao/3048",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3048.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Parar obrigatoriamente."
+      },
+      {
+        "option": "B",
+        "text": "Transitar com precaução."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar o veículo que circula à minha frente, utilizando o eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3049",
+    "text": "Nesta situação posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3049",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3049.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso."
+      },
+      {
+        "option": "B",
+        "text": "Sim, posso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3050",
+    "text": "Nesta situação posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3050",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3050.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3051",
+    "text": "Nesta situação posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3051",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3051.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso."
+      },
+      {
+        "option": "B",
+        "text": "Posso, se acender os ' máximos'."
+      },
+      {
+        "option": "C",
+        "text": "Posso, se buzinar ao mesmo tempo."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3052",
+    "text": "Nesta situação posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3052",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3052.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3053",
+    "text": "Nesta situação, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3053",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3053.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de via de trânsito porque pretendo mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3054",
+    "text": "Nesta situação, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3054",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3054.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção à esquerda ou à direita."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Seguir a indicação da seta de selecção."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3055",
+    "text": "Nesta situação, não posso inverter o sentido de marcha porque:",
+    "href": "https://www.bomcondutor.pt/questao/3055",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3055.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A sinalização proíbe a realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "A visibilidade é reduzida."
+      },
+      {
+        "option": "C",
+        "text": "Circulo fora de uma localidade."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3056",
+    "text": "Nesta situação, o que me impede de realizar a manobra de inversão do sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3056",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3056.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A entrada numa localidade."
+      },
+      {
+        "option": "B",
+        "text": "A largura da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "A marca rodoviária."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3057",
+    "text": "Nesta situação, para mudar de direcção à esquerda é necessário:",
+    "href": "https://www.bomcondutor.pt/questao/3057",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3057.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas sinalizar."
+      },
+      {
+        "option": "B",
+        "text": "Com antecedência sinalizar e aproximar o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Parar antes de iniciar a execução da manobra."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3058",
+    "text": "Nesta situação, para mudar de direcção para a esquerda devo:",
+    "href": "https://www.bomcondutor.pt/questao/3058",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3058.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar com velocidade moderada, tomando as devidas precauções."
+      },
+      {
+        "option": "B",
+        "text": "Avançar em simultâneo com o outro condutor."
+      },
+      {
+        "option": "C",
+        "text": "Ceder a passagem ao outro condutor."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3059",
+    "text": "Nesta situação, posso fazer marcha-atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3059",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3059.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a visibilidade é reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a via tem largura suficiente para o efeito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque o pavimento é regular."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3060",
+    "text": "Nesta situação, posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3060",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3060.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso."
+      },
+      {
+        "option": "B",
+        "text": "Posso, se a manobra for feita lentamente."
+      },
+      {
+        "option": "C",
+        "text": "Posso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3061",
+    "text": "Nesta situação, posso realizar a inversão do sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3061",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3061.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que me aproxime do limite esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que o faça o mais rapidamente possível."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3062",
+    "text": "Nesta situação, posso realizar a manobra de marcha-atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3062",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3062.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a visibilidade é insuficiente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que não pise ou transponha a linha contínua à minha direita."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque estou próximo de uma curva."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3063",
+    "text": "Nesta situação, posso ultrapassar o veículo que circula à minha frente?",
+    "href": "https://www.bomcondutor.pt/questao/3063",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3063.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que o faça antes da passagem estreita."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque o sinal de proibição apenas limita a velocidade."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3064",
+    "text": "Nesta via de um só sentido, se aproximar o veículo do lado esquerdo da faixa de rodagem:",
+    "href": "https://www.bomcondutor.pt/questao/3064",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3064.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo mudar de direcção à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Estarei a praticar uma infracção."
+      },
+      {
+        "option": "C",
+        "text": "Posso mudar de direcção à esquerda, mas também à direita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3065",
+    "text": "Nesta via posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3065",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3065.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a sinalização existente no local obriga-me a seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que acelere e a execute o mais rapidamente possível."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que assinale a manobra."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3066",
+    "text": "Neste cruzamento posso mudar de direcção para a esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3066",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3066.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque as marcas rodoviárias obrigam-me a seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que sinalize adequadamente a manobra."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3067",
+    "text": "Neste local a manobra de marcha atrás:",
+    "href": "https://www.bomcondutor.pt/questao/3067",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3067.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Deve ser efectuada junto ao eixo da via."
+      },
+      {
+        "option": "B",
+        "text": "Deve ser efectuada rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "É proibida."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3068",
+    "text": "Neste local a sinalização luminosa prevalece sobre a sinalização vertical?",
+    "href": "https://www.bomcondutor.pt/questao/3068",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3068.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3069",
+    "text": "Neste local com má visibilidade, e tendo em conta a sinalização vertical, posso realizar a manobra de inversão do sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3069",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3069.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a realização da manobra não é permitida no local."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que ligue os quatro piscas para ser visto pelos outros utentes."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a via tem largura suficiente para a realização da manobra de uma só vez."
+      },
+      {
+        "option": "D",
+        "text": "Sim, porque me aproximo de uma rotunda onde o trânsito se faz em sentido giratório."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3070",
+    "text": "Neste local devo:",
+    "href": "https://www.bomcondutor.pt/questao/3070",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3070.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer marcha atrás."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3071",
+    "text": "Neste local é permitido inverter o sentido de marcha e em caso afirmativo, como devo proceder?",
+    "href": "https://www.bomcondutor.pt/questao/3071",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3071.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não. Devo prosseguir a marcha e desistir da manobra porque estou próximo de uma curva."
+      },
+      {
+        "option": "B",
+        "text": "Sim, é permitido e devo aproximar-me com a necessária antecedência e tanto quanto possível, do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, é permitido e devo aproximar-me com a necessária antecedência e tanto quanto possível, do limite esquerdo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3072",
+    "text": "Neste local em que a visibilidade é insuficiente, não é permitido:",
+    "href": "https://www.bomcondutor.pt/questao/3072",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3072.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Transitar o mais à direita da minha via de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3073",
+    "text": "Neste local estou proibido de:",
+    "href": "https://www.bomcondutor.pt/questao/3073",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3073.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Buzinar."
+      },
+      {
+        "option": "B",
+        "text": "Circular a 40 Km/h."
+      },
+      {
+        "option": "C",
+        "text": "Fazer marcha atrás."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3074",
+    "text": "Neste local não posso:",
+    "href": "https://www.bomcondutor.pt/questao/3074",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3074.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Virar à esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3075",
+    "text": "Neste local posso executar a manobra de marcha atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3075",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3075.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a visibilidade do local não é suficiente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que a execute rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que utilize o eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3076",
+    "text": "Neste local posso fazer marcha-atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3076",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3076.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que sinalize a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas só como manobra de recurso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3077",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3077",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3077.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3078",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3078",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3078.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3079",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3079",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3079.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, devo procurar um local de melhor visibilidade."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque existe um veículo a sair de um caminho particular."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3080",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3080",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3080.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca posso."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas só quando não houver intensidade de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, posso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3081",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3081",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3081.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque vou pisar a linha descontínua."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que acelere para realizar a manobra o mais rapidamente possível."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que assinale a manobra."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3082",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3082",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3082.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque existe uma guia."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas rapidamente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3083",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3083",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3083.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a faixa de rodagem apenas tem um sentido de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque sou obrigado a mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque existem duas vias de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3084",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3084",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3084.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a visibilidade é manifestamente reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, rapidamente e sem causar embaraço aos restantes utentes."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3085",
+    "text": "Neste local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3085",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3085.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, é proibido."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque existe apenas uma via de trânsito no sentido em que circulo."
+      },
+      {
+        "option": "C",
+        "text": "Não, porque o tipo de pavimento não permite a realização da manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3086",
+    "text": "Neste local posso ocupar a via de trânsito da esquerda se pretender:",
+    "href": "https://www.bomcondutor.pt/questao/3086",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3086.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Mudar de direcção."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3087",
+    "text": "Neste local posso realizar a manobra de marcha-atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3087",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3087.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é sempre proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, como manobra auxiliar e no menor trajecto possível."
+      },
+      {
+        "option": "C",
+        "text": "Sim, como manobra auxiliar e o mais rapidamente possível."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3088",
+    "text": "Neste local posso:",
+    "href": "https://www.bomcondutor.pt/questao/3088",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3088.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção ou inverter o sentido de marcha."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3089",
+    "text": "Neste local posso:",
+    "href": "https://www.bomcondutor.pt/questao/3089",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3089.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar do lado esquerdo da via."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido da marcha."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3090",
+    "text": "Neste local pretendo mudar de direcção à esquerda. O que devo fazer?",
+    "href": "https://www.bomcondutor.pt/questao/3090",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3090.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Colocar o veículo em sentido contrário."
+      },
+      {
+        "option": "B",
+        "text": "Manter o veículo nesta via de trânsito, porque há apenas um sentido."
+      },
+      {
+        "option": "C",
+        "text": "Passar para a via de trânsito da esquerda."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3091",
+    "text": "Neste local, a sinalização existente não me permite inverter o sentido de marcha.",
+    "href": "https://www.bomcondutor.pt/questao/3091",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3091.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3092",
+    "text": "Neste local, ao pretender mudar de direcção à direita, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3092",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3092.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar com antecedência o veículo do limite direito da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Aproximar o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Aproximar o veículo do lado esquerdo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3093",
+    "text": "Neste local, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3093",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3093.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3094",
+    "text": "Neste local, posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3094",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3094.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a marca rodoviária pode ser transposta."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque vou entrar num túnel."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3095",
+    "text": "Neste local:",
+    "href": "https://www.bomcondutor.pt/questao/3095",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3095.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo transitar com precaução."
+      },
+      {
+        "option": "B",
+        "text": "Existem duas vias de trânsito em cada sentido."
+      },
+      {
+        "option": "C",
+        "text": "Sou obrigado a mudar de direcção."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3096",
+    "text": "Neste preciso local posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3096",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3096.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque existe sinalização que me proíbe de realizar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque circulo de dia."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se o fizer a velocidade especialmente reduzida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3097",
+    "text": "No entroncamento pretendo mudar de direcção para a esquerda. Devo sinalizar a manobra com a devida antecedência e:",
+    "href": "https://www.bomcondutor.pt/questao/3097",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3097.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar e encostar-me o mais à direita possível."
+      },
+      {
+        "option": "B",
+        "text": "Avançar o mais rapidamente possível."
+      },
+      {
+        "option": "C",
+        "text": "Colocar-me na via a esse fim destinada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3098",
+    "text": "No exacto local onde me encontro posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3098",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3098.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a visibilidade do local é suficiente."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3099",
+    "text": "No local em que circulo posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3099",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3099.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a marca rodoviária existente no eixo da faixa de rodagem me impede a execução da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque a visibilidade do local não é suficiente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, posso."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3100",
+    "text": "No local em que me encontro a paragem e o estacionamento só são permitidos na berma direita da faixa de rodagem.",
+    "href": "https://www.bomcondutor.pt/questao/3100",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3100.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3101",
+    "text": "No local em que me encontro em que a visibilidade é reduzida, posso realizar a manobra de inversão do sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3101",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3101.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a visibilidade é insuficiente."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque nas curvas a manobra é sempre proibida."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a via tem dois sentidos e largura suficiente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3102",
+    "text": "No local em que me encontro estou proibido de efectuar a manobra de ultrapassagem?",
+    "href": "https://www.bomcondutor.pt/questao/3102",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3102.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, uma vez que não existe sinalização a proibir a realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3103",
+    "text": "No local em que me encontro não é permitido:",
+    "href": "https://www.bomcondutor.pt/questao/3103",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3103.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção na próxima intersecção."
+      },
+      {
+        "option": "C",
+        "text": "Seguir em frente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3104",
+    "text": "No local em que me encontro o estacionamento:",
+    "href": "https://www.bomcondutor.pt/questao/3104",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3104.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É permitido."
+      },
+      {
+        "option": "B",
+        "text": "É proibido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3105",
+    "text": "No local em que me encontro posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3105",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3105.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, pois existe uma marca rodoviária longitudinal no pavimento."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque a via de trânsito descreve uma curva."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que sinalize adequadamente a manobra."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3106",
+    "text": "No local em que me encontro posso realizar a manobra de inversão do sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3106",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3106.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que não cause perigo ou embaraço para o trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3107",
+    "text": "No local em que me encontro, como devo proceder para mudar de direcção à esquerda no próximo entroncamento?",
+    "href": "https://www.bomcondutor.pt/questao/3107",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3107.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer o respectivo sinal e aproximar-me do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Fazer o respectivo sinal gestual e ligar as luzes de perigo."
+      },
+      {
+        "option": "C",
+        "text": "Passar de imediato para a via da esquerda realizando a manobra o mais rápido possível."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3108",
+    "text": "No local em que me encontro, posso realizar a manobra que me permite colocar o veículo a circular em sentido oposto àquele em que sigo?",
+    "href": "https://www.bomcondutor.pt/questao/3108",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3108.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a manobra de marcha-atrás é proibida nos cruzamentos."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque as condições de visibilidade são reduzidas."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se não se aproximar nenhum veículo em sentido contrário."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3109",
+    "text": "No local em que me encontro:",
+    "href": "https://www.bomcondutor.pt/questao/3109",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3109.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo circular à velocidade mínima de 50 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "Devo circular com velocidade especialmente moderada."
+      },
+      {
+        "option": "C",
+        "text": "Posso inverter o sentido da marcha."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3110",
+    "text": "No local exacto onde me encontro não é permitido:",
+    "href": "https://www.bomcondutor.pt/questao/3110",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3110.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Moderar a velocidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3111",
+    "text": "No local exacto onde me encontro, posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3111",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3111.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque não posso transpor a linha mista."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que sinalize correctamente a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a linha mista pode ser transposta."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3112",
+    "text": "No local exacto onde me encontro, posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3112",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3112.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3113",
+    "text": "No local onde me encontro posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3113",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3113.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que o faça rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se sinalizar correctamente a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3114",
+    "text": "No local onde me encontro:",
+    "href": "https://www.bomcondutor.pt/questao/3114",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3114.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Posso inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Posso parar ou estacionar do lado direito da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3115",
+    "text": "No próximo entroncamento posso mudar de direcção para a esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3115",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3115.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a sinalização existente proíbe a realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque vou entrar numa via com sentido único."
+      },
+      {
+        "option": "C",
+        "text": "Sim, pois sou obrigado pela sinalização."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3116",
+    "text": "No próximo entroncamento pretendo mudar de direcção à esquerda. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3116",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3116.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem a todos os veículos que transitem na via em que vou entrar."
+      },
+      {
+        "option": "B",
+        "text": "Ceder a passagem aos veículos da direita e avançar antes dos vindos da esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Ceder a passagem, somente a todos os veículos com motor."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3117",
+    "text": "No próximo entroncamento:",
+    "href": "https://www.bomcondutor.pt/questao/3117",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3117.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso mudar de direcção para a esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Posso mudar de direcção para a esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3118",
+    "text": "Nos túneis é permitida a realização da manobra de marcha-atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3118",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3118.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Sim, se a visibilidade não for reduzida ou insuficiente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se tiverem boas condições de iluminação."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3119",
+    "text": "Nos túneis é permitido:",
+    "href": "https://www.bomcondutor.pt/questao/3119",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3119.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Ultrapassar e inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3120",
+    "text": "Nos túneis é proibido inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3120",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3120.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sim, em todos os túneis."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas se o túnel for de um só sentido."
+      },
+      {
+        "option": "C",
+        "text": "Sim, unicamente quando a visibilidade for reduzida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3121",
+    "text": "Numa passagem de nível é permitido inverter o sentido de marcha.",
+    "href": "https://www.bomcondutor.pt/questao/3121",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3121.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3122",
+    "text": "O condutor de um veículo que transite em missão de prestação de socorro:",
+    "href": "https://www.bomcondutor.pt/questao/3122",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3122.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Deve ceder a passagem aos veículos que saiam de uma passagem de nível."
+      },
+      {
+        "option": "B",
+        "text": "Tem prioridade de passagem em relação aos veículos que saiam de uma passagem de nível."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3123",
+    "text": "O condutor do veículo branco pode inverter o sentido de marcha neste momento?",
+    "href": "https://www.bomcondutor.pt/questao/3123",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3123.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3124",
+    "text": "O condutor do veículo que circula à minha frente deve:",
+    "href": "https://www.bomcondutor.pt/questao/3124",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3124.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar com a devida antecedência o veículo ao lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Aproximar com a devida antecedência o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Mudar para a via de trânsito da esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3125",
+    "text": "O condutor do veículo que circula imediatamente à minha frente sinaliza a intenção de:",
+    "href": "https://www.bomcondutor.pt/questao/3125",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3125.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de via de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar ou inverter o sentido de trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3126",
+    "text": "O condutor pretende seguir pela primeira saída da rotunda, deve:",
+    "href": "https://www.bomcondutor.pt/questao/3126",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3126.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Contornar a rotunda pela esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Encostar o veículo à placa central."
+      },
+      {
+        "option": "C",
+        "text": "Transitar o mais à direita possível."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3127",
+    "text": "O condutor que circula à minha frente deve:",
+    "href": "https://www.bomcondutor.pt/questao/3127",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3127.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar, com antecedência, o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Com antecedência, aproximar o veículo ao lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Parar antes de iniciar a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3128",
+    "text": "O condutor que circula à minha frente e está a indicar a mudança de direcção para a esquerda procede correctamente?",
+    "href": "https://www.bomcondutor.pt/questao/3128",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3128.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não"
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque para mudar de direcção para a esquerda pode transpor qualquer marca no pavimento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3129",
+    "text": "O condutor que circula à minha frente procede correctamente para mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3129",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3129.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a mudança de direcção é proibida nas curvas."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque se aproxima com a necessária antecedência do eixo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque se aproxima com a necessária antecedência do limite esquerdo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3130",
+    "text": "O condutor que circula à minha frente, pode transpor a marca rodoviária?",
+    "href": "https://www.bomcondutor.pt/questao/3130",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3130.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, apenas o pode fazer se a sua intenção for inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se o fizer rapidamente, sem provocar embaraço no trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3131",
+    "text": "O condutor que circula à minha frente, pretende mudar de direcção à direita. Procede correctamente:",
+    "href": "https://www.bomcondutor.pt/questao/3131",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3131.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Se aproximar o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Se aproximar o veículo do lado direito da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Se aproximar o veículo do limite esquerdo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3132",
+    "text": "O condutor que se encontra à minha frente, está a cometer uma infracção?",
+    "href": "https://www.bomcondutor.pt/questao/3132",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3132.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não. O condutor tem o veículo imobilizado."
+      },
+      {
+        "option": "B",
+        "text": "Sim, está a cometer uma infracção, mesmo não pretendendo executar qualquer outra manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas se iniciar qualquer manobra."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3133",
+    "text": "O condutor que se encontra à minha frente:",
+    "href": "https://www.bomcondutor.pt/questao/3133",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3133.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Comete uma infracção, apenas porque está a transpor a marca rodoviária."
+      },
+      {
+        "option": "B",
+        "text": "Não está a proceder correctamente."
+      },
+      {
+        "option": "C",
+        "text": "Procede correctamente, porque não há muita intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3134",
+    "text": "O que devo fazer nesta situação?",
+    "href": "https://www.bomcondutor.pt/questao/3134",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3134.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder passagem ao veículo contrário e contornar o veículo indevidamente estacionado."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros e contornar rapidamente o veículo imobilizado, utilizando as luzes de perigo."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3135",
+    "text": "O que devo fazer nesta situação?",
+    "href": "https://www.bomcondutor.pt/questao/3135",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3135.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar um pouco a velocidade de modo a não permitir que o outro condutor termine a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Estar especialmente atento ao comportamento do condutor que acaba de cometer uma infracção."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros, não permitindo que o outro condutor termine a manobra."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3136",
+    "text": "O que devo fazer nesta situação?",
+    "href": "https://www.bomcondutor.pt/questao/3136",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3136.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Contornar o veículo que está a inverter o sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Permitir que o outro condutor termine a manobra."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3137",
+    "text": "O que estou proibido de fazer no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3137",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3137.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer uso dos sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha do veículo."
+      },
+      {
+        "option": "C",
+        "text": "Parar na berma direita da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3138",
+    "text": "O sinal de obrigação impede-me de mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3138",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3138.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, pois a manobra é possível devendo contornar a placa existente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, pois só me é possível mudar de direcção à direita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3139",
+    "text": "O sinal gráfico vertical proíbe a manobra de inversão do sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3139",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3139.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque o sinal se destina a proibir a paragem e o estacionamento."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque proíbe a paragem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque proíbe o estacionamento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3140",
+    "text": "O sinal vertical proíbe a realização da manobra de inversão do sentido de marcha.",
+    "href": "https://www.bomcondutor.pt/questao/3140",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3140.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3141",
+    "text": "O único factor que pode impedir a realização da manobra de inversão do sentido de marcha é a intensidade do trânsito.",
+    "href": "https://www.bomcondutor.pt/questao/3141",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3141.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3142",
+    "text": "O veículo que circula à minha frente está a iniciar a manobra de ultrapassagem. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3142",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3142.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Iniciar a mesma manobra em simultâneo."
+      },
+      {
+        "option": "B",
+        "text": "Manter o meu veículo na mesma via de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3143",
+    "text": "O veículo que circula à minha frente vai:",
+    "href": "https://www.bomcondutor.pt/questao/3143",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3143.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter a marcha."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3144",
+    "text": "O veículo verde está imobilizado correctamente?",
+    "href": "https://www.bomcondutor.pt/questao/3144",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3144.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque não tem ligadas as luzes de presença."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque ocupa parte da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque o local tem muita visibilidade."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3145",
+    "text": "Os condutores são obrigados a ceder a passagem aos veículos que saiam de uma passagem de nível.",
+    "href": "https://www.bomcondutor.pt/questao/3145",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3145.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3146",
+    "text": "Os indicadores de mudança de direcção estão avariados. Pretendo mudar de direcção à esquerda. Devo assinalar a manobra:",
+    "href": "https://www.bomcondutor.pt/questao/3146",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3146.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Com a buzina."
+      },
+      {
+        "option": "B",
+        "text": "Com o braço."
+      },
+      {
+        "option": "C",
+        "text": "Com os médios."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3147",
+    "text": "Para contornar o veículo imobilizado, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3147",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3147.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ligar as luzes de estrada e ceder a passagem a quem circula em sentido contrário."
+      },
+      {
+        "option": "B",
+        "text": "Sinalizar a minha intenção e ceder a passagem a quem circula em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros e as luzes de perigo."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3148",
+    "text": "Para mudar de direcção à esquerda devo:",
+    "href": "https://www.bomcondutor.pt/questao/3148",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3148.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Realizar a manobra antes da zona onde se encontra o sinal."
+      },
+      {
+        "option": "B",
+        "text": "Sinalizar a manobra e respeitar a sinalização."
+      },
+      {
+        "option": "C",
+        "text": "Sinalizar a manobra e seguir pelo caminho mais curto."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3149",
+    "text": "Para mudar de direcção à esquerda estou bem colocado?",
+    "href": "https://www.bomcondutor.pt/questao/3149",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3149.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, já deveria estar colocado na via de trânsito da esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Sim, pois só junto ao entroncamento devo colocar-me à esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3150",
+    "text": "Para mudar de direcção à esquerda, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3150",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3150.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Manter-me nesta via."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de via de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Ocupar qualquer das vias de trânsito, porque apenas existe um sentido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3151",
+    "text": "Para mudar de direcção à esquerda, nesta via de sentido único, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3151",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3151.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ocupar a via de trânsito da esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Ocupar qualquer das vias de trânsito, porque não circulam veículos em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Olhar ao espelho retrovisor, sinalizar e aproximar o veículo do eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3152",
+    "text": "Para mudar de direcção para a direita no próximo entroncamento estou correctamente posicionado?",
+    "href": "https://www.bomcondutor.pt/questao/3152",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3152.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3153",
+    "text": "Para mudar de direcção para a esquerda devo sinalizar a manobra:",
+    "href": "https://www.bomcondutor.pt/questao/3153",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3153.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançando com precaução."
+      },
+      {
+        "option": "B",
+        "text": "Avançando porque as nossas trajectórias não se interceptam."
+      },
+      {
+        "option": "C",
+        "text": "Cedendo a passagem ao veículo que se apresenta no cruzamento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3154",
+    "text": "Para que a manobra a realizar pelo outro condutor seja feita em segurança, deve:",
+    "href": "https://www.bomcondutor.pt/questao/3154",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3154.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ligar as luzes de perigo."
+      },
+      {
+        "option": "B",
+        "text": "Parar sempre antes de avançar."
+      },
+      {
+        "option": "C",
+        "text": "Sinalizar correctamente a manobra e com prudência ocupar o espaço da via adequado."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3155",
+    "text": "Para recorrer à manobra de marcha atrás devo certificar-me que o local é seguro e que:",
+    "href": "https://www.bomcondutor.pt/questao/3155",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3155.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao executar a manobra lentamente a pratico no maior trajecto possível."
+      },
+      {
+        "option": "B",
+        "text": "Executo a manobra lentamente."
+      },
+      {
+        "option": "C",
+        "text": "Executo a manobra no maior trajecto possível."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3156",
+    "text": "Perante a sinalização devo:",
+    "href": "https://www.bomcondutor.pt/questao/3156",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3156.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aguardar que a sinalização luminosa passe a verde e virar à direita."
+      },
+      {
+        "option": "B",
+        "text": "Parar ao sinal luminoso porque pretendo seguir em frente."
+      },
+      {
+        "option": "C",
+        "text": "Prosseguir a marcha se pretender seguir em frente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3157",
+    "text": "Perante a sinalização existente na via, posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3157",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3157.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3158",
+    "text": "Perante este sinal, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3158",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3158.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aguardar a passagem do veículo e seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção à esquerda ou à direita."
+      },
+      {
+        "option": "C",
+        "text": "Prosseguir a marcha em frente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3159",
+    "text": "Perante o sinal de obrigação, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3159",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3159.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem quer mude de direcção à esquerda ou à direita."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção para a esquerda ou para a direita."
+      },
+      {
+        "option": "C",
+        "text": "Seguir em frente, obrigatoriamente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3160",
+    "text": "Posso circular sobre as raias oblíquas?",
+    "href": "https://www.bomcondutor.pt/questao/3160",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3160.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, estou proibido de entrar na área por elas abrangida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas para efeitos de paragem e/ou estacionamento."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas se pretender mudar de direcção à esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3161",
+    "text": "Posso efectuar a manobra de inversão do sentido de marcha nesta ponte?",
+    "href": "https://www.bomcondutor.pt/questao/3161",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3161.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de inversão de marcha é proibida nas pontes."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a visibilidade é boa e a via de trânsito é larga e permite a realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, uma vez que não se verifica grande intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3162",
+    "text": "Posso efectuar a manobra de inversão do sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3162",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3162.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, devo seguir no sentido indicado pela sinalização."
+      },
+      {
+        "option": "B",
+        "text": "Sim, estou longe da curva e não se verifica qualquer intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3163",
+    "text": "Posso efectuar a manobra de inversão do sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3163",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3163.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que antes da curva."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3164",
+    "text": "Posso efectuar a manobra de marcha atrás até ao entroncamento anterior que se encontra a uma distância de 250 metros?",
+    "href": "https://www.bomcondutor.pt/questao/3164",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3164.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a marcha atrás só é permitida como manobra de recurso e deve efectuar-se no menor trajecto possível."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque circulo na via de trânsito da direita."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque existem duas vias de trânsito no mesmo sentido."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3165",
+    "text": "Posso efectuar a manobra de marcha atrás na ponte?",
+    "href": "https://www.bomcondutor.pt/questao/3165",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3165.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra é permitida pois não se verifica grande intensidade de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas neste local e como manobra auxiliar ou de recurso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3166",
+    "text": "Posso efectuar a manobra de marcha atrás nesta ponte?",
+    "href": "https://www.bomcondutor.pt/questao/3166",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3166.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, esta manobra é sancionada com coima e apreensão dos documentos do veículo."
+      },
+      {
+        "option": "B",
+        "text": "Não, esta manobra é sancionada com coima e inibição de conduzir."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas fora da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3167",
+    "text": "Posso efectuar a manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3167",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3167.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de marcha atrás é proibida nas lombas."
+      },
+      {
+        "option": "B",
+        "text": "Sim, como manobra auxiliar e no menor trajecto possível dado que se trata de um local de boa visibilidade."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a via se encontra sinalizada com uma linha descontínua."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3168",
+    "text": "Posso efectuar a manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3168",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3168.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a marcha atrás é permitida como manobra auxiliar ou de recurso e deve efectuar-se lentamente e no menor trajecto possível."
+      },
+      {
+        "option": "C",
+        "text": "Sim, a marcha atrás é permitida como manobra auxiliar ou de recurso e deve efectuar-se rapidamente para não causar embaraço para o trânsito e num trajecto mínimo de 50 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3169",
+    "text": "Posso efectuar a manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3169",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3169.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de marcha atrás é proibida em entroncamentos."
+      },
+      {
+        "option": "B",
+        "text": "Não, estou sempre proibido de efectuar a manobra em locais cuja via de trânsito, pela sua largura, seja inapropriada à realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se em caso de cruzamento de veículos tiver necessidade de efectuar a manobra."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3170",
+    "text": "Posso efectuar a manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3170",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3170.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida em curvas de visibilidade reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque vou a descer."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que não cause perigo ou embaraço para o trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3171",
+    "text": "Posso efectuar a manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3171",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3171.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas antes da lomba."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas devo encostar-me à berma para realizar a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3172",
+    "text": "Posso efectuar a manobra de marcha atrás numa passagem de nível?",
+    "href": "https://www.bomcondutor.pt/questao/3172",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3172.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de marcha atrás numa passagem de nível é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Não, uma vez que se trata da aproximação de uma passagem de nível sem guarda."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se não se verificar qualquer trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3173",
+    "text": "Posso efectuar a manobra de marcha atrás numa ponte?",
+    "href": "https://www.bomcondutor.pt/questao/3173",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3173.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de marcha atrás é proibida numa ponte."
+      },
+      {
+        "option": "B",
+        "text": "Sim, excepto quando se verifique grande intensidade de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se a via de trânsito tiver largura suficiente para, sem causar embaraço aos outros utentes, realizar a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3174",
+    "text": "Posso efectuar a manobra de marcha-atrás neste túnel?",
+    "href": "https://www.bomcondutor.pt/questao/3174",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3174.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a marcha atrás é sempre proibida nos túneis."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque se trata de um túnel com boa visibilidade."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque se trata de um túnel com duas vias de trânsito no mesmo sentido e a berma é apropriada à realização da manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3175",
+    "text": "Posso efectuar a manobra de ultrapassagem neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3175",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3175.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a sinalização vertical permite."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque existe pouca intensidade de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3176",
+    "text": "Posso estacionar no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3176",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3176.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que não comprometa a segurança dos outros utentes."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que não obrigue à utilização do lado esquerdo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3177",
+    "text": "Posso estacionar no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3177",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3177.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que o faça dentro da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3178",
+    "text": "Posso fazer a manobra de mudança de direcção para a esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3178",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3178.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a manobra vai embaraçar o trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Sim, se não houver sinalização a proibir a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3179",
+    "text": "Posso fazer inversão do sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3179",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3179.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3180",
+    "text": "Posso fazer marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3180",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3180.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a visibilidade é insuficiente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que execute a manobra no maior trajecto possível."
+      },
+      {
+        "option": "C",
+        "text": "Sim, rapidamente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3181",
+    "text": "Posso fazer marcha-atrás na rotunda de que me aproximo?",
+    "href": "https://www.bomcondutor.pt/questao/3181",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3181.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas se não houver trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se a visibilidade for suficiente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3182",
+    "text": "Posso ficar inibido de conduzir se efectuar a manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3182",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3182.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Não. Se não respeitar as regras relativas à marcha atrás tenho que pagar uma coima."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3183",
+    "text": "Posso iniciar a manobra de ultrapassagem neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3183",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3183.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização não proíbe a realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3184",
+    "text": "Posso inverter o sentido da marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3184",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3184.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque não há trânsito em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se antes informar os condutores à minha retaguarda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3185",
+    "text": "Posso inverter o sentido da marcha no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3185",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3185.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, após deixar passar o veículo que circula em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que assinale correctamente a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3186",
+    "text": "Posso inverter o sentido de marcha antes de uma curva?",
+    "href": "https://www.bomcondutor.pt/questao/3186",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3186.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que a via seja de sentido único."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que seja de boa visibilidade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3187",
+    "text": "Posso inverter o sentido de marcha do meu veículo neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3187",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3187.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Não, deveria ter-me aproximado, com a necessária antecedência e o mais possível, do limite direito da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, a via pela sua largura é apropriada à realização da manobra."
+      },
+      {
+        "option": "D",
+        "text": "Sim, a visibilidade é suficiente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3188",
+    "text": "Posso inverter o sentido de marcha na passagem de nível?",
+    "href": "https://www.bomcondutor.pt/questao/3188",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3188.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, é proibido inverter o sentido de marcha numa passagem de nível."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização permite-me efectuar a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que da realização não resulte perigo ou embaraço para o trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3189",
+    "text": "Posso inverter o sentido de marcha neste cruzamento de visibilidade reduzida?",
+    "href": "https://www.bomcondutor.pt/questao/3189",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3189.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nunca."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que o faça rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque neste momento não existe trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3190",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3190",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3190.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3191",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3191",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3191.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3192",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3192",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3192.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque as marcas rodoviárias não permitem a realização da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, de modo a que da realização da manobra não resulte perigo ou embaraço para o trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3193",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3193",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3193.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de inversão do sentido de marcha é proibida nas curvas de visibilidade reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a via é apropriada à realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, devendo aproximar-me do lado direito da faixa de rodagem e efectuar a manobra rapidamente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3194",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3194",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3194.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de inversão do sentido de marcha é proibida neste local."
+      },
+      {
+        "option": "B",
+        "text": "Sim, antes da curva e a uma velocidade não inferior à indicada no sinal para não causar perigo ou embaraço para o trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas posso efectuar a manobra antes da curva e no menor trajecto possível."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3195",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3195",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3195.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, e se criar perigo para os outros utentes da via estou a cometer um crime."
+      },
+      {
+        "option": "B",
+        "text": "Sim, antes da curva e não excedendo a velocidade máxima indicada no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Sim, devendo aproximar-me, o mais possível, do lado direito da faixa de rodagem e efectuar a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3196",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3196",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3196.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, é proibido inverter o sentido de marcha numa curva de visibilidade reduzida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas na curva porque a via é mais larga e tenho maior visibilidade."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3197",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3197",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3197.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra de inversão do sentido de marcha é proibida neste local."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que não cause perigo ou embaraço injustificado aos restantes utentes da via."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3198",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3198",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3198.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização da via não proíbe a realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque tenho boa visibilidade."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3199",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3199",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3199.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, devo efectuar a manobra de imediato dado que a linha descontínua permite a sua realização."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas depois de deixar passar o veículo que circula em sentido contrário."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3200",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3200",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3200.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é sempre proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a largura da faixa de rodagem permite que a manobra se faça com a necessária segurança."
+      },
+      {
+        "option": "C",
+        "text": "Sim, a manobra é sempre permitida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3201",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3201",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3201.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3202",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3202",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3202.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas antes do estreitamento da via que se aproxima."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3203",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3203",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3203.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a sinalização não proíbe a realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a via tem largura suficiente para realização da manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3204",
+    "text": "Posso inverter o sentido de marcha neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3204",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3204.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque o local é inapropriado."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que execute a manobra sem recurso à marcha atrás."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3205",
+    "text": "Posso inverter o sentido de marcha neste momento?",
+    "href": "https://www.bomcondutor.pt/questao/3205",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3205.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque o trânsito é intenso."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que realize a manobra rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque não existe sinalização a proibir a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3206",
+    "text": "Posso inverter o sentido de marcha no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3206",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3206.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a visibilidade no local é insuficiente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque os condutores que se apresentam pela direita têm que me ceder a passagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3207",
+    "text": "Posso inverter o sentido de marcha no próximo entroncamento?",
+    "href": "https://www.bomcondutor.pt/questao/3207",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3207.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Não, é proibido inverter sentido de marcha em todos os entroncamentos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3208",
+    "text": "Posso inverter o sentido de marcha, nesta via?",
+    "href": "https://www.bomcondutor.pt/questao/3208",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3208.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3209",
+    "text": "Posso inverter o sentido de marcha, neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3209",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3209.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque existe apenas uma via de trânsito para cada sentido."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que não transponha a marca rodoviária."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3210",
+    "text": "Posso inverter o sentido de marcha?",
+    "href": "https://www.bomcondutor.pt/questao/3210",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3210.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3211",
+    "text": "Posso mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/3211",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3211.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em nenhum caso."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas só depois de ceder a passagem a todos os veículos."
+      },
+      {
+        "option": "C",
+        "text": "Sim, observando as regras de cedência de passagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3212",
+    "text": "Posso mudar de direcção para a direita no próximo entroncamento?",
+    "href": "https://www.bomcondutor.pt/questao/3212",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3212.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, devendo sinalizar correctamente a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque no próximo entroncamento não vigora qualquer proibição."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3213",
+    "text": "Posso mudar de direcção para a direita?",
+    "href": "https://www.bomcondutor.pt/questao/3213",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3213.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, para tal deveria estar a circular na via de trânsito da direita."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que sinalize correctamente a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, posso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3214",
+    "text": "Posso mudar de direcção para a esquerda no próximo entroncamento?",
+    "href": "https://www.bomcondutor.pt/questao/3214",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3214.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3215",
+    "text": "Posso parar e/ou estacionar no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3215",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3215.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, apenas posso estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, ambas as manobras são permitidas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3216",
+    "text": "Posso parar na berma da faixa de rodagem?",
+    "href": "https://www.bomcondutor.pt/questao/3216",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3216.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Não, porque circulo em meio não urbano."
+      },
+      {
+        "option": "C",
+        "text": "Sim, depois de tomadas as devidas precauções."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3217",
+    "text": "Posso realizar a manobra de inversão do sentido de marcha nesta lomba?",
+    "href": "https://www.bomcondutor.pt/questao/3217",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3217.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque não circula nenhum veículo à minha rectaguarda."
+      },
+      {
+        "option": "C",
+        "text": "Sim, tomando as devidas precauções e apenas como manobra de recurso."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3218",
+    "text": "Posso realizar a manobra de inversão do sentido de marcha neste cruzamento de visibilidade reduzida?",
+    "href": "https://www.bomcondutor.pt/questao/3218",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3218.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque o sinal vertical não proíbe a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3219",
+    "text": "Posso realizar a manobra de inversão do sentido de marcha no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3219",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3219.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, nas lombas a manobra é sempre proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a via tem dois sentidos de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque circulo dentro duma localidade."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3220",
+    "text": "Posso realizar a manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3220",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3220.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é sempre proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização não proíbe a realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que a manobra seja efectuada o mais rapidamente possível."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3221",
+    "text": "Posso realizar a manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3221",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3221.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, devido às características do local."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas para efectuar a manobra de estacionamento."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3222",
+    "text": "Posso realizar a manobra de marcha-atrás no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3222",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3222.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, devido à sinalização horizontal."
+      },
+      {
+        "option": "B",
+        "text": "Sim, dado que o local é de boa visibilidade."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que a efectue rapidamente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3223",
+    "text": "Posso realizar a manobra de ultrapassagem no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3223",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3223.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a sinalização vertical prevalece sobre a horizontal."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3224",
+    "text": "Posso recorrer à manobra de marcha atrás neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3224",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3224.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, neste local é proibido."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que realize a manobra rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que reúna as condições de segurança necessárias."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3225",
+    "text": "Posso ultrapassar no túnel.",
+    "href": "https://www.bomcondutor.pt/questao/3225",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3225.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3226",
+    "text": "Posso ultrapassar o veículo que circula à minha frente?",
+    "href": "https://www.bomcondutor.pt/questao/3226",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3226.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, ocupando o lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, tomando as devidas precauções."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3227",
+    "text": "Posso ultrapassar o veículo que circula à minha frente?",
+    "href": "https://www.bomcondutor.pt/questao/3227",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3227.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que não se aproximem veículos em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque no local em que me encontro a manobra não é proibida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3228",
+    "text": "Posso ultrapassar o veículo que circula à minha frente?",
+    "href": "https://www.bomcondutor.pt/questao/3228",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3228.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque não circulam veículos em sentido contrário."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque o sinal luminoso está verde."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3229",
+    "text": "Posso virar para a esquerda, no próximo cruzamento?",
+    "href": "https://www.bomcondutor.pt/questao/3229",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3229.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, tenho que seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque não há trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se fizer a manobra com especial precaução."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3230",
+    "text": "Pretendo inverter o sentido da marcha. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3230",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3230.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer sinais de luzes."
+      },
+      {
+        "option": "B",
+        "text": "Utilizar o 'pisca' para a esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3231",
+    "text": "Pretendo inverter o sentido de marcha nesta via pública. Posso efectuar a manobra?",
+    "href": "https://www.bomcondutor.pt/questao/3231",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3231.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra é permitida."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas junto ao próximo entroncamento de visibilidade reduzida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3232",
+    "text": "Pretendo inverter o sentido de marcha neste local. Posso efectuar a manobra?",
+    "href": "https://www.bomcondutor.pt/questao/3232",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3232.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra é permitida."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas antes da curva."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3233",
+    "text": "Pretendo inverter o sentido de marcha. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3233",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3233.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Desistir da manobra, porque a marca rodoviária à minha direita não o permite."
+      },
+      {
+        "option": "B",
+        "text": "Desistir da manobra, porque a visibilidade do local é insuficiente."
+      },
+      {
+        "option": "C",
+        "text": "Executar a manobra rapidamente, sem causar embaraço."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3234",
+    "text": "Pretendo inverter o sentido de marcha. Posso efectuar a manobra neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3234",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3234.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida neste local."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a linha descontínua permite a realização da manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3235",
+    "text": "Pretendo inverter o sentido de marcha. Posso efectuar a manobra?",
+    "href": "https://www.bomcondutor.pt/questao/3235",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3235.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque me encontro numa lomba."
+      },
+      {
+        "option": "B",
+        "text": "Sim, as marcas rodoviárias permitem a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, o sinal vertical não proíbe."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3236",
+    "text": "Pretendo mudar de direcção à direita na próxima intersecção. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3236",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3236.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Desistir da manobra, porque não é permitida."
+      },
+      {
+        "option": "B",
+        "text": "Manter o veículo na via de trânsito da esquerda, onde já me encontro."
+      },
+      {
+        "option": "C",
+        "text": "Ocupar a via de trânsito mais à direita."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3237",
+    "text": "Pretendo mudar de direcção à direita, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3237",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3237.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Continuar nesta via de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Sinalizar a manobra e mudar de via de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Sinalizar a minha intenção, continuando na mesma via de trânsito, porque há apenas um sentido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3238",
+    "text": "Pretendo mudar de direcção à direita. Devo ceder a passagem ao outro condutor.",
+    "href": "https://www.bomcondutor.pt/questao/3238",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3238.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3239",
+    "text": "Pretendo mudar de direcção à direita. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3239",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3239.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar o veículo ao lado esquerdo da minha via de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Aproximar o veículo com a necessária antecedência do lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Manter o veículo o mais à direita possível."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3240",
+    "text": "Pretendo mudar de direcção à esquerda, devo continuar nesta via de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/3240",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3240.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque a via de trânsito da esquerda é a via adequada."
+      },
+      {
+        "option": "B",
+        "text": "Sim, porque a intensidade de trânsito é bastante reduzida, logo qualquer das vias é adequada."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque na intersecção é proibido mudar de direcção."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3241",
+    "text": "Pretendo mudar de direcção à esquerda, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3241",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3241.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar o veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Aproximar o veículo do limite esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Manter o veículo o mais à direita da via, porque a intensidade de trânsito não justifica a alteração de trajectória."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3242",
+    "text": "Pretendo mudar de direcção à esquerda. Devo aproximar-me do eixo da faixa de rodagem:",
+    "href": "https://www.bomcondutor.pt/questao/3242",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3242.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A uma distância máxima de 20 metros do local da manobra."
+      },
+      {
+        "option": "B",
+        "text": "Com a antecedência necessária para realizar a manobra em segurança."
+      },
+      {
+        "option": "C",
+        "text": "No local exacto do entroncamento."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3243",
+    "text": "Pretendo mudar de direcção à esquerda. Devo ceder a passagem:",
+    "href": "https://www.bomcondutor.pt/questao/3243",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3243.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos veículos da esquerda e da direita."
+      },
+      {
+        "option": "B",
+        "text": "Só ao veículo da direita"
+      },
+      {
+        "option": "C",
+        "text": "Só ao veículo da esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3244",
+    "text": "Pretendo mudar de direcção à esquerda. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3244",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3244.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Evitar a manobra, caso desta possa resultar perigo ou embaraço à circulação."
+      },
+      {
+        "option": "B",
+        "text": "Passar imediatamente para a via de trânsito mais à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros, para mais rapidamente passar à via da esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3245",
+    "text": "Pretendo mudar de direcção à esquerda. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3245",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3245.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Colocar-me o mais possível à direita da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Colocar-me o mais possível à esquerda da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sinalizar antecipadamente e realizar a manobra junto da linha mista."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3246",
+    "text": "Pretendo mudar de direcção à esquerda. O que devo fazer?",
+    "href": "https://www.bomcondutor.pt/questao/3246",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3246.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Com a devida antecedência, sinalizar e aproximar o meu veículo do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Desistir da manobra, porque os sentidos de trânsito são divididos por uma linha contínua."
+      },
+      {
+        "option": "C",
+        "text": "Mudar de via de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3247",
+    "text": "Pretendo mudar de direcção à esquerda. Para tal devo:",
+    "href": "https://www.bomcondutor.pt/questao/3247",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3247.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar o veículo ao lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Aproximar o veículo da marca rodoviária que está a dividir as vias de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Aproximar o veículo do eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3248",
+    "text": "Pretendo mudar de direcção para a direita. Devo ceder a passagem:",
+    "href": "https://www.bomcondutor.pt/questao/3248",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3248.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos dois automóveis."
+      },
+      {
+        "option": "B",
+        "text": "Só ao automóvel da direita."
+      },
+      {
+        "option": "C",
+        "text": "Só ao automóvel da esquerda, porque o da direita segue em frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3249",
+    "text": "Pretendo mudar de direcção para a esquerda no próximo entroncamento. Como devo proceder?",
+    "href": "https://www.bomcondutor.pt/questao/3249",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3249.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer o respectivo sinal com a mão."
+      },
+      {
+        "option": "B",
+        "text": "Fazer o respectivo sinal e aproximar-me do eixo da faixa de rodagem"
+      },
+      {
+        "option": "C",
+        "text": "Passar de imediato para a via de trânsito da esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3250",
+    "text": "Pretendo mudar de direcção para a esquerda. Como proceder?",
+    "href": "https://www.bomcondutor.pt/questao/3250",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3250.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo aproximar-me, com a necessária antecedência e o mais possível, do eixo da faixa de rodagem e efectuar a manobra por forma que da sua realização não resulte perigo ou embaraço para o trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Devo aproximar-me, com a necessária antecedência e o mais possível, do lado direito da faixa de rodagem e efectuar a manobra de modo a não embaraçar o trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3251",
+    "text": "Pretendo mudar de direcção para a esquerda. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3251",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3251.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar-me com a devida antecedência do eixo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Circular pelo lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Conservar-me o mais possível à direita da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3252",
+    "text": "Qual a manobra que estou impossibilitado de realizar no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3252",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3252.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A inversão do sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "A ultrapassagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3253",
+    "text": "Qual das seguintes manobras é permitida nos túneis?",
+    "href": "https://www.bomcondutor.pt/questao/3253",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3253.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inversão do sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Marcha-atrás."
+      },
+      {
+        "option": "C",
+        "text": "Nenhuma das mencionadas."
+      },
+      {
+        "option": "D",
+        "text": "Ultrapassagem."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "3254",
+    "text": "Quando é que o condutor do veículo à minha frente deve cessar o sinal realizado com o indicador de mudança de direcção à direita?",
+    "href": "https://www.bomcondutor.pt/questao/3254",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3254.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Assim que tenha iniciado a mudança de via de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Logo que deixe de constituir perigo para os outros utentes."
+      },
+      {
+        "option": "C",
+        "text": "Logo que tenha concluído a manobra de mudança de direcção."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3255",
+    "text": "Quando executo a manobra de estacionamento, é possível recorrer à marcha atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3255",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3255.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, quando estaciono nunca posso fazer marcha atrás."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas dentro da localidade."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3256",
+    "text": "Que espaço posso percorrer em marcha atrás?",
+    "href": "https://www.bomcondutor.pt/questao/3256",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3256.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "100 metros."
+      },
+      {
+        "option": "B",
+        "text": "O mínimo indispensável."
+      },
+      {
+        "option": "C",
+        "text": "O que entender, se com isso não prejudicar o trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3257",
+    "text": "Que manobra estou proibido de realizar no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3257",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3257.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A paragem."
+      },
+      {
+        "option": "B",
+        "text": "A ultrapassagem."
+      },
+      {
+        "option": "C",
+        "text": "O estacionamento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3258",
+    "text": "Que manobra estou proibido de realizar no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/3258",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3258.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A paragem fora da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "O estacionamento na faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3259",
+    "text": "Que manobra se prepara para realizar o condutor que circula à minha frente?",
+    "href": "https://www.bomcondutor.pt/questao/3259",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3259.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inversão do sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Marcha-atrás."
+      },
+      {
+        "option": "C",
+        "text": "Mudança de direcção."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3260",
+    "text": "Regra geral, a marcha atrás como manobra auxiliar ou de recurso, deve ser executada:",
+    "href": "https://www.bomcondutor.pt/questao/3260",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3260.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Lentamente e no maior trajecto possível."
+      },
+      {
+        "option": "B",
+        "text": "Lentamente e no menor trajecto possível."
+      },
+      {
+        "option": "C",
+        "text": "Rapidamente e o mais à direita possível."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3261",
+    "text": "Regra geral, ao mudar de direcção à esquerda, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3261",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3261.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Dar a direita ao centro de intersecção das duas vias."
+      },
+      {
+        "option": "B",
+        "text": "Dar a esquerda ao centro de intersecção das duas vias."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3262",
+    "text": "Se pretender inverter o sentido de marcha devo aproximar-me o mais possível do eixo da faixa de rodagem. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/3262",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3262.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3263",
+    "text": "Se pretender mudar de direcção à esquerda, devo:",
+    "href": "https://www.bomcondutor.pt/questao/3263",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3263.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximar o veículo da marca rodoviária que divide as duas vias."
+      },
+      {
+        "option": "B",
+        "text": "Desistir da manobra porque o sinal está vermelho."
+      },
+      {
+        "option": "C",
+        "text": "Ocupar a via de trânsito adequada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3264",
+    "text": "Se puder inverter o sentido de marcha, sem recurso à marcha-atrás posso realizar a manobra neste local?",
+    "href": "https://www.bomcondutor.pt/questao/3264",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3264.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3265",
+    "text": "Tendo-me enganado no caminho pretendido, como devo proceder para passar a circular em sentido oposto àquele em que sigo?",
+    "href": "https://www.bomcondutor.pt/questao/3265",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3265.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazendo marcha-atrás pela berma e com as luzes de perigo ligadas."
+      },
+      {
+        "option": "B",
+        "text": "Invertendo o sentido de marcha no local em que me encontro."
+      },
+      {
+        "option": "C",
+        "text": "Seguindo até à rotunda e optando aí pela direcção desejada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "3266",
+    "text": "Um dos factores que pode impedir a execução da manobra de inversão do sentido de marcha, é a visibilidade do local.",
+    "href": "https://www.bomcondutor.pt/questao/3266",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3266.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3267",
+    "text": "Uma das manobras proibidas de realizar neste local é a inversão do sentido de marcha. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/3267",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3267.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, neste local ainda posso realizar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra é proibida neste local."
+      },
+      {
+        "option": "C",
+        "text": "Sim, excepto para os automóveis pesados que circulam em sentido contrário."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3268",
+    "text": "Vou mudar de direcção para a direita. Devo:",
+    "href": "https://www.bomcondutor.pt/questao/3268",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/3268.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem se o outro veículo seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Prosseguir normalmente, com precaução."
+      }
+    ],
+    "correctAnswer": "B"
+  }
+]

@@ -31,16 +31,6 @@
 
   const categories = [
     {
-      id: 17,
-      name: 'Teste2',
-      jsonPath: '../assets/teste2.json',
-    },
-    {
-      id: 0,
-      name: 'Teste',
-      jsonPath: '../assets/teste.json',
-    },
-    {
       id: 1,
       name: 'Cedência de Passagem',
       jsonPath: '../assets/cedencia_de_passagem.json',

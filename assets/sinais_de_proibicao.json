@@ -1,0 +1,6154 @@
+[
+  {
+    "id": "1723",
+    "text": "A indicação dada pelo sinal de mensagem variável:",
+    "href": "https://www.bomcondutor.pt/questao/1723",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1723.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não tem qualquer valor."
+      },
+      {
+        "option": "B",
+        "text": "Tem carácter facultativo."
+      },
+      {
+        "option": "C",
+        "text": "Tem carácter obrigatório."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1724",
+    "text": "A partir deste sinal fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1724",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1724.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo usar os sinais sonoros à noite."
+      },
+      {
+        "option": "B",
+        "text": "Nunca poderei usar os sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Termina a proibição de usar os sinais sonoros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1725",
+    "text": "A proibição de transitar, imposta pelo sinal vertical, de forma circular, que se encontra do meu lado direito, aplica-se:",
+    "href": "https://www.bomcondutor.pt/questao/1725",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1725.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos automóveis de mercadorias e veículos a motor com reboque."
+      },
+      {
+        "option": "B",
+        "text": "Aos automóveis de mercadorias e veículos de tracção animal."
+      },
+      {
+        "option": "C",
+        "text": "Aos automóveis pesados e veículos a motor com reboque."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1726",
+    "text": "A que tipo de peso se refere o sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1726",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1726.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Peso bruto."
+      },
+      {
+        "option": "B",
+        "text": "Peso total."
+      },
+      {
+        "option": "C",
+        "text": "Tara."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1727",
+    "text": "A que veículos se aplica a proibição sinalizada?",
+    "href": "https://www.bomcondutor.pt/questao/1727",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1727.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos veículos de peso por eixo inferior a 2,4t."
+      },
+      {
+        "option": "B",
+        "text": "Aos veículos de peso por eixo superior a 2,4t."
+      },
+      {
+        "option": "C",
+        "text": "Aos veículos de peso total superior a 2,4t."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1728",
+    "text": "A que veículos se destinam as proibições constantes dos sinais?",
+    "href": "https://www.bomcondutor.pt/questao/1728",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1728.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os veículos de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "A todos os veículos pesados."
+      },
+      {
+        "option": "C",
+        "text": "A todos os veículos que transportem matérias perigosas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1729",
+    "text": "A sinalização proíbe a circulação de veículos com peso total superior a 3,5t.",
+    "href": "https://www.bomcondutor.pt/questao/1729",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1729.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1730",
+    "text": "A sinalização da via indica-me que determinados veículos:",
+    "href": "https://www.bomcondutor.pt/questao/1730",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1730.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estão obrigados a circular nesse sentido."
+      },
+      {
+        "option": "B",
+        "text": "Não podem circular nessa via."
+      },
+      {
+        "option": "C",
+        "text": "Não podem circular nesse sentido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1731",
+    "text": "A sinalização da via onde circulo permite-me ultrapassar um automóvel?",
+    "href": "https://www.bomcondutor.pt/questao/1731",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1731.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1732",
+    "text": "A sinalização de mensagem variável, pode proibir comportamentos ou condicionar o trânsito de determinada via.",
+    "href": "https://www.bomcondutor.pt/questao/1732",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1732.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1733",
+    "text": "A sinalização existente no local indica:",
+    "href": "https://www.bomcondutor.pt/questao/1733",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1733.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A proibição de parar."
+      },
+      {
+        "option": "B",
+        "text": "Que devo parar."
+      },
+      {
+        "option": "C",
+        "text": "Que neste local não devo mudar de direcção."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1734",
+    "text": "A sinalização existente obriga-me:",
+    "href": "https://www.bomcondutor.pt/questao/1734",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1734.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A curvar com as devidas precauções."
+      },
+      {
+        "option": "B",
+        "text": "A mudar de direcção para a direita."
+      },
+      {
+        "option": "C",
+        "text": "A mudar de direcção para a esquerda."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1735",
+    "text": "A sinalização indica que a manobra de ultrapassagem é:",
+    "href": "https://www.bomcondutor.pt/questao/1735",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1735.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Permitida."
+      },
+      {
+        "option": "B",
+        "text": "Proibida."
+      },
+      {
+        "option": "C",
+        "text": "Recomendada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1736",
+    "text": "A sinalização indica uma zona onde:",
+    "href": "https://www.bomcondutor.pt/questao/1736",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1736.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É proibido o trânsito a peões e automóveis."
+      },
+      {
+        "option": "B",
+        "text": "É proibido o trânsito a peões."
+      },
+      {
+        "option": "C",
+        "text": "É proibido o trânsito a todos os veículos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1737",
+    "text": "A sinalização limita a velocidade:",
+    "href": "https://www.bomcondutor.pt/questao/1737",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1737.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Máxima."
+      },
+      {
+        "option": "B",
+        "text": "Mínima."
+      },
+      {
+        "option": "C",
+        "text": "Recomendada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1738",
+    "text": "A sinalização proíbe o trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/1738",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1738.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A peões."
+      },
+      {
+        "option": "B",
+        "text": "A todos os motociclos."
+      },
+      {
+        "option": "C",
+        "text": "A veículos de mercadorias."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1739",
+    "text": "A sinalização sobre limites de peso refere-se a:",
+    "href": "https://www.bomcondutor.pt/questao/1739",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1739.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Peso bruto."
+      },
+      {
+        "option": "B",
+        "text": "Peso total."
+      },
+      {
+        "option": "C",
+        "text": "Tara."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1740",
+    "text": "A sinalização vertical de fundo branco indica-me trânsito proibido:",
+    "href": "https://www.bomcondutor.pt/questao/1740",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1740.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "A automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "A todos os automóveis."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1741",
+    "text": "A sinalização vertical desta via pública indica que os peões estão proibidos de:",
+    "href": "https://www.bomcondutor.pt/questao/1741",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1741.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Atravessar as vias de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Circular nas vias de trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1742",
+    "text": "A sinalização vertical desta via pública proíbe a circulação de velocípedes. Concorda?",
+    "href": "https://www.bomcondutor.pt/questao/1742",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1742.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1743",
+    "text": "A sinalização vertical determina:",
+    "href": "https://www.bomcondutor.pt/questao/1743",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1743.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A velocidade máxima permitida."
+      },
+      {
+        "option": "B",
+        "text": "A velocidade mínima obrigatória."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1744",
+    "text": "A sinalização vertical existente no local:",
+    "href": "https://www.bomcondutor.pt/questao/1744",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1744.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proíbe a manobra de inversão do sentido de marcha."
+      },
+      {
+        "option": "B",
+        "text": "Proíbe a manobra de ultrapassagem e de inversão do sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Proíbe a manobra de ultrapassagem."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1745",
+    "text": "A sinalização vertical indica-me que não posso circular nesta via pública se conduzir:",
+    "href": "https://www.bomcondutor.pt/questao/1745",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1745.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um monovolume."
+      },
+      {
+        "option": "B",
+        "text": "Um veículo com reboque."
+      },
+      {
+        "option": "C",
+        "text": "Uma autocaravana."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1746",
+    "text": "A sinalização vertical indica-me trânsito proibido a:",
+    "href": "https://www.bomcondutor.pt/questao/1746",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1746.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Peões, animais e a veículos que não sejam automóveis ou motociclos."
+      },
+      {
+        "option": "B",
+        "text": "Peões, animais e a veículos que não sejam automóveis, motociclos ou ciclomotores."
+      },
+      {
+        "option": "C",
+        "text": "Peões, animais e a veículos que não sejam automóveis."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1747",
+    "text": "Ao encontrar este sinal vertical sei que na via onde o mesmo se encontra:",
+    "href": "https://www.bomcondutor.pt/questao/1747",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1747.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O trânsito apenas se faz em sentido oposto ao sentido para o qual o sinal está orientado."
+      },
+      {
+        "option": "B",
+        "text": "O trânsito apenas se faz no sentido para o qual o sinal está orientado."
+      },
+      {
+        "option": "C",
+        "text": "Vou encontrar veículos em ambos os sentidos de trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1748",
+    "text": "Ao entrar nesta via pública devo saber que este sinal vertical significa:",
+    "href": "https://www.bomcondutor.pt/questao/1748",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1748.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proximidade de um local frequentado por peões, pelo que devo moderar a velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Proximidade de uma passagem de peões."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1749",
+    "text": "Após a sinalização vertical a velocidade máxima permitida aplica-se:",
+    "href": "https://www.bomcondutor.pt/questao/1749",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1749.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todas as vias de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Apenas à via de trânsito da direita."
+      },
+      {
+        "option": "C",
+        "text": "Apenas à via de trânsito da esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1750",
+    "text": "Após a sinalização vertical é permitido parar para a saída de passageiros?",
+    "href": "https://www.bomcondutor.pt/questao/1750",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1750.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o sinal vertical proíbe-me de parar qualquer veículo."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas pelo tempo estritamente necessário."
+      },
+      {
+        "option": "C",
+        "text": "Sim, o sinal indica-me fim de proibição de parar ou estacionar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1751",
+    "text": "Após a sinalização:",
+    "href": "https://www.bomcondutor.pt/questao/1751",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1751.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A velocidade é limitada apenas para os veículos pesados."
+      },
+      {
+        "option": "B",
+        "text": "A velocidade máxima permitida é de 60 Km/h e é proibido o trânsito a automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Apenas os veículos ligeiros podem transitar a uma velocidade superior a 60 km/h."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1752",
+    "text": "Após o sinal de formato circular estou proibido de ultrapassar se conduzir um automóvel pesado de passageiros.",
+    "href": "https://www.bomcondutor.pt/questao/1752",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1752.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1753",
+    "text": "Após o sinal é permitido:",
+    "href": "https://www.bomcondutor.pt/questao/1753",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1753.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Parar e estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1754",
+    "text": "Após o sinal é permitido:",
+    "href": "https://www.bomcondutor.pt/questao/1754",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1754.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar em segunda fila."
+      },
+      {
+        "option": "B",
+        "text": "Estacionar na faixa de rodagem junto aos veículos brancos."
+      },
+      {
+        "option": "C",
+        "text": "Estacionar nos locais a esse fim destinados."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1755",
+    "text": "Após o sinal é:",
+    "href": "https://www.bomcondutor.pt/questao/1755",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1755.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Permitida a manobra de ultrapassagem."
+      },
+      {
+        "option": "B",
+        "text": "Permitida a ultrapassagem apenas aos automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Proibida a ultrapassagem a automóveis ligeiros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1756",
+    "text": "Após o sinal posso estacionar?",
+    "href": "https://www.bomcondutor.pt/questao/1756",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1756.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1757",
+    "text": "Após o sinal vertical existente na via, é permitido ultrapassar?",
+    "href": "https://www.bomcondutor.pt/questao/1757",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1757.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, é proibida a manobra de ultrapassagem."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas automóveis ligeiros."
+      },
+      {
+        "option": "C",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1758",
+    "text": "Após o sinal vertical, que tipo de veículos estou proibido de ultrapassar?",
+    "href": "https://www.bomcondutor.pt/questao/1758",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1758.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Motociclos e ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "Nenhum tipo de veículos."
+      },
+      {
+        "option": "C",
+        "text": "Todos os veículos de duas rodas."
+      },
+      {
+        "option": "D",
+        "text": "Velocípedes."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1759",
+    "text": "Após o sinal vertical:",
+    "href": "https://www.bomcondutor.pt/questao/1759",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1759.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo circular a mais de 50 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "Devo circular à velocidade indicada."
+      },
+      {
+        "option": "C",
+        "text": "Não devo ultrapassar a velocidade indicada."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1760",
+    "text": "Após o sinal vertical:",
+    "href": "https://www.bomcondutor.pt/questao/1760",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1760.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É permitida a ultrapassagem."
+      },
+      {
+        "option": "B",
+        "text": "É proibida a manobra de inversão do sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "É proibida a manobra de ultrapassagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1761",
+    "text": "Após o sinal, o limite máximo de velocidade é de:",
+    "href": "https://www.bomcondutor.pt/questao/1761",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1761.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "100 km/h, pois o sinal indica a velocidade recomendada."
+      },
+      {
+        "option": "B",
+        "text": "120 km/h, pois o limite constante no sinal é facultativo."
+      },
+      {
+        "option": "C",
+        "text": "80 km/h."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1762",
+    "text": "Após o sinal:",
+    "href": "https://www.bomcondutor.pt/questao/1762",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1762.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A manobra de ultrapassagem é proibida apenas se for necessário ocupar o lado esquerdo da faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "É proibido ultrapassar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1763",
+    "text": "Após os sinais de proibição:",
+    "href": "https://www.bomcondutor.pt/questao/1763",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1763.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É obrigatória a manobra de ultrapassagem."
+      },
+      {
+        "option": "B",
+        "text": "É permitida a manobra de ultrapassagem."
+      },
+      {
+        "option": "C",
+        "text": "É proibida a manobra de ultrapassagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1764",
+    "text": "Conduzindo um automóvel ligeiro de passageiros, a partir deste sinal posso:",
+    "href": "https://www.bomcondutor.pt/questao/1764",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1764.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade até 95 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "Circular a 100 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Circular até 90 km/h."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1765",
+    "text": "Conduzo um automóvel de mercadorias. Perante a sinalização existente, só posso prosseguir pela via mais à direita.",
+    "href": "https://www.bomcondutor.pt/questao/1765",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1765.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1766",
+    "text": "Conduzo um automóvel ligeiro de passageiros. Posso seguir pela via sinalizada?",
+    "href": "https://www.bomcondutor.pt/questao/1766",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1766.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, é uma via reservada a automóveis pesados de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Sim, o sinal proíbe o trânsito a automóveis de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Sim, o sinal proíbe o trânsito a automóveis pesados."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1767",
+    "text": "De acordo com a sinalização existente no local devo:",
+    "href": "https://www.bomcondutor.pt/questao/1767",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1767.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Manter um intervalo de pelo menos 60 metros do veículo da frente."
+      },
+      {
+        "option": "B",
+        "text": "Transitar a velocidade igual ou inferior a 60 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Transitar a velocidade igual ou superior a 60 km/h."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1768",
+    "text": "De acordo com a sinalização existente, como devo proceder no local em que me encontro?",
+    "href": "https://www.bomcondutor.pt/questao/1768",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1768.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção à esquerda ou à direita."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Seguir em frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1769",
+    "text": "De acordo com a sinalização vertical, os condutores de automóveis pesados:",
+    "href": "https://www.bomcondutor.pt/questao/1769",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1769.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estão proibidos de circular a velocidade superior a 80 km/h."
+      },
+      {
+        "option": "B",
+        "text": "Estão proibidos de circular na via de trânsito mais à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Podem circular em qualquer via, desde que cumpram os limites de velocidade impostos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1770",
+    "text": "De acordo com a sinalização vertical, quem se encontra proibido de circular na via mais à esquerda desta auto-estrada?",
+    "href": "https://www.bomcondutor.pt/questao/1770",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1770.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas os condutores de automóveis pesados de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Apenas os condutores de automóveis pesados de passageiros."
+      },
+      {
+        "option": "C",
+        "text": "Todos os condutores de automóveis pesados."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1771",
+    "text": "De acordo com o sinal vertical à minha direita, posso circular se conduzir um automóvel de mercadorias?",
+    "href": "https://www.bomcondutor.pt/questao/1771",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1771.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, em circunstância alguma."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que seja um automóvel ligeiro."
+      },
+      {
+        "option": "C",
+        "text": "Sim, o trânsito só é proibido a automóveis pesados de passageiros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1772",
+    "text": "De acordo com o sinal vertical, os peões, animais, velocípedes e veículos de tracção animal podem transitar na via em que vou entrar.",
+    "href": "https://www.bomcondutor.pt/questao/1772",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1772.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1773",
+    "text": "Devo saber que este sinal proíbe:",
+    "href": "https://www.bomcondutor.pt/questao/1773",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1773.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A paragem e o estacionamento de veículos pesados."
+      },
+      {
+        "option": "B",
+        "text": "O estacionamento de veículos pesados."
+      },
+      {
+        "option": "C",
+        "text": "O trânsito a automóveis de mercadorias e a veículos a motor com reboque."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1774",
+    "text": "Devo saber que este sinal vertical indica:",
+    "href": "https://www.bomcondutor.pt/questao/1774",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1774.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Saída de veículos agrícolas."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a veículos agrícolas."
+      },
+      {
+        "option": "C",
+        "text": "Via reservada a veículos agrícolas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1775",
+    "text": "É permitida a realização da manobra de inversão do sentido de marcha atendendo à sinalização vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1775",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1775.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida atendendo à sinalização vertical."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização não proíbe a realização da manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, dado que não se verifica trânsito."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1776",
+    "text": "Em que direcção posso seguir na próxima intersecção?",
+    "href": "https://www.bomcondutor.pt/questao/1776",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1776.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção à direita."
+      },
+      {
+        "option": "B",
+        "text": "Somente mudar de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Somente seguir em frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1777",
+    "text": "Em que direcções posso seguir quando a luz vermelha passar a verde?",
+    "href": "https://www.bomcondutor.pt/questao/1777",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1777.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Em frente ou para a esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Em qualquer direcção."
+      },
+      {
+        "option": "C",
+        "text": "Só para a direita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1778",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1778",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1778.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da proibição de ultrapassar."
+      },
+      {
+        "option": "B",
+        "text": "Fim de estacionamento proibido."
+      },
+      {
+        "option": "C",
+        "text": "Que o condutor não pode ultrapassar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1779",
+    "text": "Este sinal de desvio é de:",
+    "href": "https://www.bomcondutor.pt/questao/1779",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1779.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Indicação temporária."
+      },
+      {
+        "option": "B",
+        "text": "Perigo temporário."
+      },
+      {
+        "option": "C",
+        "text": "Proibição temporária."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1780",
+    "text": "Este sinal determina que:",
+    "href": "https://www.bomcondutor.pt/questao/1780",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1780.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É permitida a circulação a automóveis pesados."
+      },
+      {
+        "option": "B",
+        "text": "É proibida a circulação a automóveis pesados."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1781",
+    "text": "Este sinal determina:",
+    "href": "https://www.bomcondutor.pt/questao/1781",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1781.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de obrigação de usar sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Fim de proibição de usar sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Obrigação de usar sinais luminosos"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1782",
+    "text": "Este sinal impõe limite:",
+    "href": "https://www.bomcondutor.pt/questao/1782",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1782.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Máximo de altura dos veículos que podem passar nesse local."
+      },
+      {
+        "option": "C",
+        "text": "Mínimo de altura dos veículos que podem passar nesse local."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1783",
+    "text": "Este sinal indica a proibição de trânsito a:",
+    "href": "https://www.bomcondutor.pt/questao/1783",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1783.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "Motociclos."
+      },
+      {
+        "option": "C",
+        "text": "Velocípedes."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1784",
+    "text": "Este sinal indica acesso interdito a:",
+    "href": "https://www.bomcondutor.pt/questao/1784",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1784.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ciclomotores"
+      },
+      {
+        "option": "B",
+        "text": "Motociclos simples."
+      },
+      {
+        "option": "C",
+        "text": "Todos os veículos não automóveis."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1785",
+    "text": "Este sinal indica aos condutores de automóveis:",
+    "href": "https://www.bomcondutor.pt/questao/1785",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1785.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de proibição de ultrapassar."
+      },
+      {
+        "option": "B",
+        "text": "Ultrapassagem proibida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1786",
+    "text": "Este sinal indica o fim de :",
+    "href": "https://www.bomcondutor.pt/questao/1786",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1786.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proibição de parar e estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Todas as proibições impostas por sinalização."
+      },
+      {
+        "option": "C",
+        "text": "Zona de estacionamento de duração limitada."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1787",
+    "text": "Este sinal indica proibição de ultrapassagem:",
+    "href": "https://www.bomcondutor.pt/questao/1787",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1787.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas para automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Para qualquer automóvel."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1788",
+    "text": "Este sinal indica proibição de ultrapassar para:",
+    "href": "https://www.bomcondutor.pt/questao/1788",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1788.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Todos os automóveis."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1789",
+    "text": "Este sinal indica trânsito proibido:",
+    "href": "https://www.bomcondutor.pt/questao/1789",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1789.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os veículos de duas rodas."
+      },
+      {
+        "option": "B",
+        "text": "A todos os veículos."
+      },
+      {
+        "option": "C",
+        "text": "Apenas a veículos de tracção animal e velocípedes."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1790",
+    "text": "Este sinal indica-me a proibição de:",
+    "href": "https://www.bomcondutor.pt/questao/1790",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1790.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular a menos de 70 metros do veículo da frente."
+      },
+      {
+        "option": "B",
+        "text": "Estacionar a menos de 70 metros do veículo da frente."
+      },
+      {
+        "option": "C",
+        "text": "Estacionar nos próximos 70 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1791",
+    "text": "Este sinal indica-me que nesta zona:",
+    "href": "https://www.bomcondutor.pt/questao/1791",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1791.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso estacionar mas posso parar."
+      },
+      {
+        "option": "B",
+        "text": "Não posso parar nem estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Posso circular nos dois sentidos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1792",
+    "text": "Este sinal indica-me que o desvio que vou encontrar a 250 metros aplica-se:",
+    "href": "https://www.bomcondutor.pt/questao/1792",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1792.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Aos veículos com altura superior a 3,5 metros."
+      },
+      {
+        "option": "C",
+        "text": "Aos veículos de mercadorias com mais de 12 toneladas."
+      },
+      {
+        "option": "D",
+        "text": "Aos veículos pesados com mais de 3,5 toneladas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1793",
+    "text": "Este sinal indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1793",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1793.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A proximidade de uma curva perigosa."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de mudar de direcção à esquerda no próximo entroncamento."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1794",
+    "text": "Este sinal indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1794",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1794.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da proibição de utilizar sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de utilizar os sinais sonoros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1795",
+    "text": "Este sinal indica-me?",
+    "href": "https://www.bomcondutor.pt/questao/1795",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1795.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da proibição de estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de parar."
+      },
+      {
+        "option": "C",
+        "text": "Fim da proibição de ultrapassar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1796",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1796",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1796.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Faixa de rodagem com limitações ao longo de 250 metros."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a veículos de 3,5 metros de comprimento."
+      },
+      {
+        "option": "C",
+        "text": "Um desvio obrigatório para veículos com mais de 3,5 metros de altura."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1797",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1797",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1797.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionamento proibido."
+      },
+      {
+        "option": "B",
+        "text": "Fim de proibição de parar ou estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Fim de todas as proibições impostas por sinalização a veículos em marcha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1798",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1798",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1798.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aproximação de um hospital."
+      },
+      {
+        "option": "B",
+        "text": "Fim de proibição de utilizar os sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de utilizar os sinais sonoros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1799",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1799",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1799.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da limitação da velocidade indicada no sinal."
+      },
+      {
+        "option": "B",
+        "text": "Fim de todas as proibições indicadas pelos sinais anteriores."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de exceder a velocidade indicada no sinal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1800",
+    "text": "Este sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1800",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1800.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A proibição de transitarem peões nesta faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "A proibição de trânsito a peões e velocípedes."
+      },
+      {
+        "option": "C",
+        "text": "A proibição dos peões circularem do lado direito da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1801",
+    "text": "Este sinal informa o motociclista que:",
+    "href": "https://www.bomcondutor.pt/questao/1801",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1801.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É obrigado a circular sempre encostado ao eixo da via."
+      },
+      {
+        "option": "B",
+        "text": "Não pode realizar a manobra de ultrapassagem."
+      },
+      {
+        "option": "C",
+        "text": "Só lhe é permitido ultrapassar automóveis ligeiros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1802",
+    "text": "Este sinal informa-me que na via em que circulo não podem transitar veículos pesados.",
+    "href": "https://www.bomcondutor.pt/questao/1802",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1802.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1803",
+    "text": "Este sinal permite a circulação de velocípedes?",
+    "href": "https://www.bomcondutor.pt/questao/1803",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1803.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não permite."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que o condutor circule a pé com o velocípede pela mão."
+      },
+      {
+        "option": "C",
+        "text": "Sim, pois apenas proíbe o trânsito de peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1804",
+    "text": "Este sinal proíbe a ultrapassagem efectuada:",
+    "href": "https://www.bomcondutor.pt/questao/1804",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1804.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas por automóveis ligeiros de passageiros."
+      },
+      {
+        "option": "B",
+        "text": "Apenas por automóveis."
+      },
+      {
+        "option": "C",
+        "text": "Por automóveis e outros veículos com mais de duas rodas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1805",
+    "text": "Este sinal proíbe o acesso a:",
+    "href": "https://www.bomcondutor.pt/questao/1805",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1805.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Motociclos simples."
+      },
+      {
+        "option": "B",
+        "text": "Todos os veículos de duas rodas."
+      },
+      {
+        "option": "C",
+        "text": "Velocípedes."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1806",
+    "text": "Este sinal proíbe o trânsito a veículos de:",
+    "href": "https://www.bomcondutor.pt/questao/1806",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1806.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Altura superior a 3,5 metros."
+      },
+      {
+        "option": "B",
+        "text": "Comprimento superior a 3,5 metros."
+      },
+      {
+        "option": "C",
+        "text": "Largura superior a 3,5 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1807",
+    "text": "Este sinal proíbe o trânsito a:",
+    "href": "https://www.bomcondutor.pt/questao/1807",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1807.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis."
+      },
+      {
+        "option": "B",
+        "text": "Todos os veículos com motor."
+      },
+      {
+        "option": "C",
+        "text": "Veículos sem motor."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1808",
+    "text": "Este sinal significa:",
+    "href": "https://www.bomcondutor.pt/questao/1808",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1808.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Paragem facultativa."
+      },
+      {
+        "option": "B",
+        "text": "Paragem obrigatória."
+      },
+      {
+        "option": "C",
+        "text": "Paragem proibida."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1809",
+    "text": "Este sinal vertical é de:",
+    "href": "https://www.bomcondutor.pt/questao/1809",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1809.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Cedência de passagem."
+      },
+      {
+        "option": "B",
+        "text": "Obrigação."
+      },
+      {
+        "option": "C",
+        "text": "Proibição."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1810",
+    "text": "Este sinal vertical indica que a ultrapassagem é proibida:",
+    "href": "https://www.bomcondutor.pt/questao/1810",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1810.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas para os automóveis pesados de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Apenas para os automóveis pesados de passageiros."
+      },
+      {
+        "option": "C",
+        "text": "Para todos os automóveis pesados."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1811",
+    "text": "Este sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1811",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1811.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que vou encontrar automóveis de mercadorias e veículos com reboque nesta via."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a automóveis de mercadorias e a veículos a motor com reboque."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a todos os automóveis pesados e a veículos a motor com reboque."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1812",
+    "text": "Este sinal vertical proíbe a ultrapassagem para:",
+    "href": "https://www.bomcondutor.pt/questao/1812",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1812.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Motociclos e ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "Todos os automóveis."
+      },
+      {
+        "option": "C",
+        "text": "Todos os veículos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1813",
+    "text": "Este sinal vertical serve para proibir o trânsito de:",
+    "href": "https://www.bomcondutor.pt/questao/1813",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1813.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis pesados com peso total inferior a 3,5 toneladas."
+      },
+      {
+        "option": "B",
+        "text": "Todos os veículos com altura superior à indicada no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Todos os veículos com peso total superior a 3,5 toneladas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1814",
+    "text": "Este sinal vertical significa:",
+    "href": "https://www.bomcondutor.pt/questao/1814",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1814.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Trânsito proibido a veículos de largura superior à indicada no sinal."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a veículos de peso por eixo superior a 3,5 t."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a veículos de peso total superior a 3,5 t."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1815",
+    "text": "Estes sinais de proibição destinam-se a limitar a velocidade:",
+    "href": "https://www.bomcondutor.pt/questao/1815",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1815.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Máxima, apenas nas duas vias de trânsito da esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Máxima, em todas as vias de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Mínima, em todas as vias de trânsito, excepto naquela em que circulo."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1816",
+    "text": "Estou autorizado a estacionar após o sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1816",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1816.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1817",
+    "text": "Face à sinalização da via, devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1817",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1817.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso exceder a velocidade de 80 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "Posso exceder a velocidade de 80 Km/h."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1818",
+    "text": "Face à sinalização existente neste local não poderei:",
+    "href": "https://www.bomcondutor.pt/questao/1818",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1818.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Inverter o sentido de marcha e ultrapassar."
+      },
+      {
+        "option": "B",
+        "text": "Inverter o sentido de marcha, mas posso ultrapassar."
+      },
+      {
+        "option": "C",
+        "text": "Ultrapassar, mas posso inverter o sentido de marcha."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1819",
+    "text": "Imediatamente após a passagem para peões, é proibido parar?",
+    "href": "https://www.bomcondutor.pt/questao/1819",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1819.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, devido à sinalização vertical."
+      },
+      {
+        "option": "C",
+        "text": "Sim, é proibido parar junto às passagens assinaladas para a travessia de peões."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1820",
+    "text": "Na presença deste sinal vertical apenas os automóveis pesados de mercadorias estão proibidos de ultrapassar.",
+    "href": "https://www.bomcondutor.pt/questao/1820",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1820.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1821",
+    "text": "Na via à minha direita é proibido o trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/1821",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1821.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A motociclos, peões e animais."
+      },
+      {
+        "option": "B",
+        "text": "A tractores agrícolas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1822",
+    "text": "Na via de trânsito onde circulo e quando a sinalização luminosa me permitir avançar, posso mudar de direcção à esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/1822",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1822.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, na via de trânsito onde me encontro, quando me for permitido avançar, não posso mudar de direcção à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a sinalização luminosa e vertical não proíbe a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1823",
+    "text": "Na via onde se encontra este sinal não podem circular:",
+    "href": "https://www.bomcondutor.pt/questao/1823",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1823.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis pesados de mercadorias com peso bruto superior a 3,5 toneladas."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados de mercadorias com peso total superior a 3,5 toneladas."
+      },
+      {
+        "option": "C",
+        "text": "Quaisquer veículos com peso total superior a 3,5 toneladas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1824",
+    "text": "Na via onde se encontra este sinal pode transitar um automóvel pesado de passageiros com 6.000 kg de tara?",
+    "href": "https://www.bomcondutor.pt/questao/1824",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1824.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1825",
+    "text": "Na via onde se encontra este sinal, só é permitido o trânsito de velocípedes.",
+    "href": "https://www.bomcondutor.pt/questao/1825",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1825.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1826",
+    "text": "Na via onde se encontra o sinal vertical os peões podem circular?",
+    "href": "https://www.bomcondutor.pt/questao/1826",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1826.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1827",
+    "text": "Na via onde se encontra o sinal vertical só é permitido:",
+    "href": "https://www.bomcondutor.pt/questao/1827",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1827.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A circulação de peões"
+      },
+      {
+        "option": "B",
+        "text": "A circulação de velocípedes e peões."
+      },
+      {
+        "option": "C",
+        "text": "Efectuar cargas e descargas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1828",
+    "text": "Na via onde se encontra o sinal vertical, só podem transitar veículos em sentido contrário ao meu.",
+    "href": "https://www.bomcondutor.pt/questao/1828",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1828.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1829",
+    "text": "Na via onde se encontra o sinal vertical:",
+    "href": "https://www.bomcondutor.pt/questao/1829",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1829.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas podem circular peões e velocípedes levados à mão."
+      },
+      {
+        "option": "B",
+        "text": "Apenas podem circular peões e velocípedes."
+      },
+      {
+        "option": "C",
+        "text": "Podem circular velocípedes e ciclomotores."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1830",
+    "text": "Na zona abrangida por este sinal, quais os veículos que podem estacionar?",
+    "href": "https://www.bomcondutor.pt/questao/1830",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1830.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Nenhuns."
+      },
+      {
+        "option": "B",
+        "text": "Só os táxis."
+      },
+      {
+        "option": "C",
+        "text": "Todos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1831",
+    "text": "Nesta situação, os veículos que atrelam um reboque:",
+    "href": "https://www.bomcondutor.pt/questao/1831",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1831.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não podem transitar."
+      },
+      {
+        "option": "B",
+        "text": "Podem transitar se o veículo tractor for um ligeiro."
+      },
+      {
+        "option": "C",
+        "text": "Podem transitar se o veículo tractor for um pesado."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1832",
+    "text": "Nesta via de trânsito é proibida a circulação de:",
+    "href": "https://www.bomcondutor.pt/questao/1832",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1832.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis de mercadorias e a veículos a motor com reboque."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis ligeiros de passageiros."
+      },
+      {
+        "option": "C",
+        "text": "Todos os automóveis pesados."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1833",
+    "text": "Nesta via é proibido o trânsito a automóveis pesados, independentemente da carga que transportarem.",
+    "href": "https://www.bomcondutor.pt/questao/1833",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1833.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1834",
+    "text": "Nesta zona, o sinal impõe a proibição de:",
+    "href": "https://www.bomcondutor.pt/questao/1834",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1834.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar para todos os veículos."
+      },
+      {
+        "option": "B",
+        "text": "Estacionar por mais de 5 minutos."
+      },
+      {
+        "option": "C",
+        "text": "Parar para todos os veículos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1835",
+    "text": "Neste entroncamento:",
+    "href": "https://www.bomcondutor.pt/questao/1835",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1835.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A paragem é obrigatória."
+      },
+      {
+        "option": "B",
+        "text": "Só é permitido mudar de direcção à direita."
+      },
+      {
+        "option": "C",
+        "text": "Só posso mudar de direcção à esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1836",
+    "text": "Neste local a manobra de ultrapassagem é proibida?",
+    "href": "https://www.bomcondutor.pt/questao/1836",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1836.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, desde que conduza um automóvel de passageiros."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a todos os automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas se for necessário pisar a marca rodoviária."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1837",
+    "text": "Neste local a ultrapassagem:",
+    "href": "https://www.bomcondutor.pt/questao/1837",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1837.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É permitida aos automóveis pesados."
+      },
+      {
+        "option": "B",
+        "text": "É proibida a qualquer veículo."
+      },
+      {
+        "option": "C",
+        "text": "É proibida apenas aos automóveis ligeiros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1838",
+    "text": "Neste local devo iniciar uma ultrapassagem?",
+    "href": "https://www.bomcondutor.pt/questao/1838",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1838.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, porque o sinal de proibição me impede de ultrapassar qualquer veículo."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque o sinal de proibição, está mais à frente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1839",
+    "text": "Neste local sou obrigado a mudar de direcção para a:",
+    "href": "https://www.bomcondutor.pt/questao/1839",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1839.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Direita."
+      },
+      {
+        "option": "B",
+        "text": "Esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1840",
+    "text": "Neste local, os automóveis pesados estão proibidos de ultrapassar:",
+    "href": "https://www.bomcondutor.pt/questao/1840",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1840.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Antes de passarem o sinal."
+      },
+      {
+        "option": "B",
+        "text": "Antes e depois de passarem o sinal."
+      },
+      {
+        "option": "C",
+        "text": "Depois de passarem o sinal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1841",
+    "text": "Neste local:",
+    "href": "https://www.bomcondutor.pt/questao/1841",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1841.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A manobra de inversão de sentido de marcha torna-se obrigatória."
+      },
+      {
+        "option": "B",
+        "text": "A manobra de mudança de direcção à esquerda é proibida."
+      },
+      {
+        "option": "C",
+        "text": "A paragem é obrigatória."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1842",
+    "text": "Neste local:",
+    "href": "https://www.bomcondutor.pt/questao/1842",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1842.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso transitar a 40 km/h."
+      },
+      {
+        "option": "B",
+        "text": "Posso transitar a 40 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Sou obrigado a circular a 40 km/h."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1843",
+    "text": "No entroncamento posso:",
+    "href": "https://www.bomcondutor.pt/questao/1843",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1843.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mudar de direcção à direita."
+      },
+      {
+        "option": "B",
+        "text": "Mudar de direcção à esquerda ou à direita."
+      },
+      {
+        "option": "C",
+        "text": "Mudar de direcção à esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1844",
+    "text": "O limite de velocidade aplica-se:",
+    "href": "https://www.bomcondutor.pt/questao/1844",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1844.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A toda a faixa de rodagem."
+      },
+      {
+        "option": "B",
+        "text": "Apenas na via de trânsito da direita."
+      },
+      {
+        "option": "C",
+        "text": "Apenas na via de trânsito da esquerda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1845",
+    "text": "O primeiro sinal vertical que se encontra à minha direita é de:",
+    "href": "https://www.bomcondutor.pt/questao/1845",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1845.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Informação válida para todas as vias."
+      },
+      {
+        "option": "B",
+        "text": "Paragem obrigatória à excepção da via da esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Selecção de vias."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1846",
+    "text": "O que indica este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1846",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1846.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da limitação de velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de ultrapassar."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de ultrapassar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1847",
+    "text": "O que indica o sinal de formato circular?",
+    "href": "https://www.bomcondutor.pt/questao/1847",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1847.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da proibição de utilizar sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de utilizar sinais sonoros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1848",
+    "text": "O que me indica o sinal de proibição?",
+    "href": "https://www.bomcondutor.pt/questao/1848",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1848.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A distância máxima a que posso transitar de outro veículo."
+      },
+      {
+        "option": "B",
+        "text": "A distância máxima entre veículos."
+      },
+      {
+        "option": "C",
+        "text": "A distância mínima a guardar em relação ao veículo que transite à minha frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1849",
+    "text": "O que me indica o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1849",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1849.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O fim da limitação de velocidade imposta por outro sinal."
+      },
+      {
+        "option": "B",
+        "text": "O fim da proibição de ultrapassar imposta por outro sinal."
+      },
+      {
+        "option": "C",
+        "text": "O fim de todas as proibições impostas por outros sinais, a veículos em marcha."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1850",
+    "text": "O que significa este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1850",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1850.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de limitação de velocidade de 40 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "Velocidade máxima permitida de 40 Km/h."
+      },
+      {
+        "option": "C",
+        "text": "Velocidade mínima obrigatória de 40 Km/h"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1851",
+    "text": "O que significa este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1851",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1851.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Paragem proibida além de 3 minutos e meio."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido aos veículos de altura total superior a 3,5 metros."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido aos veículos de largura superior a 3,5 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1852",
+    "text": "O que significa o sinal de proibição?",
+    "href": "https://www.bomcondutor.pt/questao/1852",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1852.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva perigosa à direita."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de ultrapassar somente para os automóveis ligeiros."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de ultrapassar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1853",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1853",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1853.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da limitação de velocidade."
+      },
+      {
+        "option": "B",
+        "text": "Fim da paragem ou estacionamento proibidos."
+      },
+      {
+        "option": "C",
+        "text": "Fim da proibição de ultrapassar."
+      },
+      {
+        "option": "D",
+        "text": "Fim de todas as proibições impostas anteriormente por sinalização a veículos em marcha."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1854",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1854",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1854.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Indicação de via em que o trânsito se faz apenas num sentido."
+      },
+      {
+        "option": "B",
+        "text": "Indicação de via sem saída para veículos."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de transitar em ambos os sentidos de trânsito."
+      },
+      {
+        "option": "D",
+        "text": "Proibição de transitar no sentido para o qual o sinal está orientado."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1855",
+    "text": "O que significa o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1855",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1855.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Acesso interdito a veículos com peso por eixo superior a 2,4t."
+      },
+      {
+        "option": "B",
+        "text": "Acesso interdito a veículos de peso bruto superior a 2,4t."
+      },
+      {
+        "option": "C",
+        "text": "Acesso interdito a veículos de tara superior a 2,4t."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1856",
+    "text": "O sinal à direita indica:",
+    "href": "https://www.bomcondutor.pt/questao/1856",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1856.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de proibição de parar e estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Início de uma zona de estacionamento condicionado."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de parar e estacionar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1857",
+    "text": "O sinal à direita significa que o trânsito é proibido a:",
+    "href": "https://www.bomcondutor.pt/questao/1857",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1857.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Veículos de peso bruto superior a 5,5 toneladas."
+      },
+      {
+        "option": "B",
+        "text": "Veículos de peso total inferior a 5,5 toneladas."
+      },
+      {
+        "option": "C",
+        "text": "Veículos de peso total superior a 5,5 toneladas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1858",
+    "text": "O sinal à direita significa trânsito proibido:",
+    "href": "https://www.bomcondutor.pt/questao/1858",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1858.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A veículos de peso por eixo superior a 5,5 toneladas."
+      },
+      {
+        "option": "B",
+        "text": "A veículos de peso total superior a 5,5 toneladas."
+      },
+      {
+        "option": "C",
+        "text": "A veículos pesados."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1859",
+    "text": "O sinal circular de fundo branco, indica:",
+    "href": "https://www.bomcondutor.pt/questao/1859",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1859.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Trânsito proibido a veículos pesados que transportem produtos inflamáveis ou explosivos."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a veículos que transportem produtos susceptíveis de poluírem as águas."
+      },
+      {
+        "option": "C",
+        "text": "Via obrigatória para veículos que transportem produtos inflamáveis."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1860",
+    "text": "O sinal circular indica:",
+    "href": "https://www.bomcondutor.pt/questao/1860",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1860.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da obrigação de usar sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de usar sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de usar sinais sonoros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1861",
+    "text": "O sinal circular indica:",
+    "href": "https://www.bomcondutor.pt/questao/1861",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1861.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da proibição de utilizar sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Proibição da utilização sinais sonoros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1862",
+    "text": "O sinal circular que se encontra nesta via indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1862",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1862.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da limitação de velocidade de 40 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de circular a velocidade inferior à indicada no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Que não posso circular a velocidade inferior à que está indicada no sinal."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1863",
+    "text": "O sinal dá indicação aos condutores de:",
+    "href": "https://www.bomcondutor.pt/questao/1863",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1863.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da paragem e estacionamento proibidos."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de ultrapassar."
+      },
+      {
+        "option": "C",
+        "text": "Fim de todas as proibições."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1864",
+    "text": "O sinal de fundo branco indica trânsito proibido a:",
+    "href": "https://www.bomcondutor.pt/questao/1864",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1864.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Todos os veículos pesados de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Veículos que transportam mercadorias perigosas."
+      },
+      {
+        "option": "C",
+        "text": "Veículos que transportam produtos susceptíveis de poluirem as águas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1865",
+    "text": "O sinal de fundo branco proíbe a circulação de todos os automóveis pesados excepto os de passageiros.",
+    "href": "https://www.bomcondutor.pt/questao/1865",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1865.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1866",
+    "text": "O sinal de proibição aplica-se a veículos:",
+    "href": "https://www.bomcondutor.pt/questao/1866",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1866.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De peso por eixo inferior a 5,5 toneladas."
+      },
+      {
+        "option": "B",
+        "text": "De peso total inferior a 5,5 toneladas."
+      },
+      {
+        "option": "C",
+        "text": "De peso total superior a 5,5 toneladas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1867",
+    "text": "O sinal de proibição destina-se a limitar a velocidade:",
+    "href": "https://www.bomcondutor.pt/questao/1867",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1867.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas na via de trânsito da direita."
+      },
+      {
+        "option": "B",
+        "text": "Em todas as vias de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Mínima em todas as vias de trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1868",
+    "text": "O sinal de proibição destina-se a proibir a manobra de ultrapassagem:",
+    "href": "https://www.bomcondutor.pt/questao/1868",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1868.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os automóveis pesados desde que destinados ao transporte de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "A todos os automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "A todos os veículos de mercadorias."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1869",
+    "text": "O sinal de proibição impede a circulação a:",
+    "href": "https://www.bomcondutor.pt/questao/1869",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1869.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Todos os veículos excepto de tracção animal e automóveis de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Veículos de tracção animal e automóveis de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Veículos de tracção animal na via da esquerda e automóveis de mercadorias na via mais à direita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1870",
+    "text": "O sinal de proibição indica acesso interdito a:",
+    "href": "https://www.bomcondutor.pt/questao/1870",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1870.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados e ligeiros de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Automóveis pesados."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1871",
+    "text": "O sinal de proibição indica que:",
+    "href": "https://www.bomcondutor.pt/questao/1871",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1871.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A manobra de inversão do sentido de marcha é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Não posso mudar de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Sou obrigado a mudar de direcção à direita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1872",
+    "text": "O sinal de proibição não permite a circulação de:",
+    "href": "https://www.bomcondutor.pt/questao/1872",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1872.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros e pesados de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Qualquer veículo ligeiro."
+      },
+      {
+        "option": "C",
+        "text": "Todos os automóveis pesados."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1873",
+    "text": "O sinal de proibição não permite ao condutor circular a:",
+    "href": "https://www.bomcondutor.pt/questao/1873",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1873.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Menos de 60 metros do veículo da frente."
+      },
+      {
+        "option": "B",
+        "text": "Velocidade inferior a 60 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Velocidade superior a 60 km/h."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1874",
+    "text": "O sinal de proibição permite o trânsito a veículos:",
+    "href": "https://www.bomcondutor.pt/questao/1874",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1874.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De altura superior a 5,5 metros."
+      },
+      {
+        "option": "B",
+        "text": "De peso por eixo superior a 5,5 toneladas."
+      },
+      {
+        "option": "C",
+        "text": "De peso total inferior a 5,5 toneladas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1875",
+    "text": "O sinal de proibição permite o trânsito a:",
+    "href": "https://www.bomcondutor.pt/questao/1875",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1875.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis e motociclos."
+      },
+      {
+        "option": "B",
+        "text": "Peões e ciclomotores."
+      },
+      {
+        "option": "C",
+        "text": "Peões e velocípedes conduzidos à mão."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1876",
+    "text": "O sinal existente na via indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1876",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1876.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da proibição de ultrapassar apenas para automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de ultrapassar para automóveis ligeiros e pesados."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de ultrapassar."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1877",
+    "text": "O sinal indica que o trânsito é proibido a veículos de:",
+    "href": "https://www.bomcondutor.pt/questao/1877",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1877.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Mercadorias de peso total inferior a 3,5 toneladas."
+      },
+      {
+        "option": "B",
+        "text": "Mercadorias de peso total superior a 3,5 toneladas."
+      },
+      {
+        "option": "C",
+        "text": "Passageiros de lotação superior a nove lugares."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1878",
+    "text": "O sinal indica que o trânsito é proibido a veículos:",
+    "href": "https://www.bomcondutor.pt/questao/1878",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1878.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "De mercadorias de peso total superior a 3,5 toneladas."
+      },
+      {
+        "option": "B",
+        "text": "De passageiros e mercadorias de peso total superior a 3,5 toneladas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1879",
+    "text": "O sinal indica que:",
+    "href": "https://www.bomcondutor.pt/questao/1879",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1879.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A velocidade está limitada a 60 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "Durante 60 Km a velocidade é controlada."
+      },
+      {
+        "option": "C",
+        "text": "Vou encontrar sinalização luminosa a 60 metros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1880",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1880",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1880.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionamento proibido."
+      },
+      {
+        "option": "B",
+        "text": "Sentido proibido."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1881",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1881",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1881.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Paragem obrigatória."
+      },
+      {
+        "option": "B",
+        "text": "Sentido proibido."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1882",
+    "text": "O sinal indica:",
+    "href": "https://www.bomcondutor.pt/questao/1882",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1882.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Local destinado à travessia de peões."
+      },
+      {
+        "option": "B",
+        "text": "Pista obrigatória para peões."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1883",
+    "text": "O sinal limita a velocidade:",
+    "href": "https://www.bomcondutor.pt/questao/1883",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1883.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Máxima."
+      },
+      {
+        "option": "B",
+        "text": "Mínima."
+      },
+      {
+        "option": "C",
+        "text": "Recomendada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1884",
+    "text": "O sinal limita a velocidade:",
+    "href": "https://www.bomcondutor.pt/questao/1884",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1884.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Máxima, mas apenas para os automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Máxima."
+      },
+      {
+        "option": "C",
+        "text": "Mínima."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1885",
+    "text": "O sinal proíbe o trânsito a veículos:",
+    "href": "https://www.bomcondutor.pt/questao/1885",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1885.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Com mais de 2 metros de altura."
+      },
+      {
+        "option": "B",
+        "text": "Com mais de 2 metros de comprimento."
+      },
+      {
+        "option": "C",
+        "text": "Com mais de 2 metros de largura."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1886",
+    "text": "O sinal proíbe o trânsito a:",
+    "href": "https://www.bomcondutor.pt/questao/1886",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1886.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1887",
+    "text": "O sinal proíbe o trânsito a:",
+    "href": "https://www.bomcondutor.pt/questao/1887",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1887.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis pesados de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Veículos com reboque."
+      },
+      {
+        "option": "C",
+        "text": "Veículos ou conjuntos de veículos de comprimento superior a 10 metros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1888",
+    "text": "O sinal proíbe o trânsito a:",
+    "href": "https://www.bomcondutor.pt/questao/1888",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1888.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Motociclos de cilindrada superior a 50 cc."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1889",
+    "text": "O sinal proíbe o trânsito a:",
+    "href": "https://www.bomcondutor.pt/questao/1889",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1889.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Veículos com reboque."
+      },
+      {
+        "option": "B",
+        "text": "Veículos de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Veículos pesados."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1890",
+    "text": "O sinal proíbe o trânsito a:",
+    "href": "https://www.bomcondutor.pt/questao/1890",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1890.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis pesados e a motociclos simples."
+      },
+      {
+        "option": "B",
+        "text": "Motociclos com carro lateral."
+      },
+      {
+        "option": "C",
+        "text": "Todos os motociclos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1891",
+    "text": "O sinal proíbe o trânsito aos automóveis de mercadorias?",
+    "href": "https://www.bomcondutor.pt/questao/1891",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1891.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sim, a todos os automóveis de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas aos automóveis ligeiros."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas aos automóveis pesados."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1892",
+    "text": "O sinal proíbe o trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/1892",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1892.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A qualquer automóvel com mais de 10 m de comprimento."
+      },
+      {
+        "option": "B",
+        "text": "Só a automóveis de mercadorias com mais de 10 m de comprimento."
+      },
+      {
+        "option": "C",
+        "text": "Só a automóveis de passageiros com mais de 10 m de comprimento."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1893",
+    "text": "O sinal proíbe o trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/1893",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1893.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "A veículos de duas rodas."
+      },
+      {
+        "option": "C",
+        "text": "Apenas a motociclos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1894",
+    "text": "O sinal proíbe o trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/1894",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1894.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos automóveis de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Aos pesados de mercadorias com a largura de 2 metros."
+      },
+      {
+        "option": "C",
+        "text": "Aos veículos que ultrapassem a largura de 2 metros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1895",
+    "text": "O sinal proíbe-me de:",
+    "href": "https://www.bomcondutor.pt/questao/1895",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1895.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Circular a 50 metros do veículo que segue à minha frente."
+      },
+      {
+        "option": "B",
+        "text": "Circular a 80 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Estacionar além de 70 minutos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1896",
+    "text": "O sinal proíbe:",
+    "href": "https://www.bomcondutor.pt/questao/1896",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1896.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A circulação a menos de 10 m do veículo da frente."
+      },
+      {
+        "option": "B",
+        "text": "O estacionamento a veículos de comprimento superior a 10 m."
+      },
+      {
+        "option": "C",
+        "text": "O trânsito a veículos com mais de 10 m de comprimento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1897",
+    "text": "O sinal proíbe:",
+    "href": "https://www.bomcondutor.pt/questao/1897",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1897.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A paragem e o estacionamento."
+      },
+      {
+        "option": "B",
+        "text": "A paragem, mas permite o estacionamento."
+      },
+      {
+        "option": "C",
+        "text": "O estacionamento, mas permite a paragem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1898",
+    "text": "O sinal proíbe:",
+    "href": "https://www.bomcondutor.pt/questao/1898",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1898.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O trânsito a mais de 70 Km/h."
+      },
+      {
+        "option": "B",
+        "text": "Uma distância entre veículos inferior a 70 metros."
+      },
+      {
+        "option": "C",
+        "text": "Uma distância entre veículos superior a 70 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1899",
+    "text": "O sinal que se encontra na via pública proíbe o trânsito a todos os veículos:",
+    "href": "https://www.bomcondutor.pt/questao/1899",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1899.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pesados."
+      },
+      {
+        "option": "B",
+        "text": "Que transportem mercadorias perigosas."
+      },
+      {
+        "option": "C",
+        "text": "Que transportem produtos susceptíveis de poluir as águas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1900",
+    "text": "O sinal que se encontra na via pública:",
+    "href": "https://www.bomcondutor.pt/questao/1900",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1900.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proíbe o trânsito a todos os veículos pesados."
+      },
+      {
+        "option": "B",
+        "text": "Proíbe o trânsito a veículos que transportem mercadorias perigosas."
+      },
+      {
+        "option": "C",
+        "text": "Proíbe o trânsito apenas a veículos ligeiros que transportem mercadorias perigosas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1901",
+    "text": "O sinal que se encontra nesta via pública indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1901",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1901.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pista obrigatória a veículos de tracção animal."
+      },
+      {
+        "option": "B",
+        "text": "Que podem ser encontrados veículos de tracção animal."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a veículos de tracção animal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1902",
+    "text": "O sinal que se encontra nesta via pública:",
+    "href": "https://www.bomcondutor.pt/questao/1902",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1902.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Indica o fim da proibição de parar ou estacionar."
+      },
+      {
+        "option": "B",
+        "text": "Proíbe a paragem e o estacionamento."
+      },
+      {
+        "option": "C",
+        "text": "Proibe o estacionamento."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1903",
+    "text": "O sinal vertical à minha frente proíbe-me de mudar de direcção à direita:",
+    "href": "https://www.bomcondutor.pt/questao/1903",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1903.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Até encontrar o respectivo sinal de fim da proibição."
+      },
+      {
+        "option": "B",
+        "text": "No próximo cruzamento."
+      },
+      {
+        "option": "C",
+        "text": "Nos próximos dois cruzamentos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1904",
+    "text": "O sinal vertical circular proíbe a ultrapassagem a:",
+    "href": "https://www.bomcondutor.pt/questao/1904",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1904.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados de passageiros."
+      },
+      {
+        "option": "C",
+        "text": "Motociclos."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1905",
+    "text": "O sinal vertical dá indicação aos condutores de:",
+    "href": "https://www.bomcondutor.pt/questao/1905",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1905.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Paragem e estacionamento proibidos."
+      },
+      {
+        "option": "B",
+        "text": "Que o trânsito se faz nos dois sentidos."
+      },
+      {
+        "option": "C",
+        "text": "Sentido proibido."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1906",
+    "text": "O sinal vertical dá-me indicação de:",
+    "href": "https://www.bomcondutor.pt/questao/1906",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1906.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de pista obrigatória para peões."
+      },
+      {
+        "option": "B",
+        "text": "Que vou encontrar uma pista obrigatória para peões."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1907",
+    "text": "O sinal vertical de forma circular proíbe-me de ultrapassar:",
+    "href": "https://www.bomcondutor.pt/questao/1907",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1907.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros e pesados."
+      },
+      {
+        "option": "B",
+        "text": "Motociclos de duas rodas sem carro lateral."
+      },
+      {
+        "option": "C",
+        "text": "Velocípedes de duas rodas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1908",
+    "text": "O sinal vertical de formato circular proíbe a ultrapassagem para:",
+    "href": "https://www.bomcondutor.pt/questao/1908",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1908.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Os automóveis ligeiros de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Os automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Todos os automóveis."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1909",
+    "text": "O sinal vertical de fundo branco indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1909",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1909.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Local especialmente destinado à passagem de peões."
+      },
+      {
+        "option": "B",
+        "text": "Pista obrigatória para peões."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a peões."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1910",
+    "text": "O sinal vertical de proibição indica aos condutores pista obrigatória para peões e velocípedes.",
+    "href": "https://www.bomcondutor.pt/questao/1910",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1910.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1911",
+    "text": "O sinal vertical destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/1911",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1911.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A qualquer veículo que transite no local."
+      },
+      {
+        "option": "B",
+        "text": "Apenas aos automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Apenas aos veículos em missão urgente."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1912",
+    "text": "O sinal vertical é de:",
+    "href": "https://www.bomcondutor.pt/questao/1912",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1912.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Indicação."
+      },
+      {
+        "option": "B",
+        "text": "Obrigação."
+      },
+      {
+        "option": "C",
+        "text": "Proibição."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1913",
+    "text": "O sinal vertical indica aos condutores:",
+    "href": "https://www.bomcondutor.pt/questao/1913",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1913.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de todas as proibições impostas anteriormente por sinalização a veículos em marcha."
+      },
+      {
+        "option": "B",
+        "text": "O local a partir do local termina a proibição de parar ou estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de parar ou estacionar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1914",
+    "text": "O sinal vertical indica fim de proibição de ultrapassar:",
+    "href": "https://www.bomcondutor.pt/questao/1914",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1914.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas para os automóveis pesados de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Apenas para os automóveis pesados de passageiros."
+      },
+      {
+        "option": "C",
+        "text": "Para os automóveis ligeiros de passageiros."
+      },
+      {
+        "option": "D",
+        "text": "Para todos os automóveis pesados."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1915",
+    "text": "O sinal vertical indica proibição de transitar:",
+    "href": "https://www.bomcondutor.pt/questao/1915",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1915.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os veículos."
+      },
+      {
+        "option": "B",
+        "text": "Só a automóveis."
+      },
+      {
+        "option": "C",
+        "text": "Só a veículos com motor."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1916",
+    "text": "O sinal vertical indica trânsito proibido:",
+    "href": "https://www.bomcondutor.pt/questao/1916",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1916.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os automóveis de mercadorias cujo peso total seja superior a 3,5 toneladas."
+      },
+      {
+        "option": "B",
+        "text": "Aos automóveis pesados de peso por eixo superior a 3,5 toneladas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1917",
+    "text": "O sinal vertical indica-me que o acesso é interdito a animais com condutor.",
+    "href": "https://www.bomcondutor.pt/questao/1917",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1917.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1918",
+    "text": "O sinal vertical indica-me que o acesso é interdito a:",
+    "href": "https://www.bomcondutor.pt/questao/1918",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1918.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Animais sem condutor."
+      },
+      {
+        "option": "B",
+        "text": "Carros conduzidos à mão."
+      },
+      {
+        "option": "C",
+        "text": "Veículos agrícolas."
+      },
+      {
+        "option": "D",
+        "text": "Veículos de tracção animal."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1919",
+    "text": "O sinal vertical indica-me que o trânsito passa a ser proibido a:",
+    "href": "https://www.bomcondutor.pt/questao/1919",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1919.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "Motociclos simples."
+      },
+      {
+        "option": "C",
+        "text": "Triciclos e quadriciclos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1920",
+    "text": "O sinal vertical indica-me trânsito proibido a:",
+    "href": "https://www.bomcondutor.pt/questao/1920",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1920.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis de mercadorias e veículos a motor com reboque."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis de mercadorias e veículos de tracção animal."
+      },
+      {
+        "option": "C",
+        "text": "Veículos com reboque."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1921",
+    "text": "O sinal vertical indica-me trânsito proibido:",
+    "href": "https://www.bomcondutor.pt/questao/1921",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1921.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A automóveis de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Apenas a automóveis ligeiros de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Apenas a automóveis pesados de mercadorias."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1922",
+    "text": "O sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1922",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1922.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proximidade de uma pista especial para veículos agrícolas."
+      },
+      {
+        "option": "B",
+        "text": "Que devo moderar a velocidade devido à possibilidade de encontrar veículos agrícolas nesta via."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a veículos agrícolas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1923",
+    "text": "O sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1923",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1923.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Que se trata de uma via de sentido reversível."
+      },
+      {
+        "option": "B",
+        "text": "Sentido proibido."
+      },
+      {
+        "option": "C",
+        "text": "Via de trânsito afecta, alternadamente, a um ou outro dos sentidos de trânsito."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1924",
+    "text": "O sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1924",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1924.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de todas as proibições."
+      },
+      {
+        "option": "B",
+        "text": "Sentido proibido."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1925",
+    "text": "O sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1925",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1925.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pista obrigatória para velocípedes."
+      },
+      {
+        "option": "B",
+        "text": "Que posso encontrar ciclomotores a circular nesta via pública."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a ciclomotores."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1926",
+    "text": "O sinal vertical indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1926",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1926.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Proibição de ultrapassar para automóveis pesados."
+      },
+      {
+        "option": "B",
+        "text": "Que não posso ultrapassar automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a pesados de mercadorias."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1927",
+    "text": "O sinal vertical indica:",
+    "href": "https://www.bomcondutor.pt/questao/1927",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1927.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sentido proibido."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido apenas a veículos com motor."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1928",
+    "text": "O sinal vertical indica:",
+    "href": "https://www.bomcondutor.pt/questao/1928",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1928.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O fim de todas as proibições impostas até ao momento."
+      },
+      {
+        "option": "B",
+        "text": "O fim de todas as proibições, impostas por sinalização, referentes a paragem e estacionamento."
+      },
+      {
+        "option": "C",
+        "text": "O início de todas as proibições referentes a paragem e estacionamento."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1929",
+    "text": "O sinal vertical permite circular à velocidade de 40 km/h?",
+    "href": "https://www.bomcondutor.pt/questao/1929",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1929.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, uma vez que dentro das localidades o limite de velocidade é de 50 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Sim, visto que 30 km/h é apenas a velocidade recomendada."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1930",
+    "text": "O sinal vertical permite-me entrar nesta via pública?",
+    "href": "https://www.bomcondutor.pt/questao/1930",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1930.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o sinal indica trânsito proibido."
+      },
+      {
+        "option": "B",
+        "text": "Sim, se o comprimento do meu veículo for igual ou superior ao indicado no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se o comprimento do meu veículo for inferior ou igual ao indicado no sinal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1931",
+    "text": "O sinal vertical proíbe o trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/1931",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1931.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A todos os veículos com reboque."
+      },
+      {
+        "option": "B",
+        "text": "A veículos com reboque de dois ou mais eixos."
+      },
+      {
+        "option": "C",
+        "text": "Apenas a veículos ligeiros com reboque."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1932",
+    "text": "O sinal vertical proíbe o trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/1932",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1932.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos veículos que ultrapassem as 20 toneladas de peso total."
+      },
+      {
+        "option": "B",
+        "text": "Apenas aos veículos de mercadorias que ultrapassem o peso indicado no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Apenas aos veículos que ultrapassem as 20 toneladas de peso bruto."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1933",
+    "text": "O sinal vertical que se encontra na via pública indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1933",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1933.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Trânsito proibido a carros de mão."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a cavaleiros."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a veículos de tracção animal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1934",
+    "text": "O sinal vertical que se encontra na via pública indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1934",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1934.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Sentido proibido apenas a veículos automóveis."
+      },
+      {
+        "option": "B",
+        "text": "Sentido proibido."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a veículos pesados."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1935",
+    "text": "O sinal vertical que se encontra nesta via indica-me:",
+    "href": "https://www.bomcondutor.pt/questao/1935",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1935.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Paragem e estacionamento proibidos."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de parar ou estacionar, apenas para veículos pesados."
+      },
+      {
+        "option": "C",
+        "text": "Unicamente estacionamento proibido."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1936",
+    "text": "O sinal vertical significa que:",
+    "href": "https://www.bomcondutor.pt/questao/1936",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1936.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Os ciclomotores não podem ultrapassar."
+      },
+      {
+        "option": "B",
+        "text": "Os veículos de duas rodas devem circular na via da esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Os veículos de duas rodas só podem ultrapassar automóveis ligeiros."
+      },
+      {
+        "option": "D",
+        "text": "Os velocípedes não podem ultrapassar automóveis ligeiros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1937",
+    "text": "O sinal vertical significa que:",
+    "href": "https://www.bomcondutor.pt/questao/1937",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1937.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas os automóveis ligeiros não podem ultrapassar outros automóveis."
+      },
+      {
+        "option": "B",
+        "text": "Não posso ultrapassar automóveis."
+      },
+      {
+        "option": "C",
+        "text": "Não posso ultrapassar veículos de duas rodas sem carro lateral."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1938",
+    "text": "O sinal vertical significa:",
+    "href": "https://www.bomcondutor.pt/questao/1938",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1938.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Intensidade de trânsito proibindo os veículos de transitar a uma distância superior a 70 metros uns dos outros."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de transitar a uma distância inferior a 70 metros do veículo da frente."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de ultrapassar numa extensão de 70 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1939",
+    "text": "O sinal vertical significa:",
+    "href": "https://www.bomcondutor.pt/questao/1939",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1939.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Trânsito proibido a motociclos."
+      },
+      {
+        "option": "B",
+        "text": "Trânsito proibido a velocípedes."
+      },
+      {
+        "option": "C",
+        "text": "Via obrigatória para motociclos."
+      },
+      {
+        "option": "D",
+        "text": "Via obrigatória para velocípedes."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1940",
+    "text": "O trânsito de veículos é proibido, em ambos os sentidos, na via em que o sinal vertical se encontra colocado.",
+    "href": "https://www.bomcondutor.pt/questao/1940",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1940.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1941",
+    "text": "O trânsito é proibido aos veículos com mais de 10 m de:",
+    "href": "https://www.bomcondutor.pt/questao/1941",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1941.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Altura."
+      },
+      {
+        "option": "B",
+        "text": "Comprimento."
+      },
+      {
+        "option": "C",
+        "text": "Largura."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1942",
+    "text": "O veículo que transita à minha frente, se respeitar a sinalização, circula:",
+    "href": "https://www.bomcondutor.pt/questao/1942",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1942.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A uma velocidade moderada."
+      },
+      {
+        "option": "B",
+        "text": "A uma velocidade superior a 10 km/h, para não embaraçar o trânsito."
+      },
+      {
+        "option": "C",
+        "text": "À velocidade que considerar adequada, porque o sinal apenas recomenda."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1943",
+    "text": "Os automóveis ligeiros podem ultrapassar?",
+    "href": "https://www.bomcondutor.pt/questao/1943",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1943.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, as marcas rodoviárias não o permitem."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que ocupem a metade esquerda da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Sim, porque a sinalização vertical apenas proíbe os motociclos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1944",
+    "text": "Os automóveis pesados de mercadorias com um peso total de 5 toneladas estão proibidos de circular na via em que o sinal se encontra colocado.",
+    "href": "https://www.bomcondutor.pt/questao/1944",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1944.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1945",
+    "text": "Os ciclistas à minha frente entraram numa via em que o trânsito é proibido a todos os veículos de duas rodas com motor.",
+    "href": "https://www.bomcondutor.pt/questao/1945",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1945.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1946",
+    "text": "Os motociclos podem circular na presença deste sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/1946",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1946.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o acesso é interdito a todos os motociclos."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que sejam motociclos com carro."
+      },
+      {
+        "option": "C",
+        "text": "Sim, desde que sejam motociclos simples."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1947",
+    "text": "Os sinais de proibição indicam, que a manobra de ultrapassagem, até ao local, era:",
+    "href": "https://www.bomcondutor.pt/questao/1947",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1947.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Permitida apenas aos veículos pesados."
+      },
+      {
+        "option": "B",
+        "text": "Proibida apenas para os veículos ligeiros."
+      },
+      {
+        "option": "C",
+        "text": "Proibida, para todos os veículos com motor."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1948",
+    "text": "Os sinais verticais que se encontram nesta via pública proíbem a ultrapassagem apenas a veículos automóveis ligeiros de passageiros. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/1948",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1948.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1949",
+    "text": "Os veículos pesados de mercadorias com reboque de apenas um eixo estão impedidos de circular após o sinal de proibição?",
+    "href": "https://www.bomcondutor.pt/questao/1949",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1949.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1950",
+    "text": "Os veículos pesados podem seguir em frente?",
+    "href": "https://www.bomcondutor.pt/questao/1950",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1950.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, se a altura do veículo for inferior a 3,5 metros."
+      },
+      {
+        "option": "B",
+        "text": "Não, se transportarem matérias perigosas."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se transportarem matérias perigosas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1951",
+    "text": "Perante a sinalização a distância entre veículos em marcha:",
+    "href": "https://www.bomcondutor.pt/questao/1951",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1951.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não pode ser igual a 70 metros."
+      },
+      {
+        "option": "B",
+        "text": "Não pode ser inferior a 70 metros."
+      },
+      {
+        "option": "C",
+        "text": "Não pode ultrapassar 70 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1952",
+    "text": "Perante a sinalização de proibição devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1952",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1952.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas é permitido o trânsito a automóveis de mercadorias e a veículos de tracção animal."
+      },
+      {
+        "option": "B",
+        "text": "É proibido o trânsito a automóveis de mercadorias e a veículos de tracção animal."
+      },
+      {
+        "option": "C",
+        "text": "Estou obrigado a circular com precaução e apenas na via de trânsito mais à direita."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1953",
+    "text": "Perante a sinalização devo:",
+    "href": "https://www.bomcondutor.pt/questao/1953",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1953.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar sem ceder a passagem."
+      },
+      {
+        "option": "B",
+        "text": "Ceder a passagem e mudar de direcção à esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Ceder a passagem."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1954",
+    "text": "Perante a sinalização existente da via, posso mudar de direcção para a esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/1954",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1954.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o sinal de proibição impede-me de efectuar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a marca rodoviária permite-me efectuar a manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1955",
+    "text": "Perante a sinalização existente estou proibido de exceder a velocidade máxima de 50 km/h na via de trânsito onde circulo.",
+    "href": "https://www.bomcondutor.pt/questao/1955",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1955.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A afirmação é falsa."
+      },
+      {
+        "option": "B",
+        "text": "A afirmação é verdadeira."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1956",
+    "text": "Perante a sinalização existente, devo saber que, na via à minha direita, podem circular:",
+    "href": "https://www.bomcondutor.pt/questao/1956",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1956.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "Motociclos de cilindrada inferior a 50 cm3."
+      },
+      {
+        "option": "C",
+        "text": "Motociclos de cilindrada superior a 50 cm3."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1957",
+    "text": "Perante a sinalização não podem transitar:",
+    "href": "https://www.bomcondutor.pt/questao/1957",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1957.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Quadriciclos."
+      },
+      {
+        "option": "B",
+        "text": "Triciclos."
+      },
+      {
+        "option": "C",
+        "text": "Veículos de duas rodas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1958",
+    "text": "Perante a sinalização os ciclomotores:",
+    "href": "https://www.bomcondutor.pt/questao/1958",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1958.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não podem ultrapassar."
+      },
+      {
+        "option": "B",
+        "text": "Podem ultrapassar, desde que na metade direita da faixa de rodagem."
+      },
+      {
+        "option": "C",
+        "text": "Podem ultrapassar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1959",
+    "text": "Perante a sinalização podem transitar:",
+    "href": "https://www.bomcondutor.pt/questao/1959",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1959.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Automóveis pesados de passageiros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1960",
+    "text": "Perante a sinalização qual destes veículos está proibido de transitar?",
+    "href": "https://www.bomcondutor.pt/questao/1960",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1960.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ciclomotor."
+      },
+      {
+        "option": "B",
+        "text": "Motociclo com carro lateral."
+      },
+      {
+        "option": "C",
+        "text": "Motociclo simples."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1961",
+    "text": "Perante a sinalização vertical devo saber que é proibida a circulação de veículos com:",
+    "href": "https://www.bomcondutor.pt/questao/1961",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1961.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Altura superior a 2 metros."
+      },
+      {
+        "option": "B",
+        "text": "Largura superior a 2 metros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1962",
+    "text": "Perante a sinalização vertical estão proibidos de ultrapassar:",
+    "href": "https://www.bomcondutor.pt/questao/1962",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1962.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Ciclomotores e automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Motociclos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1963",
+    "text": "Perante a sinalização, a realização da manobra de ultrapassagem é proibida, aos condutores de:",
+    "href": "https://www.bomcondutor.pt/questao/1963",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1963.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Qualquer veículo."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1964",
+    "text": "Perante a sinalização, devo:",
+    "href": "https://www.bomcondutor.pt/questao/1964",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1964.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar, para não provocar embaraço no trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Parar, porque me aproximo de uma portagem."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1965",
+    "text": "Perante a sinalização, estão proibidos de realizar a manobra de ultrapassagem a outros automóveis:",
+    "href": "https://www.bomcondutor.pt/questao/1965",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1965.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas os automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Apenas os veículos de duas rodas."
+      },
+      {
+        "option": "C",
+        "text": "Todos os automóveis pesados."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1966",
+    "text": "Perante a sinalização, estão proibidos de realizar a manobra de ultrapassagem:",
+    "href": "https://www.bomcondutor.pt/questao/1966",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1966.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas os automóveis ligeiros, excepto para ultrapassar veículos de duas rodas."
+      },
+      {
+        "option": "B",
+        "text": "Apenas os automóveis pesados, excepto para ultrapassar veículos de duas rodas."
+      },
+      {
+        "option": "C",
+        "text": "Todos os automóveis, excepto para ultrapassar veículos de duas rodas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1967",
+    "text": "Perante a sinalização, o trânsito é proibido a todos os veículos de mercadorias.",
+    "href": "https://www.bomcondutor.pt/questao/1967",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1967.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Certo."
+      },
+      {
+        "option": "B",
+        "text": "Errado."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1968",
+    "text": "Perante a sinalização, os condutores de veículos pesados:",
+    "href": "https://www.bomcondutor.pt/questao/1968",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1968.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estão proibidos de mudar de direcção."
+      },
+      {
+        "option": "B",
+        "text": "São obrigados a mudar de direcção à direita."
+      },
+      {
+        "option": "C",
+        "text": "São obrigados a seguir em frente."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1969",
+    "text": "Perante a sinalização, podem transitar:",
+    "href": "https://www.bomcondutor.pt/questao/1969",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1969.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Ciclomotores."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1970",
+    "text": "Perante a sinalização, um veículo que transporte matérias perigosas, pode seguir em frente?",
+    "href": "https://www.bomcondutor.pt/questao/1970",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1970.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, mas apenas se ultrapassar a altura de 3,5 metros."
+      },
+      {
+        "option": "B",
+        "text": "Não."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se for um ligeiro."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1971",
+    "text": "Perante a sinalização:",
+    "href": "https://www.bomcondutor.pt/questao/1971",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1971.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "O trânsito é proibido a todos os veículos de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "O trânsito é proibido a todos os veículos pesados."
+      },
+      {
+        "option": "C",
+        "text": "O trânsito é proibido, apenas aos veículos pesados que transitarem a uma velocidade superior a 60 Km/h."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1972",
+    "text": "Perante a sinalização:",
+    "href": "https://www.bomcondutor.pt/questao/1972",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1972.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A mudança de direcção é obrigatória."
+      },
+      {
+        "option": "B",
+        "text": "É proibido mudar de direcção à esquerda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1973",
+    "text": "Perante a sinalização:",
+    "href": "https://www.bomcondutor.pt/questao/1973",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1973.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não posso utilizar os sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Posso utilizar os sinais sonoros, enquanto circular dentro da localidade."
+      },
+      {
+        "option": "C",
+        "text": "Posso utilizar os sinais sonoros."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1974",
+    "text": "Perante a sinalização:",
+    "href": "https://www.bomcondutor.pt/questao/1974",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1974.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A manobra de ultrapassagem é obrigatória."
+      },
+      {
+        "option": "B",
+        "text": "Devo ultrapassar rapidamente."
+      },
+      {
+        "option": "C",
+        "text": "É permitido ultrapassar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1975",
+    "text": "Perante a sinalização:",
+    "href": "https://www.bomcondutor.pt/questao/1975",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1975.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não podem transitar automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Os acessos são condicionados."
+      },
+      {
+        "option": "C",
+        "text": "Sei que vou entrar numa auto-estrada."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1976",
+    "text": "Perante a sinalização:",
+    "href": "https://www.bomcondutor.pt/questao/1976",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1976.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo transitar a uma velocidade mínima de 40 km/h."
+      },
+      {
+        "option": "B",
+        "text": "Não posso transitar a 40 Km/h."
+      },
+      {
+        "option": "C",
+        "text": "Posso transitar a 40 km/h."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1977",
+    "text": "Perante esta sinalização vertical, devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1977",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1977.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estou obrigado a seguir em frente."
+      },
+      {
+        "option": "B",
+        "text": "Estou proibido de circular a velocidade superior à do sinal."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1978",
+    "text": "Perante esta situação, como devo proceder?",
+    "href": "https://www.bomcondutor.pt/questao/1978",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1978.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Devo parar."
+      },
+      {
+        "option": "B",
+        "text": "Devo transitar com muita precaução."
+      },
+      {
+        "option": "C",
+        "text": "Devo utilizar os sinais sonoros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1979",
+    "text": "Perante este sinal devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1979",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1979.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Dentro das localidades é sempre proibida a utilização de sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "É proibida a utilização de sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Só é permitida a utilização de sinais sonoros fora das localidades."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1980",
+    "text": "Perante este sinal devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1980",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1980.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estou obrigado a utilizar os sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de utilizar sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Terminou a obrigação de utilizar sinais sonoros."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1981",
+    "text": "Perante este sinal fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1981",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1981.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É proibido o uso de sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "É proibido ultrapassar sem buzinar."
+      },
+      {
+        "option": "C",
+        "text": "Terminou a proibição do uso de sinais sonoros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1982",
+    "text": "Perante este sinal que veículos podem ter acesso ao Parque?",
+    "href": "https://www.bomcondutor.pt/questao/1982",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1982.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis e ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "Motociclos simples."
+      },
+      {
+        "option": "C",
+        "text": "Todos os veículos de duas rodas."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1983",
+    "text": "Perante este sinal um motociclista:",
+    "href": "https://www.bomcondutor.pt/questao/1983",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1983.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não pode ultrapassar apenas automóveis ligeiros."
+      },
+      {
+        "option": "B",
+        "text": "Não pode ultrapassar."
+      },
+      {
+        "option": "C",
+        "text": "Não pode utilizar a via de trânsito onde circulem automóveis."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1984",
+    "text": "Perante este sinal vertical o acesso é interdito a:",
+    "href": "https://www.bomcondutor.pt/questao/1984",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1984.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "Motociclos simples."
+      },
+      {
+        "option": "C",
+        "text": "Todos os veículos de duas rodas."
+      },
+      {
+        "option": "D",
+        "text": "Velocípedes."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1985",
+    "text": "Perante este sinal vertical podem circular:",
+    "href": "https://www.bomcondutor.pt/questao/1985",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1985.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros e velocípedes."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados de passageiros e de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Motociclos simples e com carro lateral."
+      },
+      {
+        "option": "D",
+        "text": "Veículos de tracção animal."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1986",
+    "text": "Perante este sinal vertical posso ultrapassar algum tipo de veículos?",
+    "href": "https://www.bomcondutor.pt/questao/1986",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1986.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a ultrapassagem é sempre proibida seja qual for o veículo."
+      },
+      {
+        "option": "B",
+        "text": "Sim, mas apenas automóveis ligeiros."
+      },
+      {
+        "option": "C",
+        "text": "Sim, mas apenas veículos de duas rodas."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1987",
+    "text": "Perante este sinal vertical sei que é proibida a ultrapassagem:",
+    "href": "https://www.bomcondutor.pt/questao/1987",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1987.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas para os automóveis pesados de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "Apenas para os automóveis pesados de passageiros."
+      },
+      {
+        "option": "C",
+        "text": "Para todos os automóveis pesados de mercadorias ou de passageiros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1988",
+    "text": "Perante este sinal vertical sei que não podem circular nesta via:",
+    "href": "https://www.bomcondutor.pt/questao/1988",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1988.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ciclomotores."
+      },
+      {
+        "option": "B",
+        "text": "Motociclos."
+      },
+      {
+        "option": "C",
+        "text": "Velocípedes."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1989",
+    "text": "Perante o sinal de proibição não podem transitar automóveis com:",
+    "href": "https://www.bomcondutor.pt/questao/1989",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1989.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Altura superior à indicada no sinal."
+      },
+      {
+        "option": "B",
+        "text": "Largura indicada no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Largura superior à indicada no sinal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1990",
+    "text": "Perante o sinal de proibição não posso:",
+    "href": "https://www.bomcondutor.pt/questao/1990",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1990.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fazer sinais de luzes e utilizar os sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "Fazer sinais de luzes."
+      },
+      {
+        "option": "C",
+        "text": "Utilizar os sinais sonoros"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1991",
+    "text": "Perante o sinal de proibição, é permitido:",
+    "href": "https://www.bomcondutor.pt/questao/1991",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1991.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionar por breves instantes."
+      },
+      {
+        "option": "B",
+        "text": "Imobilizar o veículo caso exista congestionamento de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Parar para cargas e descargas."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1992",
+    "text": "Perante o sinal não podem transitar:",
+    "href": "https://www.bomcondutor.pt/questao/1992",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1992.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis ligeiros de passageiros com reboque."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis pesados de mercadorias."
+      },
+      {
+        "option": "C",
+        "text": "Automóveis pesados."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1993",
+    "text": "Perante o sinal que se encontra na via, devo saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1993",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1993.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É proibido estacionar após o sinal."
+      },
+      {
+        "option": "B",
+        "text": "É proibido mudar de direcção à direita."
+      },
+      {
+        "option": "C",
+        "text": "É proibido o trânsito a veículos pesados de mercadorias."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1994",
+    "text": "Perante o sinal vertical não podem transitar:",
+    "href": "https://www.bomcondutor.pt/questao/1994",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1994.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Automóveis com a largura de 2,10 metros."
+      },
+      {
+        "option": "B",
+        "text": "Automóveis com a largura indicada no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Automóveis pesados."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1995",
+    "text": "Perante o sinal vertical, fico a saber que:",
+    "href": "https://www.bomcondutor.pt/questao/1995",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1995.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É proibido o trânsito, a automóveis de mercadorias."
+      },
+      {
+        "option": "B",
+        "text": "É proibido o trânsito, a automóveis pesados."
+      },
+      {
+        "option": "C",
+        "text": "Se trata de uma via obrigatória para automóveis de mercadorias."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1996",
+    "text": "Perante o sinal vertical:",
+    "href": "https://www.bomcondutor.pt/questao/1996",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1996.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "É permitida a utilização dos sinais sonoros."
+      },
+      {
+        "option": "B",
+        "text": "É proibida a utilização dos sinais luminosos."
+      },
+      {
+        "option": "C",
+        "text": "É proibida a utilização dos sinais sonoros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1997",
+    "text": "Perante os sinais de regulamentação devo:",
+    "href": "https://www.bomcondutor.pt/questao/1997",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1997.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ceder a passagem."
+      },
+      {
+        "option": "B",
+        "text": "Parar e mudar de direcção."
+      },
+      {
+        "option": "C",
+        "text": "Seguir em frente e parar."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1998",
+    "text": "Posso efectuar a manobra de inversão do sentido de marcha após o sinal?",
+    "href": "https://www.bomcondutor.pt/questao/1998",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1998.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1999",
+    "text": "Posso efectuar a manobra de ultrapassagem posicionado nesta via de trânsito?",
+    "href": "https://www.bomcondutor.pt/questao/1999",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/1999.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a manobra é permitida."
+      },
+      {
+        "option": "C",
+        "text": "Sim, excepto para veículos pesados."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2000",
+    "text": "Posso entrar nesta via pública?",
+    "href": "https://www.bomcondutor.pt/questao/2000",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2000.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o sinal indica trânsito proibido a todos os veículos."
+      },
+      {
+        "option": "B",
+        "text": "Sim, o sinal indica o início de uma zona em que terminam todas as proibições anteriormente impostas."
+      },
+      {
+        "option": "C",
+        "text": "Sim, o sinal não proíbe o trânsito de quaisquer veículos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2001",
+    "text": "Posso entrar nesta via pública?",
+    "href": "https://www.bomcondutor.pt/questao/2001",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2001.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o sinal indica trânsito proibido a todos os veículos a motor."
+      },
+      {
+        "option": "B",
+        "text": "Sim, o sinal permite o trânsito a veículos cujo comprimento seja superior ao indicado no sinal."
+      },
+      {
+        "option": "C",
+        "text": "Sim, se circular com um veículo cujo comprimento seja inferior ao indicado no sinal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2002",
+    "text": "Posso inverter o sentido de marcha atendendo à sinalização vertical?",
+    "href": "https://www.bomcondutor.pt/questao/2002",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2002.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a manobra é proibida."
+      },
+      {
+        "option": "B",
+        "text": "Não, sou obrigado a mudar de direcção à direita."
+      },
+      {
+        "option": "C",
+        "text": "Sim, já que a largura da via é apropriada à realização da manobra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2003",
+    "text": "Posso mudar de direcção para a esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2003",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2003.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, a indicação resultante do sinal vertical prevalece sobre a marca rodoviária."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a indicação resultante da marca rodoviária prevalece sobre o sinal vertical."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2004",
+    "text": "Posso mudar de direcção para a esquerda?",
+    "href": "https://www.bomcondutor.pt/questao/2004",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2004.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não, o sinal vertical de fundo branco impede-me de efectuar a manobra."
+      },
+      {
+        "option": "B",
+        "text": "Sim, a linha descontínua à minha esquerda permite-me efectuar a manobra."
+      },
+      {
+        "option": "C",
+        "text": "Sim, devendo aproximar-me, com a necessária antecedência e o mais possível, do limite esquerdo do eixo da faixa de rodagem."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2005",
+    "text": "Pretendo seguir a direcção “Sacavém”. Que velocidade devo adoptar após os sinais de regulamentação?",
+    "href": "https://www.bomcondutor.pt/questao/2005",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2005.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Igual ou inferior a 100 km/h."
+      },
+      {
+        "option": "B",
+        "text": "Igual ou inferior a 120 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Igual ou inferior a 50 km/h."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2006",
+    "text": "Quais os veículos que estão proibidos de ultrapassar?",
+    "href": "https://www.bomcondutor.pt/questao/2006",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2006.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas os pesados."
+      },
+      {
+        "option": "B",
+        "text": "Apenas os veículos de quatro rodas."
+      },
+      {
+        "option": "C",
+        "text": "Todos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2007",
+    "text": "Qual a indicação dada por este sinal?",
+    "href": "https://www.bomcondutor.pt/questao/2007",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2007.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Estacionamento proibido."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de parar."
+      },
+      {
+        "option": "C",
+        "text": "Paragem e estacionamento proibidos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2008",
+    "text": "Qual a indicação que este sinal vertical dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/2008",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2008.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Indica a velocidade máxima a que os condutores são aconselhados a circular."
+      },
+      {
+        "option": "B",
+        "text": "Indica o local a partir do qual é permitido circular a velocidade superior a 40 Km/h."
+      },
+      {
+        "option": "C",
+        "text": "Que transitam fora de uma localidade e que devem circular a uma velocidade superior a 40 Km/h."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2009",
+    "text": "Qual a indicação que o sinal de proibição dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/2009",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2009.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Pista especial para peões e velocípedes."
+      },
+      {
+        "option": "B",
+        "text": "Pista obrigatória para peões e velocípedes."
+      },
+      {
+        "option": "C",
+        "text": "Trânsito proibido a automóveis e motociclos."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2010",
+    "text": "Qual a indicação que o sinal vertical dá aos condutores que circulam nesta via pública?",
+    "href": "https://www.bomcondutor.pt/questao/2010",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2010.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim de trânsito proibido."
+      },
+      {
+        "option": "B",
+        "text": "O local a partir do qual terminam todas as proibições anteriormente impostas por sinalização de veículos em marcha."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de efectuar a manobra de ultrapassagem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2011",
+    "text": "Qual a indicação que o sinal vertical dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/2011",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2011.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Zona em que é proibido o trânsito a todos os veículos."
+      },
+      {
+        "option": "B",
+        "text": "Zona em que é proibido parar e estacionar."
+      },
+      {
+        "option": "C",
+        "text": "Zona em que passa a ser permitido o trânsito de veículos."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2012",
+    "text": "Qual a indicação que o sinal vertical dá aos condutores?",
+    "href": "https://www.bomcondutor.pt/questao/2012",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2012.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A extensão do troço com duas vias de trânsito no mesmo sentido."
+      },
+      {
+        "option": "B",
+        "text": "Que a 70 metros vão encontrar uma via em que o trânsito se encontra proibido."
+      },
+      {
+        "option": "C",
+        "text": "Que não podem transitar a menos de 70 metros do veículo da frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2013",
+    "text": "Qual destes veículos está sempre proibido de transitar para além do sinal de regulamentação?",
+    "href": "https://www.bomcondutor.pt/questao/2013",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2013.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um automóvel com 20 toneladas de peso bruto."
+      },
+      {
+        "option": "B",
+        "text": "Um automóvel pesado com 25 toneladas de peso total."
+      },
+      {
+        "option": "C",
+        "text": "Um automóvel pesado de mercadorias de 20 toneladas de peso bruto."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2014",
+    "text": "Qual destes veículos pode transitar para além do sinal?",
+    "href": "https://www.bomcondutor.pt/questao/2014",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2014.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Um motociclo simples."
+      },
+      {
+        "option": "B",
+        "text": "Um quadriciclo."
+      },
+      {
+        "option": "C",
+        "text": "Um velocípede."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2015",
+    "text": "Qual o significado da sinalização vertical de proibição?",
+    "href": "https://www.bomcondutor.pt/questao/2015",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2015.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Velocidade máxima permitida."
+      },
+      {
+        "option": "B",
+        "text": "Velocidade máxima recomendada."
+      },
+      {
+        "option": "C",
+        "text": "Velocidade mínima permitida."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2016",
+    "text": "Qual o significado do sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/2016",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2016.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da obrigação de ceder a passagem aos veículos que circulam em sentido contrário."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de sinais sonoros."
+      },
+      {
+        "option": "C",
+        "text": "Fim de todas as proibições impostas anteriormente por sinalização a veículos em marcha."
+      },
+      {
+        "option": "D",
+        "text": "Fim de via com prioridade."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2017",
+    "text": "Qual o significado do sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/2017",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2017.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Curva perigosa à esquerda."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de inverter o sentido de marcha."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de mudança de direcção à esquerda."
+      },
+      {
+        "option": "D",
+        "text": "Via pública sem saída."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2018",
+    "text": "Que significado tem a sinalização vertical?",
+    "href": "https://www.bomcondutor.pt/questao/2018",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2018.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Obrigação de circular à velocidade indicada no sinal."
+      },
+      {
+        "option": "B",
+        "text": "Proibição de circular a velocidade inferior a 30 km/h."
+      },
+      {
+        "option": "C",
+        "text": "Proibição de circular a velocidade superior a 30 km/h."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2019",
+    "text": "Que significado tem o sinal vertical?",
+    "href": "https://www.bomcondutor.pt/questao/2019",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2019.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fim da obrigação de utilizar os sinais sonoros à noite."
+      },
+      {
+        "option": "B",
+        "text": "Fim da proibição de ultrapassar sem buzinar."
+      },
+      {
+        "option": "C",
+        "text": "Fim da proibição de utilizar sinais sonoros."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2020",
+    "text": "Se conduzir um automóvel ligeiro de passageiros, posso mudar de direcção à direita no próximo entroncamento?",
+    "href": "https://www.bomcondutor.pt/questao/2020",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2020.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2021",
+    "text": "Tendo em conta a sinalização vertical, que veículos podem circular nesta via?",
+    "href": "https://www.bomcondutor.pt/questao/2021",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2021.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Apenas os automóveis ligeiros e pesados."
+      },
+      {
+        "option": "B",
+        "text": "Os automóveis e os motociclos de cilindrada superior a 50cm3."
+      },
+      {
+        "option": "C",
+        "text": "Todos, à excepção dos veículos de tracção animal."
+      },
+      {
+        "option": "D",
+        "text": "Todos, à excepção dos velocípedes e dos ciclomotores."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2022",
+    "text": "Um veículo com altura superior a 2 metros pode circular nesta via pública?",
+    "href": "https://www.bomcondutor.pt/questao/2022",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2022.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim, desde que não seja superior à indicada no sinal."
+      }
+    ],
+    "correctAnswer": "B"
+  }
+]

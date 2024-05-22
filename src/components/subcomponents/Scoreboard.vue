@@ -29,7 +29,7 @@
         </p>
       </div>
 
-      <div class="text-right space-y-1" v-if="isQuizzOver">
+      <div class="text-right space-y-1" v-if="score.isQuizzOver">
         <p class="font-medium text-blue-500">
           Correct answers: {{ correctPercentage.toFixed(2) }}%
         </p>
@@ -54,7 +54,6 @@ const props = defineProps({
       };
     },
   },
-  isQuizzOver: { type: Boolean, default: false },
 });
 
 const progress = computed(

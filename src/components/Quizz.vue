@@ -1,8 +1,5 @@
 <template>
-  <Scoreboard
-    :score="appStore.score(category.id)"
-    :isQuizzOver="appStore.isQuizzOver"
-  />
+  <Scoreboard :score="appStore.score(category.id)" />
   <div
     class="bg-gray-200 min-h-screen flex flex-col items-center justify-start pt-1 rounded-md"
   >
@@ -16,7 +13,10 @@
         :selectedAnswer="selectedAnswer"
         @select-answer="selectAnswer"
       />
-      <div v-else-if="appStore.isQuizzOver" class="flex flex-col items-center">
+      <div
+        v-else-if="appStore.score(category.id).isQuizzOver"
+        class="flex flex-col items-center"
+      >
         <button
           @click="restartQuizz"
           class="mt-4 bg-blue-500 text-white px-4 py-2 rounded shadow"
@@ -73,7 +73,6 @@
       nextQuestion();
 
       if (currentQuestionIndex.value >= questions.value.length) {
-        console.log('OVER: ');
         endQuiz();
       } else {
         // logQuestion();
@@ -83,7 +82,7 @@
   };
 
   function endQuiz() {
-    appStore.setIsQuizzOver(true);
+    appStore.setIsQuizzOver(props.category.id, true);
     appStore.saveScoreToHistory(props.category.id);
   }
 
@@ -94,7 +93,6 @@
   function restartQuizz() {
     appStore.restartQuizz(props.category.id);
     loadQuestions().then(() => {
-      console.log('restarted');
       currentQuestionIndex.value = 0;
     });
   }
@@ -102,19 +100,23 @@
   async function loadQuestions() {
     try {
       let allQuestions;
-      if (import.meta.env.MODE === 'development') {
-        const jsonData = await import(
-          /* @vite-ignore */ props.category.jsonPath
-        );
-        allQuestions = jsonData.default;
-      } else {
-        const basePath = import.meta.env.BASE_URL;
-        const jsonPath = `${basePath}${props.category.jsonPath.slice(2)}`;
-        const response = await fetch(jsonPath);
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
+      if (props.category.jsonPath) {
+        if (import.meta.env.MODE === 'development') {
+          const jsonData = await import(
+            /* @vite-ignore */ props.category.jsonPath
+          );
+          allQuestions = jsonData.default;
+        } else {
+          const basePath = import.meta.env.BASE_URL;
+          const jsonPath = `${basePath}${props.category.jsonPath.slice(2)}`;
+          const response = await fetch(jsonPath);
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          allQuestions = await response.json();
         }
-        allQuestions = await response.json();
+      } else {
+        allQuestions = props.category.questions;
       }
 
       appStore.setTotal({

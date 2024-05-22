@@ -26,7 +26,7 @@
             <div class="hidden md:block">
               <div class="ml-10 flex items-baseline space-x-4">
                 <a
-                  v-for="item in navigation"
+                  v-for="item in visibleNavigation"
                   :key="item.name"
                   @click="handleClick(item)"
                   :class="[
@@ -87,6 +87,7 @@
 </template>
 
 <script setup>
+  import { ref, computed } from 'vue';
   import {
     Disclosure,
     DisclosureButton,
@@ -94,14 +95,32 @@
   } from '@headlessui/vue';
   import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline';
   import { useMenuStore } from '../stores/menu';
-  import { ref } from 'vue';
+
+  const props = defineProps({
+    isWrongAnswersActive: {
+      type: Boolean,
+      required: true,
+    },
+  });
 
   const menuStore = useMenuStore();
 
   const navigation = ref([
     { name: 'Menu', current: false },
+    { name: 'Questões Erradas', current: false },
     { name: 'Estatísticas', current: false },
   ]);
+
+  const visibleNavigation = computed(() => {
+    return navigation.value.filter((item) => {
+      if (item.name === 'Questões Erradas') {
+        return props.isWrongAnswersActive;
+      }
+      return true;
+    });
+  });
+
+  const emit = defineEmits(['selectTopbar']);
 
   function handleClick(navItem) {
     switch (navItem.name) {
@@ -110,6 +129,10 @@
           menuStore.setSelectedCategory();
         }
         break;
+      case 'Questões Erradas':
+        if (navItem.current === false) {
+          emit('selectTopbar', '0');
+        }
 
       default:
         break;

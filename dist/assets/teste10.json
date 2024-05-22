@@ -1,0 +1,208 @@
+[
+  {
+    "id": "2304",
+    "text": "À distância a que me encontro do sinal, devo:",
+    "href": "https://www.bomcondutor.pt/questao/2304",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2304.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aumentar a velocidade, para continuar a marcha sem imobilizar o veículo."
+      },
+      {
+        "option": "B",
+        "text": "Parar."
+      },
+      {
+        "option": "C",
+        "text": "Reduzir a velocidade, com o objectivo de imobilizar o veículo perto do sinal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2305",
+    "text": "A função das guias é tornar os limites da faixa de rodagem mais visíveis. Concorda com esta afirmação?",
+    "href": "https://www.bomcondutor.pt/questao/2305",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2305.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Não."
+      },
+      {
+        "option": "B",
+        "text": "Sim."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2306",
+    "text": "A indicação dada pelo agente regulador de trânsito destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2306",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2306.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A fazer parar o trânsito."
+      },
+      {
+        "option": "B",
+        "text": "A mandar avançar o trânsito."
+      },
+      {
+        "option": "C",
+        "text": "A obrigar todos os condutores a abrandar marcha."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2307",
+    "text": "A indicação dada pelo agente regulador de trânsito obriga o trânsito que vem da sua frente e da sua retaguarda a:",
+    "href": "https://www.bomcondutor.pt/questao/2307",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2307.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar."
+      },
+      {
+        "option": "B",
+        "text": "Moderar a velocidade."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2308",
+    "text": "A indicação dada pelo agente regulador de trânsito significa que devo:",
+    "href": "https://www.bomcondutor.pt/questao/2308",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2308.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Avançar."
+      },
+      {
+        "option": "B",
+        "text": "Parar, unicamente se a minha intenção for seguir em frente."
+      },
+      {
+        "option": "C",
+        "text": "Parar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2309",
+    "text": "A indicação dada pelo agente regulador de trânsito, destina-se ao trânsito:",
+    "href": "https://www.bomcondutor.pt/questao/2309",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2309.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Da direita."
+      },
+      {
+        "option": "B",
+        "text": "Em sentido contrário ao meu."
+      },
+      {
+        "option": "C",
+        "text": "Que circula à minha retaguarda."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2310",
+    "text": "A indicação dada pelo agente regulador de trânsito, destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2310",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2310.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Aos condutores à minha direita."
+      },
+      {
+        "option": "B",
+        "text": "Aos condutores à minha esquerda."
+      },
+      {
+        "option": "C",
+        "text": "Aos condutores que transitam na minha via de trânsito."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2311",
+    "text": "A indicação dada pelo agente regulador de trânsito, destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2311",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2311.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao trânsito à sua direita."
+      },
+      {
+        "option": "B",
+        "text": "Ao trânsito à sua retaguarda."
+      },
+      {
+        "option": "C",
+        "text": "Ao trânsito da frente."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2312",
+    "text": "A indicação dada pelo sinal luminoso destina-se:",
+    "href": "https://www.bomcondutor.pt/questao/2312",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2312.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Ao trânsito das duas vias de trânsito."
+      },
+      {
+        "option": "B",
+        "text": "Aos dois sentidos de trânsito."
+      },
+      {
+        "option": "C",
+        "text": "Apenas ao trânsito da via de trânsito da direita."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2313",
+    "text": "A linha amarela do lado direito da faixa de rodagem significa que:",
+    "href": "https://www.bomcondutor.pt/questao/2313",
+    "questionImageURL": "https://www.bomcondutor.pt/assets/images/questions/2313.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "A via de trânsito vai estar sujeita a obras e não posso parar neste local, salvo para a entrada ou saída de passageiros e desde que esteja pronto a retomar a marcha se dificultar o trânsito ou as obras."
+      },
+      {
+        "option": "B",
+        "text": "É proibido parar ou estacionar em toda a extensão da linha, excepto para efectuar cargas ou descargas."
+      },
+      {
+        "option": "C",
+        "text": "É proibido parar ou estacionar em toda a extensão da linha."
+      }
+    ],
+    "correctAnswer": "C"
+  }
+]

@@ -4,7 +4,6 @@ import { ref, computed } from 'vue';
 export const useAppStore = defineStore(
   'app',
   () => {
-    const isQuizzOver = ref(false);
     const scores = ref({});
     const pastScores = ref({});
 
@@ -13,6 +12,7 @@ export const useAppStore = defineStore(
         ...getScore(category),
         total: scores.value[category].total,
         answered: getQuestionsAnswered(category).length,
+        isQuizzOver: scores.value[category].isQuizzOver
       };
     });
 
@@ -26,7 +26,9 @@ export const useAppStore = defineStore(
           wrong: {
             value: 0,
             ids: [],
-          }
+          },
+          isQuizzOver: false,
+          total: 0
         };
       }
     }
@@ -49,7 +51,7 @@ export const useAppStore = defineStore(
     }
 
     function restartQuizz(category) {
-      setIsQuizzOver(false)
+      // setIsQuizzOver(categfalse)
       delete scores.value[category]
     }
 
@@ -66,11 +68,15 @@ export const useAppStore = defineStore(
     function setTotal(data) {
       const { total, categoryId } = data;
 
+      if (!scores.value[categoryId]) {
+        createScoreState(categoryId)
+      }
+
       scores.value[categoryId].total = total;
     }
 
-    function setIsQuizzOver(value) {
-      isQuizzOver.value = value;
+    function setIsQuizzOver(category, value) {
+      scores.value[category].isQuizzOver = value
     }
 
     function saveScoreToHistory(category) {
@@ -85,6 +91,34 @@ export const useAppStore = defineStore(
       });
     }
 
+    function getAllPastWrongAnswers() {
+      const wrongAnswers = {};
+
+      Object.entries(pastScores.value).forEach(([categoryId, pastScoresData]) => {
+        pastScoresData.forEach((pastScore) => {
+          if (pastScore.wrong.ids.length) {
+            wrongAnswers[categoryId] = wrongAnswers[categoryId] || [];
+            wrongAnswers[categoryId].push(...pastScore.wrong.ids);
+          }
+        });
+      });
+
+      return wrongAnswers;
+    }
+
+    function getAllCurrentWrongAnswers() {
+      const wrongAnswers = {};
+
+      Object.entries(scores.value).forEach(([categoryId, scoreData]) => {
+        if (scoreData.wrong.ids.length) {
+          wrongAnswers[categoryId] = wrongAnswers[categoryId] || [];
+          wrongAnswers[categoryId].push(...scoreData.wrong.ids);
+        }
+      });
+
+      return wrongAnswers;
+    }
+
     return {
       score,
       createScoreState,
@@ -93,10 +127,11 @@ export const useAppStore = defineStore(
       setTotal,
       scores,
       setIsQuizzOver,
-      isQuizzOver,
       saveScoreToHistory,
       pastScores,
-      restartQuizz
+      restartQuizz,
+      getAllPastWrongAnswers,
+      getAllCurrentWrongAnswers
     };
   },
   { persist: true }

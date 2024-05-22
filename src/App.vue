@@ -1,5 +1,8 @@
 <template>
-  <Topbar />
+  <Topbar
+    @selectTopbar="handleSelect"
+    :isWrongAnswersActive="isWrongAnswersActive"
+  />
   <main>
     <div class="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
       <Menu
@@ -16,19 +19,44 @@
 </template>
 
 <script setup>
+  import { ref, computed } from 'vue';
   import Quizz from './components/Quizz.vue';
   import Menu from './components/Menu.vue';
   import Topbar from './components/Topbar.vue';
 
   import { useMenuStore } from './stores/menu';
+  import { useAppStore } from './stores/app';
 
   const menuStore = useMenuStore();
+  const appStore = useAppStore();
+  const isWrongAnswersActive = computed(() =>
+    categories.value.some((cat) => cat.id == 0)
+  );
 
   const handleSelect = (category) => {
+    if (category === '0') {
+      category = categories.value.filter((cat) => cat.id === 0)[0];
+    }
     menuStore.setSelectedCategory(category);
   };
 
-  const categories = [
+  const categories = ref([]);
+
+  if (import.meta.env.MODE === 'development') {
+    categories.value.push(
+      {
+        id: 18,
+        name: '2Questions',
+        jsonPath: '../assets/teste2.json',
+      },
+      {
+        id: 17,
+        name: '10Questions',
+        jsonPath: '../assets/teste10.json',
+      }
+    );
+  }
+  categories.value.push(
     {
       id: 1,
       name: 'Cedência de Passagem',
@@ -102,16 +130,98 @@
       jsonPath:
         '../assets/titulos_de_conducao_obtencao_revalidacao_responsabilidade_civil_e_criminal_contra-ordenacoes_cassacao.json',
     },
-    { id: 14, name: 'Ultrapassagem', jsonPath: '../assets/ultrapassagem.json' },
+    {
+      id: 14,
+      name: 'Ultrapassagem',
+      jsonPath: '../assets/ultrapassagem.json',
+    },
     { id: 15, name: 'Velocidade', jsonPath: '../assets/velocidade.json' },
     {
       id: 16,
       name: 'Vias de trânsito, condições ambientais adversas',
       jsonPath: '../assets/vias_de_transito_condicoes_ambientais_adversas.json',
-    },
-  ];
-</script>
+    }
+  );
 
-<style scoped>
-  /* Add your custom styles here if needed */
-</style>
+  async function loadAndFilterWrongAnswers(allWrongAnswers) {
+    async function loadJson(category) {
+      let allQuestions;
+      if (import.meta.env.MODE === 'development') {
+        const jsonData = await import(
+          /* @vite-ignore */ category.jsonPath.slice(1)
+        );
+        allQuestions = jsonData.default;
+      } else {
+        const basePath = import.meta.env.BASE_URL;
+        const jsonPath = `${basePath}${category.jsonPath.slice(2)}`;
+        const response = await fetch(jsonPath);
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        allQuestions = await response.json();
+      }
+      return allQuestions;
+    }
+
+    function filterWrongAnswers(questions, wrongAnswerIds) {
+      return questions.filter((question) =>
+        wrongAnswerIds.includes(String(question.id))
+      );
+    }
+
+    const result = {};
+
+    for (const categoryKey in allWrongAnswers) {
+      if (allWrongAnswers.hasOwnProperty(categoryKey)) {
+        const wrongAnswerIds = allWrongAnswers[categoryKey];
+
+        // Find the category in the categories array
+        const category = categories.value.find(
+          (cat) => cat.id === parseInt(categoryKey, 10)
+        );
+
+        if (category) {
+          try {
+            const allQuestions = await loadJson(category);
+            const filteredQuestions = filterWrongAnswers(
+              allQuestions,
+              wrongAnswerIds
+            );
+            result[categoryKey] = filteredQuestions;
+          } catch (error) {
+            console.error(
+              `Error loading or filtering questions for category ${category.name}:`,
+              error
+            );
+          }
+        } else {
+          console.warn(
+            `Category with id ${categoryKey} not found in categories array.`
+          );
+        }
+      }
+    }
+
+    return result;
+  }
+
+  const allPastWrongAnswers = appStore.getAllPastWrongAnswers();
+
+  if (Object.keys(allPastWrongAnswers).length !== 0) {
+    loadAndFilterWrongAnswers(allPastWrongAnswers).then((pastWrongAnswers) => {
+      const allQuestions = Object.values(pastWrongAnswers).reduce(
+        (acc, question) => acc.concat(question),
+        []
+      );
+
+      const wrongAnswersCategory = {
+        id: 0,
+        name: 'Questões Erradas',
+        jsonPath: null,
+        questions: allQuestions,
+      };
+
+      categories.value.push(wrongAnswersCategory);
+    });
+  }
+</script>

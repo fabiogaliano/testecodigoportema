@@ -30,7 +30,5 @@ bun build
 
 ### Todo
 
-[] botão para voltar atrás na pergunta
-[x] quizz só de perguntas erradas
-
-- [] fix reactividade botão 'perguntas erradas' ()
+[ ] botão para voltar atrás na pergunta
+[ ] aquando quizz perguntas erradas, remover as certas

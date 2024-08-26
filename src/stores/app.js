@@ -119,6 +119,48 @@ export const useAppStore = defineStore(
       return wrongAnswers;
     }
 
+    const exportFilename = ref(null);
+
+    async function exportState() {
+      const state = {
+        scores: scores.value,
+        pastScores: pastScores.value,
+      };
+      const blob = new Blob([JSON.stringify(state)], { type: 'application/json' });
+
+      if (navigator.userAgent.match(/iPhone/i)) {
+        // For iPhone, use a different approach
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'quizz_state.json';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        exportFilename.value = 'quizz_state.json';
+      } else {
+        try {
+          const handle = await window.showDirectoryPicker();
+          const newFileHandle = await handle.getFileHandle('quizz_state.json', { create: true });
+          const writable = await newFileHandle.createWritable();
+          await writable.write(blob);
+          await writable.close();
+          exportFilename.value = 'quizz_state.json';
+        } catch (err) {
+          console.error('Error exporting state:', err);
+        }
+      }
+    }
+
+    async function loadState(file) {
+      const text = await file.text();
+      const state = JSON.parse(text);
+      scores.value = state.scores;
+      pastScores.value = state.pastScores;
+      exportFilename.value = file.name;
+    }
+
     return {
       score,
       createScoreState,
@@ -131,7 +173,11 @@ export const useAppStore = defineStore(
       pastScores,
       restartQuizz,
       getAllPastWrongAnswers,
-      getAllCurrentWrongAnswers
+      getAllCurrentWrongAnswers,
+      exportState,
+      loadState,
+      exportFilename,
+      removeFromPastWrongAnswers,
     };
   },
   { persist: true }

@@ -66,7 +66,7 @@
       <DisclosurePanel class="md:hidden">
         <div class="space-y-1 px-2 pb-3 pt-2 sm:px-3">
           <DisclosureButton
-            v-for="item in navigation"
+            v-for="item in visibleNavigation"
             @click="handleClick(item)"
             :key="item.name"
             as="a"
@@ -97,7 +97,7 @@
   import { useMenuStore } from '../stores/menu';
 
   const props = defineProps({
-    isWrongAnswersActive: {
+    isWrongAnswersTabActive: {
       type: Boolean,
       required: true,
     },
@@ -108,18 +108,16 @@
   const navigation = ref([
     { name: 'Menu', current: false },
     { name: 'Questões Erradas', current: false },
+    { name: 'Exportar/Importar Progresso', current: false },
     { name: 'Estatísticas', current: false },
   ]);
 
-  const visibleNavigation = computed(() => {
-    return navigation.value.filter((item) => {
-      if (item.name === 'Questões Erradas') {
-        return props.isWrongAnswersActive;
-      }
-      return true;
-    });
-  });
-
+  const visibleNavigation = computed(() =>
+    navigation.value.filter(
+      (item) =>
+        item.name !== 'Questões Erradas' || props.isWrongAnswersTabActive
+    )
+  );
   const emit = defineEmits(['selectTopbar']);
 
   function handleClick(navItem) {
@@ -131,8 +129,14 @@
         break;
       case 'Questões Erradas':
         if (navItem.current === false) {
-          emit('selectTopbar', '0');
+          emit('selectTopbar', 'questoes erradas');
         }
+        break;
+      case 'Exportar/Importar Progresso':
+        if (navItem.current === false) {
+          emit('selectTopbar', 'export/import');
+        }
+        break;
 
       default:
         break;

@@ -1,41 +1,40 @@
 <template>
   <Topbar
-    @selectTopbar="handleSelect"
-    :isWrongAnswersActive="isWrongAnswersActive"
+    @selectTopbar="handleMenuSelection"
+    :isWrongAnswersTabActive="isWrongAnswersTabActive"
   />
   <main>
     <div class="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
       <Menu
         :categories="categories"
-        @select="handleSelect"
-        v-show="!menuStore.selectedCategory"
+        @select="handleMenuSelection"
+        v-show="!menuStore.selectedCategory && !menuStore.isImportExportActive"
       />
       <Quizz
-        v-if="menuStore.selectedCategory"
+        v-if="menuStore.selectedCategory && !menuStore.isImportExportActive"
         :category="menuStore.selectedCategory"
       />
+      <ExportImport v-if="menuStore.isImportExportActive" />
     </div>
   </main>
 </template>
 
 <script setup>
-  import { ref, computed } from 'vue';
-  import Quizz from './components/Quizz.vue';
-  import Menu from './components/Menu.vue';
-  import Topbar from './components/Topbar.vue';
+  import { ref, computed, onMounted, watch } from 'vue';
+  import { Quizz, Menu, Topbar, ExportImport } from './components';
 
   import { useMenuStore } from './stores/menu';
   import { useAppStore } from './stores/app';
 
   const menuStore = useMenuStore();
   const appStore = useAppStore();
-  const isWrongAnswersActive = computed(() =>
+  const isWrongAnswersTabActive = computed(() =>
     categories.value.some((cat) => cat.id == 0)
   );
 
-  const handleSelect = (category) => {
-    if (category === '0') {
-      category = categories.value.filter((cat) => cat.id === 0)[0];
+  const handleMenuSelection = (category) => {
+    if (category === 'questoes erradas') {
+      category = categories.value.find((cat) => cat.id === 0);
     }
     menuStore.setSelectedCategory(category);
   };
@@ -46,12 +45,12 @@
     categories.value.push(
       {
         id: 18,
-        name: '2Questions',
+        name: '2 Questions',
         jsonPath: '../assets/teste2.json',
       },
       {
         id: 17,
-        name: '10Questions',
+        name: '10 Questions',
         jsonPath: '../assets/teste10.json',
       }
     );
@@ -164,8 +163,9 @@
     }
 
     function filterWrongAnswers(questions, wrongAnswerIds) {
+      const wrongAnswerSet = new Set(wrongAnswerIds);
       return questions.filter((question) =>
-        wrongAnswerIds.includes(String(question.id))
+        wrongAnswerSet.has(String(question.id))
       );
     }
 
@@ -175,7 +175,6 @@
       if (allWrongAnswers.hasOwnProperty(categoryKey)) {
         const wrongAnswerIds = allWrongAnswers[categoryKey];
 
-        // Find the category in the categories array
         const category = categories.value.find(
           (cat) => cat.id === parseInt(categoryKey, 10)
         );
@@ -205,23 +204,40 @@
     return result;
   }
 
-  const allPastWrongAnswers = appStore.getAllPastWrongAnswers();
+  const updateWrongAnswersCategory = async () => {
+    const allPastWrongAnswers = appStore.getAllPastWrongAnswers();
 
-  if (Object.keys(allPastWrongAnswers).length !== 0) {
-    loadAndFilterWrongAnswers(allPastWrongAnswers).then((pastWrongAnswers) => {
+    if (Object.keys(allPastWrongAnswers).length !== 0) {
+      const pastWrongAnswers = await loadAndFilterWrongAnswers(
+        allPastWrongAnswers
+      );
       const allQuestions = Object.values(pastWrongAnswers).reduce(
         (acc, question) => acc.concat(question),
         []
       );
 
-      const wrongAnswersCategory = {
-        id: 0,
-        name: 'Questões Erradas',
-        jsonPath: null,
-        questions: allQuestions,
-      };
+      const existingWrongAnswersCategory = categories.value.find(
+        (cat) => cat.id === 0
+      );
+      if (existingWrongAnswersCategory) {
+        existingWrongAnswersCategory.questions = allQuestions;
+      } else {
+        categories.value.push({
+          id: 0,
+          name: 'Questões Erradas',
+          jsonPath: null,
+          questions: allQuestions,
+        });
+      }
+    } else {
+      // Remove the wrong answers category if there are no more wrong answers
+      categories.value = categories.value.filter((cat) => cat.id !== 0);
+    }
+  };
 
-      categories.value.push(wrongAnswersCategory);
-    });
-  }
+  onMounted(() => {
+    updateWrongAnswersCategory();
+  });
+
+  watch(() => appStore.pastScores, updateWrongAnswersCategory, { deep: true });
 </script>

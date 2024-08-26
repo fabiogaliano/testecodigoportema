@@ -177,7 +177,6 @@ export const useAppStore = defineStore(
       exportState,
       loadState,
       exportFilename,
-      removeFromPastWrongAnswers,
     };
   },
   { persist: true }
